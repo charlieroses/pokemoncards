@@ -41,7 +41,7 @@ def convertCSV(csvFileName):
 	
 	#Removes new line characters and splits the csv file into a list of lists
 	for i in range(len(csvFile)):
-		csvFile[i] = csvFile[i][0:-1]
+		csvFile[i] = csvFile[i].replace("\n", "")
 		csvFile[i] = csvFile[i].split(",")
 	
 	jsonFile.write("[")
