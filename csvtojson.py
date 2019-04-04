@@ -43,10 +43,11 @@ def convertCSV(csvFileName):
 	for i in range(len(csvFile)):
 		csvFile[i] = csvFile[i].replace("\n", "")
 		csvFile[i] = csvFile[i].split(",")
-	
+
 	jsonFile.write("[")
 	for i in range(len(csvFile) - 1):
 		i += 1
+
 		if i != 1:
 			jsonFile.write(",")
 
