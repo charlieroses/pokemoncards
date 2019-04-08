@@ -61,3 +61,8 @@
 #cards {
   margin-left: 80px;
 }
+
+#setTemplate {
+  display: none;
+  margin-left: 80px;
+}

@@ -8,6 +8,11 @@ var viewMenu = {
 		"sort"		: false,
 };
 
+var viewMain = {
+	start : true,
+	setPage: false
+};
+
 function init()
 {
     pass;
@@ -45,8 +50,21 @@ function toggleTab(tabID)
 
 function viewSet(setName)
 {
-	document.getElementById("cardTitle").innerHTML = setName;
+	filename = setName.toLowerCase();
+	filename = filename.replace(/ /g, "");
+	filename = filename.replace("/", "");
+
 	if(viewMenu["main"])
 		toggleMenu();
-
+	
+	if( !viewMain["setPage"] )
+	{
+		viewMain["start"] = false;
+		document.getElementById("cards").style.display = "none";
+		viewMain["setPage"] = true;
+		document.getElementById("setTemplate").style.display = "block";
+	}
+	
+	document.getElementById("setTitle").innerHTML = setName;
+	document.getElementById("setImage").src = "images/sets/" + filename + ".png"
 }
