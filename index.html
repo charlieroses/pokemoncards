@@ -3,12 +3,156 @@
 <html>
 <head>
     <title>Pokemon Cards</title>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="./index.css">
+	<script src="./index.js"></script>
 </head>
 <body>
     <div id="menu">
-        I guess a menu of cards
-    </div>
+		<button id="toggleButton" onclick="toggleMenu()">&#9776;</button>
+		
+		<div id="clicky">
+		<button class="expandButton" onclick="toggleTab('sets')">Sets <span id="setsP">&#9660;</span></button>
+		<div class="expandDiv" id="sets">
+			<button class="linkButton">Ancient Origins</button>
+			<button class="linkButton">Aquapolis</button>
+			<button class="linkButton">Arceus</button>
+			<button class="linkButton">Base Set 1</button>
+			<button class="linkButton">Base Set 2</button>
+			<button class="linkButton">Black and White Base Set</button>
+			<button class="linkButton">BREAKPoint</button>
+			<button class="linkButton">BREAKThrough</button>
+			<button class="linkButton">Boundaries Crossed</button>
+			<button class="linkButton">Burning Shadows</button>
+			<button class="linkButton">Call of Legends</button>
+			<button class="linkButton">Celestial Storm</button>
+			<button class="linkButton">Crimson Invasion</button>
+			<button class="linkButton">Crystal Guardians</button>
+			<button class="linkButton">Dark Explorers</button>
+			<button class="linkButton">Delta Species</button>
+			<button class="linkButton">Deoxys</button>
+			<button class="linkButton">Detective Pikachu</button>
+			<button class="linkButton">Diamond and Pearl</button>
+			<button class="linkButton">Double Crisis</button>
+			<button class="linkButton">Dragon</button>
+			<button class="linkButton">Dragon Frontiers</button>
+			<button class="linkButton">Dragon Majesty</button>
+			<button class="linkButton">Dragons Exhaulted</button>
+			<button class="linkButton">Dragons Vault</button>
+			<button class="linkButton">Emerald</button>
+			<button class="linkButton">Emerging Powers</button>
+			<button class="linkButton">Evolutions</button>
+			<button class="linkButton">Expedition</button>
+			<button class="linkButton">Fates Collide</button>
+			<button class="linkButton">Fire Red and Leaf Green</button>
+			<button class="linkButton">Flashfire</button>
+			<button class="linkButton">Forbidden Light</button>
+			<button class="linkButton">Fossil</button>
+			<button class="linkButton">Furious Fists</button>
+			<button class="linkButton">Generations</button>
+			<button class="linkButton">Great Encounters</button>
+			<button class="linkButton">Guardians Rising</button>
+			<button class="linkButton">Gym Challenge</button>
+			<button class="linkButton">Gym Heroes</button>
+			<button class="linkButton">HeartGold/SoulSilver</button>
+			<button class="linkButton">Hidden Legends</button>
+			<button class="linkButton">Holon Phantoms</button>
+			<button class="linkButton">Jungle</button>
+			<button class="linkButton">Kalos Starter Set</button>
+			<button class="linkButton">Legend Maker</button>
+			<button class="linkButton">Legendary Collection</button>
+			<button class="linkButton">Legendary Treasures</button>
+			<button class="linkButton">Legends Awakened</button>
+			<button class="linkButton">Lost Thunder</button>
+			<button class="linkButton">Majestic Dawn</button>
+			<button class="linkButton">McDonald's Collection</button>
+			<button class="linkButton">Mysterious Treasures</button>
+			<button class="linkButton">Neo Destiny</button>
+			<button class="linkButton">Neo Discovery</button>
+			<button class="linkButton">Neo Revelation</button>
+			<button class="linkButton">Neo Genesis</button>
+			<button class="linkButton">Next Destinies</button>
+			<button class="linkButton">Noble Victories</button>
+			<button class="linkButton">Phantom Forces</button>
+			<button class="linkButton">Platinum Base Set</button>
+			<button class="linkButton">Plasma Blast</button>
+			<button class="linkButton">Plasma Freeze</button>
+			<button class="linkButton">Plasma Storm</button>
+			<button class="linkButton">Power Keepers</button>
+			<button class="linkButton">Primal Clash</button>
+			<button class="linkButton">Rising Rivals</button>
+			<button class="linkButton">Roaring Skies</button>
+			<button class="linkButton">Ruby and Sapphire</button>
+			<button class="linkButton">Sandstorm</button>
+			<button class="linkButton">Secret Wonders</button>
+			<button class="linkButton">Shining Legends</button>
+			<button class="linkButton">Skyridge</button>
+			<button class="linkButton">Steam Siege</button>
+			<button class="linkButton">Stormfront</button>
+			<button class="linkButton">Supreme Victors</button>
+			<button class="linkButton">Sun & Moon</button>
+			<button class="linkButton">Team Rocket</button>
+			<button class="linkButton">Team Rocket Returns</button>
+			<button class="linkButton">Team Magma vs Aqua</button>
+			<button class="linkButton">Team Up</button>
+			<button class="linkButton">Triumphant</button>
+			<button class="linkButton">Ultra Prism</button>
+			<button class="linkButton">Unbroken Bonds</button>
+			<button class="linkButton">Undaunted</button>
+			<button class="linkButton">Unleashed</button>
+			<button class="linkButton">Unseen Forces</button>
+			<button class="linkButton">XY</button>
+		</div>
+		
+		<button class="expandButton" onclick="toggleTab('halfdecks')">Half Decks <span id="halfdecksP">&#9660;</span></button>
+		<div class="expandDiv" id="halfdecks">
+			<button class="linkButton">Alolan Raichu</button>
+			<button class="linkButton">Bisharp</button>
+			<button class="linkButton">Excadrill</button>
+			<button class="linkButton">Gyarados</button>
+			<button class="linkButton">Latias</button>
+			<button class="linkButton">Latios</button>
+			<button class="linkButton">Lucario</button>
+			<button class="linkButton">Lycanroc</button>
+			<button class="linkButton">Manaphy</button>
+			<button class="linkButton">Minun</button>
+			<button class="linkButton">Noivern</button>
+			<button class="linkButton">Pikachu Libre</button>
+			<button class="linkButton">Plusle</button>
+			<button class="linkButton">Raichu</button>
+			<button class="linkButton">Suicune</button>
+			<button class="linkButton">Sylveon</button>
+			<button class="linkButton">WigglyTuff</button>
+			<button class="linkButton">XY Latias</button>
+			<button class="linkButton">XY Latios</button>
+			<button class="linkButton">Zoroark</button>
+		</div>
+		
+		<button class="expandButton" onclick="toggleTab('promo')">Promo Cards <span id="promoP">&#9660;</span></button>
+		<div class="expandDiv" id="promo">
+			<button class="expandButton" onclick="toggleTab('pop')">POP Series <span id="popP">&#9660;</span></button>
+			<div class="expandDiv" id="pop">
+				<button class="linkButton">Series 1</button>
+				<button class="linkButton">Series 2</button>
+				<button class="linkButton">Series 3</button>
+				<button class="linkButton">Series 4</button>
+				<button class="linkButton">Series 5</button>
+				<button class="linkButton">Series 6</button>
+				<button class="linkButton">Series 7</button>
+				<button class="linkButton">Series 8</button>
+				<button class="linkButton">Series 9</button>
+			</div>
+			<button class="expandButton" onclick="toggleTab('blackstar')">Black Star Promo <span id="blackstarP">&#9660;</span></button>
+			<div class="expandDiv" id="blackstar">
+				<button class="linkButton">Black and White</button>
+				<button class="linkButton">Diamond and Pearl</button>
+				<button class="linkButton">HeartGold/SoulSilver</button>
+				<button class="linkButton">Sun and Moon</button>
+				<button class="linkButton">X and Y</button>
+			</div>
+		</div>
+		<br>
+		</div>
+	</div>
     <div id="cards">
         <h1>Pokemon Card Database</h1>
         <hr>

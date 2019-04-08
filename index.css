@@ -1,0 +1,41 @@
+#menu {
+  background-color: rgba(0, 0, 0, 0.7);
+  height: 90%;
+  left: 0;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding-top: 80px;
+  position: fixed;
+  transition: 0.5s;
+  top: 0;
+  width: 80px;
+  z-index: 1; }
+  #menu #toggleButton {
+    background-color: transparent;
+    border-style: hidden;
+    color: #FFFFFF;
+    font-size: 36px;
+    position: absolute;
+    right: 20px;
+    top: 25px; }
+  #menu #clicky {
+    text-align: center; }
+    #menu #clicky button {
+      color: #FFFFFF;
+      display: block;
+      font-size: 20px;
+      width: 300px; }
+    #menu #clicky .expandButton {
+      background-color: rgba(255, 0, 0, 0);
+      position: relative; }
+      #menu #clicky .expandButton span {
+        color: #FF0000;
+        right: 0;
+        position: absolute; }
+    #menu #clicky .expandDiv {
+      height: 0;
+      overflow-x: hidden;
+      overflow-y: hidden; }
+    #menu #clicky .linkButton {
+      background-color: rgba(0, 255, 0, 0);
+      border-style: hidden; }
