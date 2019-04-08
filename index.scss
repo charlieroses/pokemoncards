@@ -1,6 +1,12 @@
+::-webkit-scrollbar 
+{
+	background: transparent;
+	width: 0px;
+}
+
 #menu
 {
-	background-color: rgba(0,0,0, 0.7);
+	background-color: #000000;
 	height: 90%;
 	left: 0;
 	overflow-x: hidden;
@@ -25,6 +31,7 @@
 	
 	#clicky
 	{
+		margin-left: 80px;
 		text-align: center;
 
 		button
@@ -38,11 +45,14 @@
 		.expandButton
 		{
 			background-color: rgba(255,0,0,0);
+			border-style: hidden;
+			font-weight: bold;
 			position: relative;
+			margin-top: 5px;
 
 			span
 			{
-				color: #FF0000;
+				color: #FFFFFF;
 				right: 0;
 				position: absolute;
 			}
@@ -59,6 +69,13 @@
 		{
 			background-color: rgba(0,255,0,0);
 			border-style: hidden;
+			font-size: 18px;
 		}
 	}
+}
+
+
+#cards
+{
+	margin-left: 80px;
 }

@@ -8,8 +8,6 @@ var viewMenu = {
 		"sort"		: false,
 };
 
-
-
 function init()
 {
     pass;
@@ -23,7 +21,7 @@ function toggleMenu()
 	}
 	else
 	{
-		document.getElementById("menu").style.width = "300px";
+		document.getElementById("menu").style.width = "460px";
 	}
 	
 	viewMenu["main"] = !( viewMenu["main"] );
@@ -43,4 +41,12 @@ function toggleTab(tabID)
 	}
 
 	viewMenu[tabID] = !( viewMenu[tabID] );
+}
+
+function viewSet(setName)
+{
+	document.getElementById("cardTitle").innerHTML = setName;
+	if(viewMenu["main"])
+		toggleMenu();
+
 }
