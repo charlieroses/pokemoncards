@@ -84,10 +84,25 @@ function viewSet(setName)
 			return json;
 	})();
 
-	window.alert(my_json[0]);
+	var tableStr = "<table>";
+	tableStr += "<tr><th>Set Number</th><th>Rarity</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
+	tableStr += "<th>HoloFoil</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th></tr>";
+
+	for(var i = 0; i < my_json.length; i++)
+	{
+		tableStr += "<tr>";
+		tableStr += "<td>" + my_json[i]["Set No."] + "</td>";
+		tableStr += "<td>" + my_json[i]["Rarity"] + "</td>";
+		tableStr += "<td>" + my_json[i]["Pokedex"] + "</td>";
+		tableStr += "<td>" + my_json[i]["Pokemon"] + "</td>";
+		tableStr += "<td>" + my_json[i]["Type"] + "</td>";
+		tableStr += "<td>" + my_json[i]["HoloFoil"] + "</td>";
+		tableStr += "<td>" + my_json[i]["Rarity Extra"] + "</td>";
+		tableStr += "<td>" + my_json[i]["Artist"] + "</td>";
+		tableStr += "<td>" + my_json[i]["Price"] + "</td>";
+		tableStr += "<td>" + my_json[i]["Damaged"] + "</td>";
+		tableStr += "</tr>";
+	}
+
+	document.getElementById("setTable").innerHTML = tableStr;
 }	
-	
-function createHTML(json)
-{
-	window.alert(json);
-}
