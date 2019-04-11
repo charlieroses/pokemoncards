@@ -84,4 +84,138 @@
 {
 	display: none;
 	margin-left: 80px;
+	
+	td
+	{
+		background-color: #F6F6F6;
+		border-radius: 2px;
+		padding: 5px;
+	}
+
+	th
+	{
+		background-color: #E0E0E0;
+		border-radius: 2px;
+		padding: 5px;
+	}
+
+	.artist
+	{
+		text-align: left;
+	}
+
+	.damage
+	{
+		text-align: left;
+	}
+
+	.Dark
+	{
+		background-color: #033538;
+	}
+		
+	.dex
+	{
+		text-align: right;
+	}
+
+	.Dragon
+	{
+		background-color: #C6A114;
+	}
+
+	.Electric
+	{
+		background-color: #EEBE01;
+	}
+
+	.Fairy
+	{
+		background-color: #D01D4F;
+	}
+
+	.Fire
+	{
+		background-color: #E71416;
+	}
+
+	.Fighting
+	{
+		background-color: #B7401E;
+	}
+
+	.Grass
+	{
+		background-color: #00963F; 
+	}
+
+	.holofoil
+	{
+		text-align: left;
+	}
+
+	.Item
+	{
+		color: #025FA9;
+	}
+
+	.name
+	{
+		text-align: left;
+	}
+
+	.Normal
+	{
+		background-color: #E2E7EE;
+	}
+
+	.Poison
+	{
+		background-color: #7D52A1;
+	}
+
+	.price
+	{
+		text-align: left;
+	}
+
+	.rarity
+	{
+		text-align: center;
+	}
+
+	.setnum
+	{
+		text-align: center;
+	}
+
+	.Steel
+	{
+		background-color: #636E77;
+	}
+		
+	.Stadium
+	{
+		color: #4FAC3F;
+	}
+
+	.Supporter
+	{
+		color: #CF4226;
+	}
+
+	.type
+	{
+		text-align: left;
+	}
+
+	.Water
+	{
+		background-color: #0295D2;
+	}
+
+	.xtrainfo
+	{
+		text-align: left;
+	}
 }

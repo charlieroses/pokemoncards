@@ -66,3 +66,85 @@
   display: none;
   margin-left: 80px;
 }
+#setTemplate td {
+  background-color: #F6F6F6;
+  border-radius: 2px;
+  padding: 5px;
+}
+#setTemplate th {
+  background-color: #E0E0E0;
+  border-radius: 2px;
+  padding: 5px;
+}
+#setTemplate .artist {
+  text-align: left;
+}
+#setTemplate .damage {
+  text-align: left;
+}
+#setTemplate .Dark {
+  background-color: #033538;
+}
+#setTemplate .dex {
+  text-align: right;
+}
+#setTemplate .Dragon {
+  background-color: #C6A114;
+}
+#setTemplate .Electric {
+  background-color: #EEBE01;
+}
+#setTemplate .Fairy {
+  background-color: #D01D4F;
+}
+#setTemplate .Fire {
+  background-color: #E71416;
+}
+#setTemplate .Fighting {
+  background-color: #B7401E;
+}
+#setTemplate .Grass {
+  background-color: #00963F;
+}
+#setTemplate .holofoil {
+  text-align: left;
+}
+#setTemplate .Item {
+  color: #025FA9;
+}
+#setTemplate .name {
+  text-align: left;
+}
+#setTemplate .Normal {
+  background-color: #E2E7EE;
+}
+#setTemplate .Poison {
+  background-color: #7D52A1;
+}
+#setTemplate .price {
+  text-align: left;
+}
+#setTemplate .rarity {
+  text-align: center;
+}
+#setTemplate .setnum {
+  text-align: center;
+}
+#setTemplate .Steel {
+  background-color: #636E77;
+}
+#setTemplate .Stadium {
+  color: #4FAC3F;
+}
+#setTemplate .Supporter {
+  color: #CF4226;
+}
+#setTemplate .type {
+  text-align: left;
+}
+#setTemplate .Water {
+  background-color: #0295D2;
+}
+#setTemplate .xtrainfo {
+  text-align: left;
+}

@@ -13,6 +13,26 @@ var viewMain = {
 	setPage: false
 };
 
+
+var types = {
+	"D"  : "Dark",
+	"Dr" : "Dragon",
+	"E"  : "Energy",
+	"El" : "Electric",
+	"F"  : "Fire",
+	"Fa" : "Fairy",
+	"Fg" : "Fighting",
+	"G"  : "Grass",
+	"I"  : "Item",
+	"N"  : "Normal",
+	"P"  : "Poison",
+	"S"  : "Stadium",
+	"Sl" : "Steel",
+	"Su" : "Supporter",
+	"T"  : "Trainer",
+	"W"  : "Water",
+};
+
 function init()
 {
     pass;
@@ -91,17 +111,29 @@ function viewSet(setName)
 	for(var i = 0; i < my_json.length; i++)
 	{
 		tableStr += "<tr>";
-		tableStr += "<td>" + my_json[i]["Set No."] + "</td>";
-		tableStr += "<td>" + my_json[i]["Rarity"] + "</td>";
-		tableStr += "<td>" + my_json[i]["Pokedex"] + "</td>";
-		tableStr += "<td>" + my_json[i]["Pokemon"] + "</td>";
-		tableStr += "<td>" + my_json[i]["Type"] + "</td>";
-		tableStr += "<td>" + my_json[i]["HoloFoil"] + "</td>";
-		tableStr += "<td>" + my_json[i]["Rarity Extra"] + "</td>";
-		tableStr += "<td>" + my_json[i]["Artist"] + "</td>";
-		tableStr += "<td>" + my_json[i]["Price"] + "</td>";
-		tableStr += "<td>" + my_json[i]["Damaged"] + "</td>";
+		tableStr += "<td class='setnum'>" + my_json[i]["Set No."] + "</td>";
+		tableStr += "<td class='rarity'>" + my_json[i]["Rarity"] + "</td>";
+		tableStr += "<td class='dex'>" + my_json[i]["Pokedex"] + "</td>";
+		tableStr += "<td class='name'>" + my_json[i]["Pokemon"] + "</td>";
+	
+		cardType = my_json[i]["Type"];
+
+		if( my_json[i]["Pokedex"] == "T" )
+		{
+			tableStr += "<td class=" + types[cardType] + ">" + types[cardType] + "</td>";
+		}
+		else
+		{
+			tableStr += "<td class=\"" + types[cardType] + "\"></td>";
+		}
+
+		tableStr += "<td class='holofoil'>" + my_json[i]["HoloFoil"] + "</td>";
+		tableStr += "<td class='xtrainfo'>" + my_json[i]["Rarity Extra"] + "</td>";
+		tableStr += "<td class='artist'>" + my_json[i]["Artist"] + "</td>";
+		tableStr += "<td class='price'>" + my_json[i]["Price"] + "</td>";
+		tableStr += "<td class='damage'>" + my_json[i]["Damaged"] + "</td>";
 		tableStr += "</tr>";
+
 	}
 
 	document.getElementById("setTable").innerHTML = tableStr;
