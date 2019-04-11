@@ -54,7 +54,7 @@ function viewSet(setName)
 	filename = filename.replace(/ /g, "");
 	filename = filename.replace("/", "");
 	
-	var jsonURL = "jsonFiles/" + filename + ".json";
+	var jsonURL = "https://charlierosec.github.io/pokemoncards/jsonFiles/" + filename + ".json";
 
 	if(viewMenu["main"])
 		toggleMenu();
