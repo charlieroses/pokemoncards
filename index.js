@@ -50,13 +50,15 @@ function toggleTab(tabID)
 
 function viewSet(setName)
 {
-	filename = setName.toLowerCase();
+	var filename = setName.toLowerCase();
 	filename = filename.replace(/ /g, "");
 	filename = filename.replace("/", "");
+	
+	var jsonURL = "jsonFiles/" + filename + ".json";
 
 	if(viewMenu["main"])
 		toggleMenu();
-	
+
 	if( !viewMain["setPage"] )
 	{
 		viewMain["start"] = false;
@@ -67,4 +69,25 @@ function viewSet(setName)
 	
 	document.getElementById("setTitle").innerHTML = setName;
 	document.getElementById("setImage").src = "images/sets/" + filename + ".png"
+		
+	var my_json = (function () {
+			var json = null;
+			$.ajax({
+				'async': false,
+				'global': false,
+				'url': jsonURL,
+				'dataType': "json",
+				'success': function (data) {
+					json = data;
+				}
+			});
+			return json;
+	})();
+
+	window.alert(my_json[0]);
+}	
+	
+function createHTML(json)
+{
+	window.alert(json);
 }
