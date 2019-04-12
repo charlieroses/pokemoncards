@@ -248,7 +248,27 @@ function viewBSP(bspName)
 	}
 	
 	document.getElementById("bspTitle").innerHTML = promoNames[bspName];
-	var setinfo = (function () {
+	var my_json = (function () {
+			var json = [];
+			$.ajax({
+				'async': false,
+				'global': false,
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/promo.json",	
+				'dataType': "json",
+				'success': function (data) {
+					for( var i = 0; i < data.length; i++)
+					{
+						if(bspName == data[i]["Set"])
+						{
+							json.push(data[i]);
+						}
+					}
+				}
+			});
+			return json;
+	})();
+
+	var bspinfo = (function () {
 			var json = null;
 			$.ajax({
 				'async': false,
@@ -268,28 +288,16 @@ function viewBSP(bspName)
 			return json;
 	})();
 
+	var bspInfoStr = "";
+	bspInfoStr += "<b>Card Count:</b> " + bspinfo["Total Cards"] + "<br>";
+	var myperc = (my_json.length / parseFloat(bspinfo["Total Cards"])) * 100;
+	bspInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%";
+
+	document.getElementById("bspInfo").innerHTML = bspInfoStr;
+
+
 
 	//////////////////////TABLE SETUP		
-	var my_json = (function () {
-			var json = [];
-			$.ajax({
-				'async': false,
-				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/promo.json",	
-				'dataType': "json",
-				'success': function (data) {
-					for( var i = 0; i < data.length; i++)
-					{
-						if(bspName == data[i]["Abbreviation"])
-						{
-							json.push(data[i]);
-						}
-					}
-				}
-			});
-			return json;
-	})();
-
 	var tableStr = "<table>";
 	tableStr += "<tr><th>Set Number</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
 	tableStr += "<th>HoloFoil</th><th>Promo Source</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th></tr>";
@@ -315,7 +323,7 @@ function viewBSP(bspName)
 
 		tableStr += "<td class='holofoil'>" + my_json[i]["HoloFoil"] + "</td>";
 		tableStr += "<td class='xtrainfo'>" + my_json[i]["Promo Event"] + "</td>";
-		tableStr += "<td class='xtrainfo'>" + my_json[i]["Rarity Extra"] + "</td>";
+		tableStr += "<td class='xtrainfo'>" + my_json[i]["Other"] + "</td>";
 		tableStr += "<td class='artist'>" + my_json[i]["Artist"] + "</td>";
 		tableStr += "<td class='price'>" + my_json[i]["Price"] + "</td>";
 		tableStr += "<td class='damage'>" + my_json[i]["Damaged"] + "</td>";
@@ -323,5 +331,5 @@ function viewBSP(bspName)
 
 	}
 
-	document.getElementById("setTable").innerHTML = tableStr;
+	document.getElementById("bspTable").innerHTML = tableStr;
 }
