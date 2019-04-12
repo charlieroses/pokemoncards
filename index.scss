@@ -92,6 +92,17 @@
 		height: 20%;
 		position: sticky;	
 		top: 0;
+		
+		img
+		{
+			height: 100%;
+		}
+	
+	}
+
+	#setHeader > *
+	{
+		display: inline-block;
 	}
 
 	td

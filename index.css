@@ -73,6 +73,12 @@
   position: sticky;
   top: 0;
 }
+.template #setHeader img {
+  height: 100%;
+}
+.template #setHeader > * {
+  display: inline-block;
+}
 .template td {
   background-color: #F6F6F6;
   border-radius: 2px;

@@ -141,6 +141,17 @@ function viewSet(setName)
 		return theBool;
 	})();
 
+	if (titleExists)
+	{
+		document.getElementById("setTitleImg").src = titleImg;
+		document.getElementById("setTitleImg").style.display = "inline-block";
+	}
+	else
+	{
+		document.getElementById("setTitleImg").style.display = "none";
+	}
+
+
 	var setInfoStr = "";
 	setInfoStr += "<b>Series:</b> " + setinfo["Series"] + "<br>";
 	setInfoStr += "<b>Year:</b> " + setinfo["Year"] + "<br>";
