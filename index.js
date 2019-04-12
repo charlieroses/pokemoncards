@@ -124,7 +124,19 @@ function viewSet(setName)
 			return json;
 	})();
 
-	window.alert(setinfo);
+	window.alert(setinfo["Name"]);
+	
+	$.ajax({
+		'async': false,
+		'global': false,
+		'url': "https://charlierosec.github.io/pokemoncards/images/sets/" + filename + "title.png",
+		'success': function () {
+				window.alert(filename + "title.png");
+			},
+		'error': function() {
+				window.alert("Does not exist")
+			}
+	});
 
 
 	var tableStr = "<table>";
