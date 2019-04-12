@@ -147,7 +147,8 @@ function viewSet(setName)
 		}
 		else
 		{
-			tableStr += "<td class=\"" + types[cardType] + "\"></td>";
+			imgSRC = "./images/trainer/e" + types[cardType] + ".png"
+			tableStr += "<td class=\"" + types[cardType] + "\"><img src='" + imgSRC + "'></td>";
 		}
 
 		tableStr += "<td class='holofoil'>" + my_json[i]["HoloFoil"] + "</td>";
