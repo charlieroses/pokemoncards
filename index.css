@@ -81,6 +81,11 @@
   padding-right: 10px;
   vertical-align: middle;
 }
+.template #bspHeader > * {
+  display: inline-block;
+  padding-right: 10px;
+  vertical-align: middle;
+}
 .template td {
   background-color: #F6F6F6;
   border-radius: 2px;

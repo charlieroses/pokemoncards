@@ -145,12 +145,12 @@
 			</div>
 			<button class="expandButton" onclick="toggleTab('blackstar')">Black Star Promo <span id="blackstarP">&#9660;</span></button>
 			<div class="expandDiv" id="blackstar">
-				<button class="linkButton">Black and White</button>
-				<button class="linkButton">Diamond and Pearl</button>
-				<button class="linkButton">HeartGold/SoulSilver</button>
-				<button class="linkButton">Sun and Moon</button>
-				<button class="linkButton">Wizard's Black Star</button>
-				<button class="linkButton">X and Y</button>
+				<button class="linkButton" onclick="viewBSP('BW')">Black and White</button>
+				<button class="linkButton" onclick="viewBSP('DP')">Diamond and Pearl</button>
+				<button class="linkButton" onclick="viewBSP('HGSS')">HeartGold/SoulSilver</button>
+				<button class="linkButton" onclick="viewBSP('SM')">Sun and Moon</button>
+				<button class="linkButton" onclick="viewBSP('W')">Wizard's Black Star</button>
+				<button class="linkButton" onclick="viewBSP('XY')">X and Y</button>
 			</div>
 		</div>
 		<br>
@@ -173,6 +173,17 @@
 		</div>
 		<hr>
 		<div id="setTable"></div>
+	</div>
+	<div class="template" id="bspTemplate">
+		<div id="bspHeader">
+			<div>
+				<h1 id="bspTitle">Base Set 2</h1>
+				<p id="setInfo"></p>
+			</div>
+			<img id="bspImage" src="images/general/promo.png">
+		</div>
+		<hr>
+		<div id="bspTable"></div>
 	</div>
 </body>
 </html>
