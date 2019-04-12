@@ -104,6 +104,29 @@ function viewSet(setName)
 			return json;
 	})();
 
+	var setinfo = (function () {
+			var json = null;
+			$.ajax({
+				'async': false,
+				'global': false,
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/setsinfo.json",
+				'dataType': "json",
+				'success': function (data) {
+					for( var i = 0; i < data.length; i++)
+					{
+						if(setName == data[i]["Name"])
+						{
+							json = data[i];
+						}
+					}
+				}
+			});
+			return json;
+	})();
+
+	window.alert(setinfo);
+
+
 	var tableStr = "<table>";
 	tableStr += "<tr><th>Set Number</th><th>Rarity</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
 	tableStr += "<th>HoloFoil</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th></tr>";
