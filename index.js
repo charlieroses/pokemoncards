@@ -79,6 +79,8 @@ function viewSet(setName)
 	if(viewMenu["main"])
 		toggleMenu();
 
+
+	//////////////HEADER SETUP
 	if( !viewMain["setPage"] )
 	{
 		viewMain["start"] = false;
@@ -124,21 +126,35 @@ function viewSet(setName)
 			return json;
 	})();
 
-	window.alert(setinfo["Name"]);
-	
-	$.ajax({
-		'async': false,
-		'global': false,
-		'url': "https://charlierosec.github.io/pokemoncards/images/sets/" + filename + "title.png",
-		'success': function () {
-				window.alert(filename + "title.png");
-			},
-		'error': function() {
-				window.alert("Does not exist")
-			}
-	});
+	var titleImg = "images/sets/" + filename + "title.png";
+
+	var titleExists = (function () {
+		var theBool = false;
+		$.ajax({
+			'async': false,
+			'global': false,
+			'url': "https://charlierosec.github.io/pokemoncards/" + titleImg,
+			'success': function () {
+					theBool = true;
+				}
+		});
+		return theBool;
+	})();
+
+	var setInfoStr = "";
+	setInfoStr += "<b>Series:</b> " + setinfo["Series"] + "<br>";
+	setInfoStr += "<b>Year:</b> " + setinfo["Year"] + "<br>";
+	setInfoStr += "<b>Set Number:</b> " + setinfo["Set Num"] + "<br>";
+	setInfoStr += "<b>My Card Count:</b> " + my_json.length.toString() + "<br>";
+	setInfoStr += "<b>Set Count:</b> " + setinfo["Set Count"] + "<br>";
+	setInfoStr += "<b>Total Count:</b> " + setinfo["Total Cards"] + "<br>";
+	var myperc = (my_json.length / parseFloat(setinfo["Total Cards"])) * 100;
+	setInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%";
+
+	document.getElementById("setInfo").innerHTML = setInfoStr;
 
 
+	//////////////////////TABLE SETUP
 	var tableStr = "<table>";
 	tableStr += "<tr><th>Set Number</th><th>Rarity</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
 	tableStr += "<th>HoloFoil</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th></tr>";
