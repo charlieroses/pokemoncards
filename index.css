@@ -78,6 +78,8 @@
 }
 .template #setHeader > * {
   display: inline-block;
+  padding-right: 10px;
+  vertical-align: middle;
 }
 .template td {
   background-color: #F6F6F6;

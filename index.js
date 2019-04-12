@@ -90,7 +90,15 @@ function viewSet(setName)
 	}
 	
 	document.getElementById("setTitle").innerHTML = setName;
-	document.getElementById("setImage").src = "images/sets/" + filename + ".png"
+	
+	if(filename == "detectivepikachu")
+	{
+		document.getElementById("setImage").src = "images/sets/baseset1.png";
+	}
+	else
+	{
+		document.getElementById("setImage").src = "images/sets/" + filename + ".png";
+	}
 		
 	var my_json = (function () {
 			var json = null;
@@ -151,6 +159,14 @@ function viewSet(setName)
 		document.getElementById("setTitleImg").style.display = "none";
 	}
 
+	if (filename == "baseset1")
+	{
+		document.getElementById("setImage").style.display = "none";
+	}
+	else
+	{
+		document.getElementById("setImage").style.display = "inline-block";
+	}
 
 	var setInfoStr = "";
 	setInfoStr += "<b>Series:</b> " + setinfo["Series"] + "<br>";
