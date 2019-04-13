@@ -196,7 +196,7 @@ function viewSet(setName)
 	//////////////////////TABLE SETUP
 	var tableStr = "<table>";
 	tableStr += "<tr><th>Set Number</th><th>Rarity</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
-	tableStr += "<th>HoloFoil</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th></tr>";
+	tableStr += "<th>HoloFoil</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th><th>Date Recieved</th></tr>";
 
 	for(var i = 0; i < my_json.length; i++)
 	{
@@ -223,6 +223,7 @@ function viewSet(setName)
 		tableStr += "<td class='artist'>" + my_json[i]["Artist"] + "</td>";
 		tableStr += "<td class='price'>" + my_json[i]["Price"] + "</td>";
 		tableStr += "<td class='damage'>" + my_json[i]["Damaged"] + "</td>";
+		tableStr += "<td class='date'>" + my_json[i]["Date"] + "</td>";
 		tableStr += "</tr>";
 
 	}
@@ -300,7 +301,7 @@ function viewBSP(bspName)
 	//////////////////////TABLE SETUP		
 	var tableStr = "<table>";
 	tableStr += "<tr><th>Set Number</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
-	tableStr += "<th>HoloFoil</th><th>Promo Source</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th></tr>";
+	tableStr += "<th>HoloFoil</th><th>Promo Source</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th><th>Date Recieved</th></tr>";
 
 	for(var i = 0; i < my_json.length; i++)
 	{
@@ -327,6 +328,7 @@ function viewBSP(bspName)
 		tableStr += "<td class='artist'>" + my_json[i]["Artist"] + "</td>";
 		tableStr += "<td class='price'>" + my_json[i]["Price"] + "</td>";
 		tableStr += "<td class='damage'>" + my_json[i]["Damaged"] + "</td>";
+		tableStr += "<td class='date'>" + my_json[i]["Date"] + "</td>";
 		tableStr += "</tr>";
 
 	}
