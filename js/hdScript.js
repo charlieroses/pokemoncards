@@ -1,13 +1,20 @@
-var promoNames = {
-	"BW"   : "Black & White",
-	"DP"   : "Diamond & Pearl",
-	"HGSS" : "HeartGold/SoulSilver",
-	"SM"   : "Sun & Moon",
-	"W"    : "Wizards Black Star",
-	"XY"   : "X & Y"
+//Half Decks uses the same template as Black Star Promo
+
+var halfDeckNames = {
+	"P1" : "Pop Series 1",
+	"P2" : "Pop Series 2",
+	"P3" : "Pop Series 3",
+	"P4" : "Pop Series 4",
+	"P5" : "Pop Series 5",
+	"P6" : "Pop Series 6",
+	"P7" : "Pop Series 7",
+	"P8" : "Pop Series 8",
+	"P9" : "Pop Series 9"
 };
 
-function viewBSP(bspName)
+
+
+function viewPop(popName)
 {
 	
 	if(viewMenu["main"])
@@ -17,24 +24,25 @@ function viewBSP(bspName)
 	{
 		viewMain["start"] = false;
 		document.getElementById("cards").style.display = "none";
-		viewMain["bsp"] = true;
+		viewMain["bspPage"] = true;
 		document.getElementById("bspTemplate").style.display = "block";	
 		viewMain["setPage"] = false;
 		document.getElementById("setTemplate").style.display = "none";
 	}
 	
-	document.getElementById("bspTitle").innerHTML = promoNames[bspName];
+	document.getElementById("bspTitle").innerHTML = abbrev[popName];
+	
 	var my_json = (function () {
 			var json = [];
 			$.ajax({
 				'async': false,
 				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/promo.json",	
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/popseriespromo.json",
 				'dataType': "json",
 				'success': function (data) {
 					for( var i = 0; i < data.length; i++)
 					{
-						if(bspName == data[i]["Set"])
+						if(popName == data[i]["Set"])
 						{
 							json.push(data[i]);
 						}
@@ -49,12 +57,12 @@ function viewBSP(bspName)
 			$.ajax({
 				'async': false,
 				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/promoinfo.json",
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/popseriespromoinfo.json",
 				'dataType': "json",
 				'success': function (data) {
 					for( var i = 0; i < data.length; i++)
 					{
-						if(bspName == data[i]["Abbreviation"])
+						if(popName == data[i]["Abbreviation"])
 						{
 							json = data[i];
 						}
@@ -65,20 +73,20 @@ function viewBSP(bspName)
 	})();
 
 	var bspInfoStr = "";
+	bspInfoStr += "<b>Year:</b> " + bspinfo["Year"] + "<br>";
 	bspInfoStr += "<b>My Card Count:</b> " + my_json.length + "<br>";
 	bspInfoStr += "<b>Card Count:</b> " + bspinfo["Total Cards"] + "<br>";
 	var myperc = (my_json.length / parseFloat(bspinfo["Total Cards"])) * 100;
 	bspInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%";
 
-
 	document.getElementById("bspInfo").innerHTML = bspInfoStr;
-	document.getElementById("bspImage").src = "./images/general/promo.png";
+	document.getElementById("bspImage").src = "./images/popseries/" + popName.toLowerCase() + ".png"; 
 
 
 	//////////////////////TABLE SETUP		
 	var tableStr = "<table>";
 	tableStr += "<tr><th>Set Number</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
-	tableStr += "<th>HoloFoil</th><th>Promo Source</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th><th>Date Recieved</th></tr>";
+	tableStr += "<th>HoloFoil</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th><th>Date Recieved</th></tr>";
 
 	for(var i = 0; i < my_json.length; i++)
 	{
@@ -100,7 +108,6 @@ function viewBSP(bspName)
 		}
 
 		tableStr += "<td class='holofoil'>" + my_json[i]["HoloFoil"] + "</td>";
-		tableStr += "<td class='xtrainfo'>" + my_json[i]["Promo Event"] + "</td>";
 		tableStr += "<td class='xtrainfo'>" + my_json[i]["Other"] + "</td>";
 		tableStr += "<td class='artist'>" + my_json[i]["Artist"] + "</td>";
 		tableStr += "<td class='price'>" + my_json[i]["Price"] + "</td>";
@@ -109,7 +116,7 @@ function viewBSP(bspName)
 		tableStr += "</tr>";
 
 	}
-	tableStr += "</table>"
+	tableStr += "</table>";
 
 	document.getElementById("bspTable").innerHTML = tableStr;
 }

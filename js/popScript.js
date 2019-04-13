@@ -75,6 +75,7 @@ function viewPop(popName)
 	var bspInfoStr = "";
 	bspInfoStr += "<b>Year:</b> " + bspinfo["Year"] + "<br>";
 	bspInfoStr += "<b>My Card Count:</b> " + my_json.length + "<br>";
+	bspInfoStr += "<b>Card Count:</b> " + bspinfo["Total Cards"] + "<br>";
 	var myperc = (my_json.length / parseFloat(bspinfo["Total Cards"])) * 100;
 	bspInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%";
 
