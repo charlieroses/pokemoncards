@@ -6,7 +6,10 @@
     <link rel="stylesheet" href="./index.css">
 		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-		<script src="./index.js"></script>
+		<script src="./js/index.js"></script>
+		<script src="./js/mainSetScript.js"></script>
+		<script src="./js/bspScript.js"></script>
+		<script src="./js/popScript.js"></script>
 </head>
 <body>
     <div id="menu">
@@ -133,15 +136,15 @@
 		<div class="expandDiv" id="promo">
 			<button class="expandButton" onclick="toggleTab('pop')">POP Series <span id="popP">&#9660;</span></button>
 			<div class="expandDiv" id="pop">
-				<button class="linkButton">Series 1</button>
-				<button class="linkButton">Series 2</button>
-				<button class="linkButton">Series 3</button>
-				<button class="linkButton">Series 4</button>
-				<button class="linkButton">Series 5</button>
-				<button class="linkButton">Series 6</button>
-				<button class="linkButton">Series 7</button>
-				<button class="linkButton">Series 8</button>
-				<button class="linkButton">Series 9</button>
+				<button class="linkButton" onclick="viewPop('P1')">Series 1</button>
+				<button class="linkButton" onclick="viewPop('P2')">Series 2</button>
+				<button class="linkButton" onclick="viewPop('P3')">Series 3</button>
+				<button class="linkButton" onclick="viewPop('P4')">Series 4</button>
+				<button class="linkButton" onclick="viewPop('P5')">Series 5</button>
+				<button class="linkButton" onclick="viewPop('P6')">Series 6</button>
+				<button class="linkButton" onclick="viewPop('P7')">Series 7</button>
+				<button class="linkButton" onclick="viewPop('P8')">Series 8</button>
+				<button class="linkButton" onclick="viewPop('P9')">Series 9</button>
 			</div>
 			<button class="expandButton" onclick="toggleTab('blackstar')">Black Star Promo <span id="blackstarP">&#9660;</span></button>
 			<div class="expandDiv" id="blackstar">
