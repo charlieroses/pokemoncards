@@ -228,6 +228,14 @@ function viewSet(setName)
 
 	}
 
+	if( my_json.length == 0)
+	{
+		tableStr = "<table>";
+		tableStr += "<tr><th>Set Number</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
+		tableStr += "<th>HoloFoil</th><th>Promo Source</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th><th>Date Recieved</th></tr>";
+		tableStr +="</table>";
+	}
+
 	document.getElementById("setTable").innerHTML = tableStr;
 }
 
@@ -238,7 +246,7 @@ function viewBSP(bspName)
 	if(viewMenu["main"])
 		toggleMenu();
 
-	if( !viewMain["setPage"] )
+	if( !viewMain["bspPage"] )
 	{
 		viewMain["start"] = false;
 		document.getElementById("cards").style.display = "none";
@@ -331,6 +339,14 @@ function viewBSP(bspName)
 		tableStr += "<td class='date'>" + my_json[i]["Date"] + "</td>";
 		tableStr += "</tr>";
 
+	}
+
+	if( my_json.length == 0)
+	{
+		tableStr = "<table>";
+		tableStr += "<tr><th>Set Number</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
+		tableStr += "<th>HoloFoil</th><th>Promo Source</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th><th>Date Recieved</th></tr>";
+		tableStr +="</table>";
 	}
 
 	document.getElementById("bspTable").innerHTML = tableStr;
