@@ -45,7 +45,7 @@ function viewSet(setName)
 			});
 			return json;
 	})();
-
+	
 	var setinfo = (function () {
 			var json = null;
 			$.ajax({

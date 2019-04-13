@@ -1,20 +1,30 @@
 //Half Decks uses the same template as Black Star Promo
 
-var halfDeckNames = {
-	"P1" : "Pop Series 1",
-	"P2" : "Pop Series 2",
-	"P3" : "Pop Series 3",
-	"P4" : "Pop Series 4",
-	"P5" : "Pop Series 5",
-	"P6" : "Pop Series 6",
-	"P7" : "Pop Series 7",
-	"P8" : "Pop Series 8",
-	"P9" : "Pop Series 9"
+var hdNames = {
+	"AR"   : "Alolan Raichu",
+	"B"    : "Bisharp",
+	"E"    : "Excadrill",
+	"G"    : "Gyarados",
+	"La"   : "Latias",
+	"Lo"   : "Latios",
+	"L"    : "Lucario",
+	"Ly"   : "Lycanroc",
+	"Ma"   : "Manaphy",
+	"M"    : "Minun",
+	"PL"   : "Pikachu Libre",
+	"P"    : "Plusle",
+	"R"    : "Raichu",
+	"Su"   : "Suicune",
+	"S"    : "Sylveon",
+	"W"    : "Wigglytuff",
+	"XYLa" : "XY Latias",
+	"XYLo" : "XY Latios",
+	"Z"    : "Zoroark"
 };
 
 
 
-function viewPop(popName)
+function viewHD(deckName)
 {
 	
 	if(viewMenu["main"])
@@ -30,19 +40,19 @@ function viewPop(popName)
 		document.getElementById("setTemplate").style.display = "none";
 	}
 	
-	document.getElementById("bspTitle").innerHTML = abbrev[popName];
+	document.getElementById("bspTitle").innerHTML = hdNames[deckName];
 	
 	var my_json = (function () {
 			var json = [];
 			$.ajax({
 				'async': false,
 				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/popseriespromo.json",
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/halfdecks.json",
 				'dataType': "json",
 				'success': function (data) {
 					for( var i = 0; i < data.length; i++)
 					{
-						if(popName == data[i]["Set"])
+						if(deckName == data[i]["Set"])
 						{
 							json.push(data[i]);
 						}
@@ -57,12 +67,12 @@ function viewPop(popName)
 			$.ajax({
 				'async': false,
 				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/popseriespromoinfo.json",
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/halfdeckinfo.json",
 				'dataType': "json",
 				'success': function (data) {
 					for( var i = 0; i < data.length; i++)
 					{
-						if(popName == data[i]["Abbreviation"])
+						if(hdNames[popName] == data[i]["Half Deck"])
 						{
 							json = data[i];
 						}
@@ -73,6 +83,7 @@ function viewPop(popName)
 	})();
 
 	var bspInfoStr = "";
+	bspInfoStr += "<b>Kit:</b> " + bspinfo["Kit"] + "<br>";
 	bspInfoStr += "<b>Year:</b> " + bspinfo["Year"] + "<br>";
 	bspInfoStr += "<b>My Card Count:</b> " + my_json.length + "<br>";
 	bspInfoStr += "<b>Card Count:</b> " + bspinfo["Total Cards"] + "<br>";
@@ -80,7 +91,9 @@ function viewPop(popName)
 	bspInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%";
 
 	document.getElementById("bspInfo").innerHTML = bspInfoStr;
-	document.getElementById("bspImage").src = "./images/popseries/" + popName.toLowerCase() + ".png"; 
+
+	var imgUrl = "./images/sets/" + hdNames[popName].replace(/ /g,"").toLowerCase() + "halfdeck.png";
+	document.getElementById("bspImage").src = "./images/popseries/" + imgUrl; 
 
 
 	//////////////////////TABLE SETUP		
