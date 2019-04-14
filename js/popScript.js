@@ -85,7 +85,7 @@ function viewPop(popName)
 
 	//////////////////////TABLE SETUP		
 	var tableStr = "<table>";
-	tableStr += "<tr><th>Set Number</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
+	tableStr += "<tr id='tableheader'><th>Set Number</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
 	tableStr += "<th>HoloFoil</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th><th>Date Recieved</th></tr>";
 
 	for(var i = 0; i < my_json.length; i++)

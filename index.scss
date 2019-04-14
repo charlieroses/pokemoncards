@@ -61,7 +61,7 @@
 
 		.expandDiv
 		{
-			height: 0;
+			display: none;
 			overflow-x: hidden;
 			overflow-y: hidden;
 		}
@@ -85,35 +85,45 @@
 {
 	display: none;
 	height: 100%;
-	margin-left: 80px;
+	padding-left: 80px;
 	position: relative;
+	width: 100%;
 
-	#setHeader
+	.templateHeader
 	{
 		background-color: #FFFFFF;
-		height: 20%;
-		position: sticky;	
+		position: fixed;	
 		top: 0;
-		
+		width: 100%;
+
 		img
 		{
 			height: 100px;
 		}
+
+		.inlineHead > *
+		{
+			display: inline-block;
+			padding-right: 10px;
+			vertical-align: middle;
+		}
 	
 	}
-
-	#setHeader > *
+	
+	#setTable
 	{
-		display: inline-block;
-		padding-right: 10px;
-		vertical-align: middle;
+		bottom: 0;
+		height: 70%;
+		overflow-y: scroll;
+		position: fixed;
 	}
 
-	#bspHeader > *
+	#bspTable
 	{
-		display: inline-block;
-		padding-right: 10px;
-		vertical-align: middle;
+		bottom: 0;
+		height: 75%;
+		overflow-y: scroll;
+		position: fixed;
 	}
 
 	td

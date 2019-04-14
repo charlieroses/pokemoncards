@@ -56,12 +56,12 @@ function toggleTab(tabID)
 {
 	if (viewMenu[tabID])
 	{
-		document.getElementById(tabID).style.height = "0";
+		document.getElementById(tabID).style.display = "none";
 		document.getElementById(tabID + "P").innerHTML = "&#9660;";
 	}
 	else
 	{
-		document.getElementById(tabID).style.height = "100%";
+		document.getElementById(tabID).style.display = "block";
 		document.getElementById(tabID + "P").innerHTML = "&#9650;";
 	}
 

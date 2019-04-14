@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
 <head>
     <title>Pokemon Cards</title>
@@ -10,6 +8,7 @@
 		<script src="./js/mainSetScript.js"></script>
 		<script src="./js/bspScript.js"></script>
 		<script src="./js/popScript.js"></script>
+		<script src="./js/hdScript.js"></script>
 </head>
 <body>
     <div id="menu">
@@ -110,26 +109,26 @@
 		
 		<button class="expandButton" onclick="toggleTab('halfdecks')">Half Decks <span id="halfdecksP">&#9660;</span></button>
 		<div class="expandDiv" id="halfdecks">
-			<button class="linkButton">Alolan Raichu</button>
-			<button class="linkButton">Bisharp</button>
-			<button class="linkButton">Excadrill</button>
-			<button class="linkButton">Gyarados</button>
-			<button class="linkButton">Latias</button>
-			<button class="linkButton">Latios</button>
-			<button class="linkButton">Lucario</button>
-			<button class="linkButton">Lycanroc</button>
-			<button class="linkButton">Manaphy</button>
-			<button class="linkButton">Minun</button>
-			<button class="linkButton">Noivern</button>
-			<button class="linkButton">Pikachu Libre</button>
-			<button class="linkButton">Plusle</button>
-			<button class="linkButton">Raichu</button>
-			<button class="linkButton">Suicune</button>
-			<button class="linkButton">Sylveon</button>
-			<button class="linkButton">WigglyTuff</button>
-			<button class="linkButton">XY Latias</button>
-			<button class="linkButton">XY Latios</button>
-			<button class="linkButton">Zoroark</button>
+			<button class="linkButton" onclick="viewHD('AR')">Alolan Raichu</button>
+			<button class="linkButton" onclick="viewHD('B')">Bisharp</button>
+			<button class="linkButton" onclick="viewHD('E')">Excadrill</button>
+			<button class="linkButton" onclick="viewHD('G')">Gyarados</button>
+			<button class="linkButton" onclick="viewHD('La')">Latias</button>
+			<button class="linkButton" onclick="viewHD('Lo')">Latios</button>
+			<button class="linkButton" onclick="viewHD('L')">Lucario</button>
+			<button class="linkButton" onclick="viewHD('Ly')">Lycanroc</button>
+			<button class="linkButton" onclick="viewHD('Ma')">Manaphy</button>
+			<button class="linkButton" onclick="viewHD('M')">Minun</button>
+			<button class="linkButton" onclick="viewHD('N')">Noivern</button>
+			<button class="linkButton" onclick="viewHD('PL')">Pikachu Libre</button>
+			<button class="linkButton" onclick="viewHD('P')">Plusle</button>
+			<button class="linkButton" onclick="viewHD('R')">Raichu</button>
+			<button class="linkButton" onclick="viewHD('Su')">Suicune</button>
+			<button class="linkButton" onclick="viewHD('S')">Sylveon</button>
+			<button class="linkButton" onclick="viewHD('W')">WigglyTuff</button>
+			<button class="linkButton" onclick="viewHD('XYLa')">XY Latias</button>
+			<button class="linkButton" onclick="viewHD('XYLo')">XY Latios</button>
+			<button class="linkButton" onclick="viewHD('Z')">Zoroark</button>
 		</div>
 		
 		<button class="expandButton" onclick="toggleTab('promo')">Promo Cards <span id="promoP">&#9660;</span></button>
@@ -166,24 +165,25 @@
   </div>
 
 	<div class="template" id="setTemplate">
-		<div id="setHeader">
-			<div>
-				<h1 id="setTitle">Base Set 2</h1>
+		<div class="templateHeader" id="setHeader">
+			<h1 id="setTitle">Base Set 2</h1>
+			<div class="inlineHead">
 				<p id="setInfo"></p>
+				<img id="setTitleImg" src="images/sets/baseset2title.png">
+				<img id="setImage" src="images/sets/baseset2.png">
 			</div>
-			<img id="setTitleImg" src="image/sets/baseset2title.png">
-			<img id="setImage" src="images/sets/baseset2.png">
+			<hr>
 		</div>
-		<hr>
 		<div id="setTable"></div>
 	</div>
 	<div class="template" id="bspTemplate">
-		<div id="bspHeader">
-			<div>
-				<h1 id="bspTitle">Base Set 2</h1>
+		<div class="templateHeader" id="bspHeader">
+			<h1 id="bspTitle">Base Set 2</h1>
+			<div class="inlineHead">
 				<p id="bspInfo"></p>
+				<img id="bspImage" src="images/general/promo.png">
 			</div>
-			<img id="bspImage" src="images/general/promo.png">
+			<hr>
 		</div>
 		<hr>
 		<div id="bspTable"></div>
