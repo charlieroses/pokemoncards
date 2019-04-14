@@ -25,7 +25,6 @@ function viewSet(setName)
 	
 	document.getElementById("setImage").src = "images/sets/" + filename + ".png";
 
-	console.log(jsonURL);
 
 	var my_json = (function () {
 			var json = null;
@@ -41,6 +40,7 @@ function viewSet(setName)
 			return json;
 	})();
 
+	
 	var setinfo = (function () {
 			var json = null;
 			$.ajax({
