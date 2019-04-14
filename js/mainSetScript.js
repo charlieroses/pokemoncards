@@ -23,14 +23,7 @@ function viewSet(setName)
 	
 	document.getElementById("setTitle").innerHTML = setName;
 	
-	if(filename == "detectivepikachu")
-	{
-		document.getElementById("setImage").src = "images/sets/baseset1.png";
-	}
-	else
-	{
-		document.getElementById("setImage").src = "images/sets/" + filename + ".png";
-	}
+	document.getElementById("setImage").src = "images/sets/" + filename + ".png";
 		
 	var my_json = (function () {
 			var json = null;
