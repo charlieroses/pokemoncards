@@ -1,31 +1,33 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-12,Butterfree,G,3,Full,,3/147,,Shin Nagasawa,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
+11,Metapod,G,2,,,2/147,Suwama Chiaki,,,4/20/2019
+12,Butterfree,G,3,Full,,3/147,,Shin Nagasawa,,,4/12/2019
 43,Oddish,G,1,,,4/147,,Sumiyoshi Kizuki,,,
 44,Gloom,G,2,,,5/147,,Shibuzoh.,,,
 114,Tangela,G,1,,,7/147,,Shibuzoh.,,,
 165,Ledyba,G,1,,,9/147,,Ayaka Yoshida,,,
 511,Pansage,G,1,,,12/147,,Shigenori Negishi,,,
-512,Simisage,G,2,,,13/147,,tetsuya koizumi,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
+512,Simisage,G,2,,,13/147,,tetsuya koizumi,,,4/12/2019
 751,Dewpider,G,1,,,14/147,,Kouki Saitou,,,
-4,Charmander,F,1,,,18/147,,Kagemaru Himeno,,,
+4,Charmander,F,1,Full,,18/147,,Kagemaru Himeno,,,4/20/2019
 5,Charmeleon,F,2,,,19/147,,Kawayoo,,,
-776,Turtonator,F,3,,,26/147,,Kouki Saitou,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
+776,Turtonator,F,3,,,26/147,,Kouki Saitou,,,4/12/2019
 37,Alolan Vulpix,W,1,,,27/147,,Saya Tsuruta,,,
 38,Alolan Ninetales,W,3,,,28/147,,Mitsuhiro Arita,,,
 116,Horsea,W,1,,,29/147,,Saya Tsuruta,,,
 230,Kingdra,W,3,Art,,31/147,,Mitsuhiro Arita,,,
 183,Marill,W,1,,,34/147,,Asako Ito,,,
 25,Pikachu,El,1,,,40/147,,Saya Tsuruta,,,
-602,Tynamo,El,1,,,44/147,,Asako Ito,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
+602,Tynamo,El,1,,,44/147,,Asako Ito,,,412/2019
 603,Eelektrik,El,2,,,45/147,,OOYAMA,,,
 202,Wobbuffet,P,2,,,49/147,,nagimiso,,,
 336,Seviper,P,2,Reverse,,50/147,,Eri Yamaki,,,
-355,Duskull,P,1,,,51/147,,Midori Harada,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
+355,Duskull,P,1,,,51/147,,Midori Harada,,,4/12/2019
 543,Venipede,P,1,Full,,56/147,,Yukiko Baba,,,
-544,Whirlipede,P,2,,,57/147,,SATOSHI NAKAI,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
+544,Whirlipede,P,2,,,57/147,,SATOSHI NAKAI,,,4/12/2019
+769,Sandygast,P,1,,,61/147,,Masokazu Fukuda,,,4/20/2019
 111,Rhyhorn,Fg,1,,,65/147,,miki kudo,,,
 112,Rhydon,Fg,2,,,66/147,,Sanosuke Sakuma,,,
-447,Riolu,Fg,1,,,70/147,,Saya Tsuruta,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
+447,Riolu,Fg,1,,,70/147,,Saya Tsuruta,,,4/12/2019
 539,Sawk,Fg,1,,,72/147,,Shigenori Negishi,,,
 739,Crabrawler,Fg,1,,,73/147,,kirisAki,,,
 749,Mudbray,Fg,1,,,77/147,,Saya Tsuruta,,,
@@ -40,7 +42,10 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 163,Hoothoot,N,1,,,106/147,,MAHOU,,,
 714,Noibat,N,1,,,106/147,,Yumi,,,
 626,Bouffalant,N,2,,,108/147,,TOKIYA,,,
+T,Acerola,Su,2,,,112/147,,Ken Sugimori,,,4/20/2019
 T,Guzma,Su,2,,,115/147,,Ken Sugimori,,,
 T,Lana,Su,2,,,117/147,,Ken Sugimori,,,
 T,Olivia,Su,2,,,119/147,,Ken Sugimori,,,
 T,Weakness Policy,I,2,,,126/147,,Ayaka Yoshida,,,
+T,Wishful Baton,I,2,,,128/147,,Toyste Beach,,,4/20/2019
+802,Marshadow GX,Fg,5,Full,Full Art / Rainbow / Ridged,156/147,,5ban Graphics,,,4/20/2019
