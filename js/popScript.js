@@ -78,6 +78,7 @@ function viewPop(popName)
 	bspInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%";
 
 	document.getElementById("setInfo").innerHTML = bspInfoStr;
+	document.getElementById("setImage").style.display = "inline-block";
 	document.getElementById("setImage").src = "./images/popseries/" + popName.toLowerCase() + ".png"; 
 	document.getElementById("setTitleImg").style.display = "none";
 

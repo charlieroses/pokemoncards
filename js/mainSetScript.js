@@ -22,7 +22,7 @@ function viewSet(setName)
 	document.getElementById("setTitle").innerHTML = setName;
 	
 	document.getElementById("setImage").src = "images/sets/" + filename + ".png";
-
+	document.getElementById("setImage").style.display = "inline-block";
 
 	var my_json = (function () {
 			var json = null;

@@ -92,6 +92,7 @@ function viewHD(deckName)
 	document.getElementById("setInfo").innerHTML = bspInfoStr;
 
 	var imgUrl = "./images/halfdecks/" + hdNames[deckName].replace(/ /g,"").toLowerCase() + "halfdeck.png";
+	document.getElementById("setImage").style.display = "inline-block";
 	document.getElementById("setImage").src = imgUrl; 
 	document.getElementById("setTitleImg").style.display = "none";
 

@@ -1,15 +1,11 @@
-var promoNames = {
-	"BW"   : "Black & White",
-	"DP"   : "Diamond & Pearl",
-	"HGSS" : "HeartGold/SoulSilver",
-	"SM"   : "Sun & Moon",
-	"W"    : "Wizards Black Star",
-	"XY"   : "X & Y"
-};
-
-function viewBSP(bspName)
+function viewOther(setName)
 {
+	var filename = setName.toLowerCase();
+	filename = filename.replace(/ /g, "");
+	filename = filename.replace("/", "");
 	
+	var jsonURL = "https://charlierosec.github.io/pokemoncards/jsonFiles/" + filename + ".json";
+
 	if(viewMenu["main"])
 		toggleMenu();
 
@@ -21,22 +17,16 @@ function viewBSP(bspName)
 		document.getElementById("setTemplate").style.display = "block";
 	}
 	
-	document.getElementById("setTitle").innerHTML = promoNames[bspName];
+	document.getElementById("setTitle").innerHTML = setName;
 	var my_json = (function () {
 			var json = [];
 			$.ajax({
 				'async': false,
 				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/promo.json",	
+				'url': jsonURL,	
 				'dataType': "json",
 				'success': function (data) {
-					for( var i = 0; i < data.length; i++)
-					{
-						if(bspName == data[i]["Set"])
-						{
-							json.push(data[i]);
-						}
-					}
+					json = data;	
 				}
 			});
 			return json;
@@ -47,12 +37,12 @@ function viewBSP(bspName)
 			$.ajax({
 				'async': false,
 				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/promoinfo.json",
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/otherinfo.json",
 				'dataType': "json",
 				'success': function (data) {
 					for( var i = 0; i < data.length; i++)
 					{
-						if(bspName == data[i]["Abbreviation"])
+						if(setName == data[i]["Set"])
 						{
 							json = data[i];
 						}
@@ -63,15 +53,16 @@ function viewBSP(bspName)
 	})();
 
 	var bspInfoStr = "";
+	bspInfoStr += "<b>Year:</b> " + bspinfo["Year"] + "<br>";
 	bspInfoStr += "<b>My Card Count:</b> " + my_json.length + "<br>";
 	bspInfoStr += "<b>Card Count:</b> " + bspinfo["Total Cards"] + "<br>";
 	var myperc = (my_json.length / parseFloat(bspinfo["Total Cards"])) * 100;
-	bspInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%";
+	bspInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%<br>";
+	bspInfoStr += bspinfo["About"];
 
 
 	document.getElementById("setInfo").innerHTML = bspInfoStr;
-	document.getElementById("setImage").style.display = "inline-block";
-	document.getElementById("setImage").src = "./images/general/promo.png";
+	document.getElementById("setImage").style.display = "none";
 	document.getElementById("setTitleImg").style.display = "none";
 
 
