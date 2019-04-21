@@ -11,7 +11,6 @@ var viewMenu = {
 var viewMain = {
 	"start"  : true,
 	"setPage": false,
-	"bspPage": false,
 };
 
 var types = {

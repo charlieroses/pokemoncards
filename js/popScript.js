@@ -20,17 +20,15 @@ function viewPop(popName)
 	if(viewMenu["main"])
 		toggleMenu();
 
-	if( !viewMain["bspPage"] )
+	if( !viewMain["setPage"] )
 	{
 		viewMain["start"] = false;
 		document.getElementById("cards").style.display = "none";
-		viewMain["bspPage"] = true;
-		document.getElementById("bspTemplate").style.display = "block";	
-		viewMain["setPage"] = false;
-		document.getElementById("setTemplate").style.display = "none";
+		viewMain["setPage"] = true;
+		document.getElementById("setTemplate").style.display = "block";
 	}
 	
-	document.getElementById("bspTitle").innerHTML = abbrev[popName];
+	document.getElementById("setTitle").innerHTML = abbrev[popName];
 	
 	var my_json = (function () {
 			var json = [];
@@ -79,9 +77,9 @@ function viewPop(popName)
 	var myperc = (my_json.length / parseFloat(bspinfo["Total Cards"])) * 100;
 	bspInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%";
 
-	document.getElementById("bspInfo").innerHTML = bspInfoStr;
-	document.getElementById("bspImage").src = "./images/popseries/" + popName.toLowerCase() + ".png"; 
-
+	document.getElementById("setInfo").innerHTML = bspInfoStr;
+	document.getElementById("setImage").src = "./images/popseries/" + popName.toLowerCase() + ".png"; 
+	document.getElementById("setTitleImg").style.display = "none";
 
 	//////////////////////TABLE SETUP		
 	var tableStr = "<table>";
@@ -118,5 +116,5 @@ function viewPop(popName)
 	}
 	tableStr += "</table>";
 
-	document.getElementById("bspTable").innerHTML = tableStr;
+	document.getElementById("setTable").innerHTML = tableStr;
 }

@@ -81,9 +81,19 @@
 	margin-left: 80px;
 }
 
-.template
+#setTemplate
 {
 	display: none;
+
+	#setTable
+	{
+		height: 75%;
+		overflow-y: scroll;
+	}
+}
+
+.template
+{
 	height: 100%;
 	padding-left: 80px;
 	position: relative;
@@ -92,13 +102,12 @@
 	.templateHeader
 	{
 		background-color: #FFFFFF;
-		position: fixed;	
-		top: 0;
 		width: 100%;
 
 		img
 		{
-			height: 100px;
+			max-height: 200px;
+			max-width: 600px;
 		}
 
 		.inlineHead > *
@@ -110,22 +119,6 @@
 	
 	}
 	
-	#setTable
-	{
-		bottom: 0;
-		height: 70%;
-		overflow-y: scroll;
-		position: fixed;
-	}
-
-	#bspTable
-	{
-		bottom: 0;
-		height: 75%;
-		overflow-y: scroll;
-		position: fixed;
-	}
-
 	td
 	{
 		background-color: #F6F6F6;
@@ -145,130 +138,129 @@
 		padding: 5px;
 	}
 
+	.artist
+	{
+		text-align: left;
+	}
 
-.artist
-{
-	text-align: left;
-}
+	.damage
+	{
+		text-align: left;
+	}
 
-.damage
-{
-	text-align: left;
-}
-
-.Dark
-{
-	background-color: #033538;
-	text-align: center;
-}
+	.Dark
+	{
+		background-color: #033538;
+		text-align: center;
+	}
 		
-.dex
-{
-	text-align: right;
-}
+	.dex
+	{
+		text-align: right;
+	}
 
-.Dragon
-{
-	background-color: #C6A114;
-	text-align: center;
-}
+	.Dragon
+	{
+		background-color: #C6A114;
+		text-align: center;
+	}
 
-.Electric
-{
-	background-color: #EEBE01;
-	text-align: center;
-}
+	.Electric
+	{
+		background-color: #EEBE01;
+		text-align: center;
+	}
 
-.Fairy
-{
-	background-color: #D01D4F;
-	text-align: center;
-}
+	.Fairy
+	{
+		background-color: #D01D4F;
+		text-align: center;
+	}
 
-.Fire
-{
-	background-color: #E71416;
-	text-align: center;
-}
+	.Fire
+	{
+		background-color: #E71416;
+		text-align: center;
+	}
 
-.Fighting
-{
-	background-color: #B7401E;
-	text-align: center;
-}
+	.Fighting
+	{
+		background-color: #B7401E;
+		text-align: center;
+	}
 
-.Grass
-{
-	background-color: #00963F; 
-	text-align: center;
-}
+	.Grass
+	{
+		background-color: #00963F; 
+		text-align: center;
+	}
 
-.holofoil
-{
-	text-align: left;
-}
+	.holofoil
+	{
+		text-align: left;
+	}
+	
+	.Item
+	{
+		color: #025FA9;
+	}
 
-.Item
-{
-	color: #025FA9;
-}
+	.name
+	{
+		text-align: left;
+	}
 
-.name
-{
-	text-align: left;
-}
+	.Normal
+	{
+		background-color: #E2E7EE;
+		text-align: center;
+	}
 
-.Normal
-{
-	background-color: #E2E7EE;
-	text-align: center;
-}
+	.Poison
+	{
+		background-color: #7D52A1;
+		text-align: center;
+	}
 
-.Poison
-{
-	background-color: #7D52A1;
-	text-align: center;
-}
+	.price
+	{
+		text-align: left;
+	}
 
-.price
-{
-	text-align: left;
-}
+	.rarity
+	{
+		text-align: center;
+	}
 
-.rarity
-{
-	text-align: center;
-}
+	.setnum
+	{
+		text-align: center;
+	}
 
-.setnum
-{
-	text-align: center;
-}
-
-.Steel
-{
-	background-color: #636E77;
-	text-align: center;
-}
+	.Steel
+	{
+		background-color: #636E77;
+		text-align: center;
+	}
 		
-.Stadium
-{
-	color: #4FAC3F;
-}
+	.Stadium
+	{
+		color: #4FAC3F;
+	}
 
-.Supporter
-{
-	color: #CF4226;
-}
+	.Supporter
+	{
+		color: #CF4226;
+	}
+	
+	.Water
+	{
+		background-color: #0295D2;
+		text-align: center;
+	}
 
-.Water
-{
-	background-color: #0295D2;
-	text-align: center;
-}
-
-.xtrainfo
-{
-	text-align: left;
-}
+	.xtrainfo
+	{
+		text-align: left;
+	}
 }

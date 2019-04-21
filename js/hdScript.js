@@ -31,17 +31,15 @@ function viewHD(deckName)
 	if(viewMenu["main"])
 		toggleMenu();
 
-	if( !viewMain["bspPage"] )
+	if( !viewMain["setPage"] )
 	{
 		viewMain["start"] = false;
 		document.getElementById("cards").style.display = "none";
-		viewMain["bspPage"] = true;
-		document.getElementById("bspTemplate").style.display = "block";	
-		viewMain["setPage"] = false;
-		document.getElementById("setTemplate").style.display = "none";
+		viewMain["setPage"] = true;
+		document.getElementById("setTemplate").style.display = "block";
 	}
 	
-	document.getElementById("bspTitle").innerHTML = hdNames[deckName];
+	document.getElementById("setTitle").innerHTML = hdNames[deckName];
 	
 	var my_json = (function () {
 			var json = [];
@@ -91,11 +89,11 @@ function viewHD(deckName)
 	var myperc = (my_json.length / parseFloat(bspinfo["Total Cards"])) * 100;
 	bspInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%";
 
-	document.getElementById("bspInfo").innerHTML = bspInfoStr;
+	document.getElementById("setInfo").innerHTML = bspInfoStr;
 
 	var imgUrl = "./images/halfdecks/" + hdNames[deckName].replace(/ /g,"").toLowerCase() + "halfdeck.png";
-	document.getElementById("bspImage").src = imgUrl; 
-
+	document.getElementById("setImage").src = imgUrl; 
+	document.getElementById("setTitleImg").style.display = "none";
 
 	//////////////////////TABLE SETUP		
 	var tableStr = "<table>";
@@ -132,5 +130,5 @@ function viewHD(deckName)
 	}
 	tableStr += "</table>";
 
-	document.getElementById("bspTable").innerHTML = tableStr;
+	document.getElementById("setTable").innerHTML = tableStr;
 }

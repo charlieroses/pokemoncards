@@ -13,17 +13,15 @@ function viewBSP(bspName)
 	if(viewMenu["main"])
 		toggleMenu();
 
-	if( !viewMain["bspPage"] )
+	if( !viewMain["setPage"] )
 	{
 		viewMain["start"] = false;
 		document.getElementById("cards").style.display = "none";
-		viewMain["bsp"] = true;
-		document.getElementById("bspTemplate").style.display = "block";	
-		viewMain["setPage"] = false;
-		document.getElementById("setTemplate").style.display = "none";
+		viewMain["setPage"] = true;
+		document.getElementById("setTemplate").style.display = "block";
 	}
 	
-	document.getElementById("bspTitle").innerHTML = promoNames[bspName];
+	document.getElementById("setTitle").innerHTML = promoNames[bspName];
 	var my_json = (function () {
 			var json = [];
 			$.ajax({
@@ -71,8 +69,9 @@ function viewBSP(bspName)
 	bspInfoStr += "<b>Percentage Complete:</b> " + Math.trunc(myperc).toString() + "%";
 
 
-	document.getElementById("bspInfo").innerHTML = bspInfoStr;
-	document.getElementById("bspImage").src = "./images/general/promo.png";
+	document.getElementById("setInfo").innerHTML = bspInfoStr;
+	document.getElementById("setImage").src = "./images/general/promo.png";
+	document.getElementById("setTitleImg").style.display = "none";
 
 
 	//////////////////////TABLE SETUP		
@@ -111,5 +110,5 @@ function viewBSP(bspName)
 	}
 	tableStr += "</table>"
 
-	document.getElementById("bspTable").innerHTML = tableStr;
+	document.getElementById("setTable").innerHTML = tableStr;
 }

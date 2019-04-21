@@ -53,33 +53,27 @@
 #cards {
   margin-left: 80px; }
 
+#setTemplate {
+  display: none; }
+  #setTemplate #setTable {
+    height: 75%;
+    overflow-y: scroll; }
+
 .template {
-  display: none;
   height: 100%;
   padding-left: 80px;
   position: relative;
   width: 100%; }
   .template .templateHeader {
     background-color: #FFFFFF;
-    position: fixed;
-    top: 0;
     width: 100%; }
     .template .templateHeader img {
-      height: 100px; }
+      max-height: 200px;
+      max-width: 600px; }
     .template .templateHeader .inlineHead > * {
       display: inline-block;
       padding-right: 10px;
       vertical-align: middle; }
-  .template #setTable {
-    bottom: 0;
-    height: 70%;
-    overflow-y: scroll;
-    position: fixed; }
-  .template #bspTable {
-    bottom: 0;
-    height: 75%;
-    overflow-y: scroll;
-    position: fixed; }
   .template td {
     background-color: #F6F6F6;
     border-radius: 2px;

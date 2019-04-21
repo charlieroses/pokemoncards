@@ -15,8 +15,6 @@ function viewSet(setName)
 	{
 		viewMain["start"] = false;
 		document.getElementById("cards").style.display = "none";
-		viewMain["bsp"] = false;
-		document.getElementById("bspTemplate").style.display = "none";	
 		viewMain["setPage"] = true;
 		document.getElementById("setTemplate").style.display = "block";
 	}
