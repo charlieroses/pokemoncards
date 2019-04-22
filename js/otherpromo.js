@@ -47,6 +47,9 @@ function viewOther(setName)
 							json = data[i];
 						}
 					}
+				},
+				"error": function() {
+					window.alert("HALP");
 				}
 			});
 			return json;
@@ -66,41 +69,54 @@ function viewOther(setName)
 	document.getElementById("setTitleImg").style.display = "none";
 
 
-	//////////////////////TABLE SETUP		
+	if(setName == "PokeTrivia")
+		makeTriviaTable(my_json);
+	else if(setName == "Topps Chrome")
+		makeTCTable(my_json);
+}
+
+function makeTriviaTable(my_json)
+{
 	var tableStr = "<table>";
-	tableStr += "<tr id='tableheader'><th>Set Number</th><th>Dex No</th><th>Pokemon</th><th>Type</th>";
-	tableStr += "<th>HoloFoil</th><th>Promo Source</th><th>Extra Information</th><th>Artist</th><th>Price</th><th>Damaged</th><th>Date Recieved</th></tr>";
+	tableStr += "<tr id='tableheader'><th>Dex No</th><th>Pokemon</th><th>Movie Scene</th>";
+	tableStr += "<th colspan='2'>Trivia</th><th>Price</th></tr>";
 
 	for(var i = 0; i < my_json.length; i++)
 	{
 		tableStr += "<tr>";
-		tableStr += "<td class='setnum'>" + my_json[i]["Set No."] + "</td>";
 		tableStr += "<td class='dex'>" + my_json[i]["Pokedex"] + "</td>";
 		tableStr += "<td class='name'>" + my_json[i]["Pokemon"] + "</td>";
-	
-		cardType = my_json[i]["Type"];
-
-		if( my_json[i]["Pokedex"] == "T" )
-		{
-			tableStr += "<td class=" + types[cardType] + ">" + types[cardType] + "</td>";
-		}
-		else
-		{
-			imgSRC = "./images/trainer/e" + types[cardType] + ".png"
-			tableStr += "<td class=\"" + types[cardType] + "\"><img src='" + imgSRC + "'></td>";
-		}
-
-		tableStr += "<td class='holofoil'>" + my_json[i]["HoloFoil"] + "</td>";
-		tableStr += "<td class='xtrainfo'>" + my_json[i]["Promo Event"] + "</td>";
-		tableStr += "<td class='xtrainfo'>" + my_json[i]["Other"] + "</td>";
-		tableStr += "<td class='artist'>" + my_json[i]["Artist"] + "</td>";
+		tableStr += "<td class='movie'>" + my_json[i]["Movie Scene"] + "</td>";
+		tableStr += "<td class='xtrainfo'>" + my_json[i]["Question"] + "</td>";
+		tableStr += "<td class='xtrainfo'>" + my_json[i]["Answer"] + "</td>";
 		tableStr += "<td class='price'>" + my_json[i]["Price"] + "</td>";
-		tableStr += "<td class='damage'>" + my_json[i]["Damaged"] + "</td>";
-		tableStr += "<td class='date'>" + my_json[i]["Date"] + "</td>";
 		tableStr += "</tr>";
 
 	}
 	tableStr += "</table>"
 
 	document.getElementById("setTable").innerHTML = tableStr;
+
+}
+
+function makeTCTable(my_json)
+{
+	var tableStr = "<table>";
+	tableStr += "<tr id='tableheader'><th>Dex No</th><th>Pokemon</th>";
+	tableStr += "<th>Series</th><th>Price</th></tr>";
+
+	for(var i = 0; i < my_json.length; i++)
+	{
+		tableStr += "<tr>";
+		tableStr += "<td class='dex'>" + my_json[i]["Pokedex"] + "</td>";
+		tableStr += "<td class='name'>" + my_json[i]["Pokemon"] + "</td>";
+		tableStr += "<td class='xtrainfo'>" + my_json[i]["Series"] + "</td>";
+		tableStr += "<td class='price'>" + my_json[i]["Price"] + "</td>";
+		tableStr += "</tr>";
+
+	}
+	tableStr += "</table>"
+
+	document.getElementById("setTable").innerHTML = tableStr;
+
 }
