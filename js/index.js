@@ -67,3 +67,14 @@ function toggleTab(tabID)
 	viewMenu[tabID] = !( viewMenu[tabID] );
 }
 
+function viewLanding()
+{
+	if( !viewMain["start"] )
+	{
+		viewMain["start"] = true;
+		document.getElementById("cards").style.display = "block";
+		viewMain["setPage"] = false;
+		document.getElementById("setTemplate").style.display = "none";
+	}
+	
+}
