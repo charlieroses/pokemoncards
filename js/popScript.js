@@ -55,7 +55,7 @@ function viewPop(popName)
 			$.ajax({
 				'async': false,
 				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/popseriespromoinfo.json",
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/infojson/popseriespromoinfo.json",
 				'dataType': "json",
 				'success': function (data) {
 					for( var i = 0; i < data.length; i++)

@@ -44,7 +44,7 @@ function viewSet(setName)
 			$.ajax({
 				'async': false,
 				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/setsinfo.json",
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/infojson/setsinfo.json",
 				'dataType': "json",
 				'success': function (data) {
 					for( var i = 0; i < data.length; i++)

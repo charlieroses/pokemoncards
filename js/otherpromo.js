@@ -37,7 +37,7 @@ function viewOther(setName)
 			$.ajax({
 				'async': false,
 				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/otherinfo.json",
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/infojson/otherinfo.json",
 				'dataType': "json",
 				'success': function (data) {
 					for( var i = 0; i < data.length; i++)

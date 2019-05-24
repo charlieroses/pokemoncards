@@ -66,7 +66,7 @@ function viewHD(deckName)
 			$.ajax({
 				'async': false,
 				'global': false,
-				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/halfdeckinfo.json",
+				'url': "https://charlierosec.github.io/pokemoncards/jsonFiles/infojson/halfdeckinfo.json",
 				'dataType': "json",
 				'success': function (data) {
 					for( var i = 0; i < data.length; i++)
