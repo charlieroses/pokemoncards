@@ -1,14 +1,14 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-11,Metapod,G,2,,,3/214,,Shigenori Negishi,,,5/15/2019
-43,Oddish,G,1,,,5/214,,0313,,,5/11/2019
-736,Grubbin,G,1,,,18/214,,YUka Morii,,,5/15/2019
-725,Litten,F,1,,,26/214,,0313,,,5/15/2019
-757,Salandit,F,1,,,30/214,,Yusuke Ohmura,,,5/11/2019
-79,Slowpoke,W,1,,,42/214,,Kouki Saitou,,,5/15/2019
-98,Krabby,W,1,Full,,46/214,,Sekio,,,5/15/2019
-99,Kingler,W,3,,,47/214,,Shigenori Negishi,,,5/15/2019
-771,Pyukumuku,W,2,,,53/214,,Asako Ite,,,5/11/2019
-200,Misdreavus,P,1,,,77/214,,Miki Tanaka,,,5/11/2019
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+11,Metapod,G,2,,,3/214,,Shigenori Negishi,,,5/15/2019,189041
+43,Oddish,G,1,,,5/214,,0313,,,5/11/2019,189043
+736,Grubbin,G,1,,,18/214,,YUka Morii,,,5/15/2019,189060
+725,Litten,F,1,,,26/214,,0313,,,5/15/2019,189071
+757,Salandit,F,1,,,30/214,,Yusuke Ohmura,,,5/11/2019,189079
+79,Slowpoke,W,1,,,42/214,,Kouki Saitou,,,5/15/2019,189122
+98,Krabby,W,1,Full,,46/214,,Sekio,,,5/15/2019,189145
+99,Kingler,W,3,,,47/214,,Shigenori Negishi,,,5/15/2019,189146
+771,Pyukumuku,W,2,,,53/214,,Asako Ite,,,5/11/2019,189152
+200,Misdreavus,P,1,,,77/214,,Miki Tanaka,,,5/11/2019,189177
 27,Sandshrew,Fg,1,,,83/214,,Sekio,,,5/11/2019
 74,Geodude,Fg,1,,,87/214,,Sumiyoshi Kizuki,,,5/15/2019
 111,Rhyhorn,Fg,1,,,93/214,,otumami,,,5/15/2019

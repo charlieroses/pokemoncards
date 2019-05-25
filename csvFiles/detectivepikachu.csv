@@ -1,18 +1,18 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-1,Bulbasaur,G,1,Reverse,,1/18,,MPC Film,,,
-272,Ludicolo,G,3,Reverse,,2/18,,Framestore,,,
-755,Morelull,G,1,Reverse,,3/18,,MPC Film,,,
-4,Charmander,F,1,Reverse,,4/18,,MPC Film,,,
-59,Arcanine,F,3,Reverse,,5/18,,MPC Film,,,
-54,Psyduck,W,1,Reverse,,7/18,,Framestore,,,
-129,Magikarp,W,1,Reverse,,8/18,,Framestore,,,
-658,Greninja,W,5,Reverse,,9/18,,MPC Film,,,
-25,Detective Pikachu,El,3,Reverse,,10/18,,MPC Film,,,
-122,Mr. Mime,P,3,Reverse,,11/18,,MPC Film,,,
-150,Mewtwo,P,5,Reverse,,12/18,,MPC Film,,,
-68,Machamp,Fg,3,Reverse,,13/18,,MPC Film,,,
-39,Jigglypuff,Fa,1,Reverse,,14/18,,Framestore,,,
-209,Snubbull,Fa,1,Reverse,,15/18,,Framestore,,,
-108,Lickitung,N,1,Reverse,,16/18,,MPC Film,,,
-132,Ditto,N,5,Reverse,,17/18,,MPC Film,,,
-289,Slaking,N,3,Reverse,,18/18,,Framestore,,,
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+1,Bulbasaur,G,1,Reverse,,1/18,,MPC Film,,,,186001
+272,Ludicolo,G,3,Reverse,,2/18,,Framestore,,,,186003
+755,Morelull,G,1,Reverse,,3/18,,MPC Film,,,,186004
+4,Charmander,F,1,Reverse,,4/18,,MPC Film,,,,186005
+59,Arcanine,F,3,Reverse,,5/18,,MPC Film,,,,186009
+54,Psyduck,W,1,Reverse,,7/18,,Framestore,,,,186010
+129,Magikarp,W,1,Reverse,,8/18,,Framestore,,,,186012
+658,Greninja,W,5,Reverse,,9/18,,MPC Film,,,,186013
+25,Detective Pikachu,El,3,Reverse,,10/18,,MPC Film,,,,186015
+122,Mr. Mime,P,3,Reverse,,11/18,,MPC Film,,,,186019
+150,Mewtwo,P,5,Reverse,,12/18,,MPC Film,,,,186020
+68,Machamp,Fg,3,Reverse,,13/18,,MPC Film,,,,186021
+39,Jigglypuff,Fa,1,Reverse,,14/18,,Framestore,,,,186022
+209,Snubbull,Fa,1,Reverse,,15/18,,Framestore,,,,186023
+108,Lickitung,N,1,Reverse,,16/18,,MPC Film,,,,186024
+132,Ditto,N,5,Reverse,,17/18,,MPC Film,,,,186025
+289,Slaking,N,3,Reverse,,18/18,,Framestore,,,,186026
