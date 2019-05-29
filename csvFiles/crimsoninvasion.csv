@@ -1,19 +1,19 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-14,Kakuna,G,2,,,2/111,,Miki Kudo,,,
-15,Beedrill,G,3,,,3/111,,kirisAki,,,
-102,Exeggcute,G,1,,,4/111,,Kouki Saitou,,,
-331,Cacnea,G,1,,,5/111,,Anesaki Dynamic,,,
-332,Cacturne,G,3,,,6/111,,Mina Nokai,,,
-588,Karrablast,G,1,,,7/111,,OOYAMA,,,
-626,Shelmet,G,1,,,8/111,,OOYAMA,,,
-617,Accelgor,G,2,,,9/111,,tetsuya koizumi,,,
-672,Skiddo,G,1,Reverse,,10/111,,Naoki Saito,,,
-120,Staryu,W,1,,,15/111,,Yukiko Baba,,,
-220,Swinub,W,1,,,16/111,,Eri Yamaki,,,
-129,Magikarp,W,1,,,17/111,,TOKIYA,,,
-221,Piloswine,W,2,,,20/111,,Kouki Saitou,,,
-341,Corphish,W,1,,,24/111,,Masakazu Fukuda,,,
-349,Feebas,W,1,,,26/111,,Hitoshi Ariga,,,
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+14,Kakuna,G,2,,,2/111,,Miki Kudo,,,,149022
+15,Beedrill,G,3,,,3/111,,kirisAki,,,,149023
+102,Exeggcute,G,1,,,4/111,,Kouki Saitou,,,,149025
+331,Cacnea,G,1,,,5/111,,Anesaki Dynamic,,,,149026
+332,Cacturne,G,3,,,6/111,,Mina Nokai,,,,149027
+588,Karrablast,G,1,,,7/111,,OOYAMA,,,,149028
+626,Shelmet,G,1,,,8/111,,OOYAMA,,,,149029
+617,Accelgor,G,2,,,9/111,,tetsuya koizumi,,,,149030
+672,Skiddo,G,1,Reverse,,10/111,,Naoki Saito,,,,149031
+120,Staryu,W,1,,,15/111,,Yukiko Baba,,,,149036
+220,Swinub,W,1,,,16/111,,Eri Yamaki,,,,149040
+129,Magikarp,W,1,,,17/111,,TOKIYA,,,,149038
+221,Piloswine,W,2,,,20/111,,Kouki Saitou,,,,149041
+341,Corphish,W,1,,,24/111,,Masakazu Fukuda,,,,149045
+349,Feebas,W,1,,,26/111,,Hitoshi Ariga,,,,149047
 422,Shellos,W,1,,,29/111,,Kouki Saitou,,,
 25,Pikachu,El,1,,,30/111,,Shibuzoh.,,,
 74,Alolan Geodude,El,1,Full,,32/111,,Mitsuhiro Arita,,,

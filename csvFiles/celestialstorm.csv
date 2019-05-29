@@ -1,47 +1,47 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-70,Weepinbell,G,2,,,2/168,,Miki Tanaka,,,
-123,Scyther,G,2,Reverse,,4/168,,Hajime Kusajima,,,
-252,Treeko,G,1,,,8/168,,tetsuya koizumi,,,
-254,Sceptile,G,3,Full,,10/168,,Mitsuhiro Arita,,,
-273,Seedot,G,1,,,12/168,,Misa Tsutsui,,,
-283,Surskit,G,1,,,15/168,,Ken Sugimori,,,
-284,Masquerain,G,2,Reverse,,16/168,,Yukiko Baba,,,
-331,Cacnea,G,1,,,19/168,,Atsuko Nishida,,,
-218,Slugma,F,1,,,23/168,,Midori Harada,,,
-219,Magcargo,F,3,,,24/168,,Midori Harada,,,
-255,Torchic,F,1,,,26/168,,MAHOU,,,
-258,Mudkip,W,1,,,32/168,,Shigenori Negishi,,,
-258,Mudkip,W,1,,,33/168,,Misa Tsutsui,,,
-259,Marshtomp,W,2,,,34/168,,Ken Sugimori,,,
-320,Wailmer,W,1,,,39/168,,Kagemaru Himeno,,,
-310,Manectric,El,3,,,52/168,,Sanosuke Sakuma,,,
-316,Gulpin,P,1,Reverse,,57/168,,Yuka Morii,,,
-325,Spoink,P,1,,,59/168,,MAHOU,,,
-353,Shuppet,P,1,,,63/168,,Mitsuhiro Arita,,,
-353,Shuppet,P,1,,,64/168,,Eri Yamaki,,,
-354,Banette,P,3,,,65/168,,Eri Yamaki,,,
-232,Donphan,Fg,2,,,73/168,,Ken Sugimori,,,5/11/2019
-307,Meditite,Fg,1,,,76/168,,Shibuzoh.,,,5/11/2019
-343,Baltoy,Fg,1,,,78/168,,Ken Sugimori,,,
-344,Claydol,Fg,3,,,79/168,,Yumi,,,
-774,Minior,Fg,2,,,83/146,,sui,,,
-215,Sneasel,D,1,,,86/168,,Ken Sugimori,,,
-302,Sableye,D,2,,,88/168,,Yukiko Baba,,,
-374,Beldum,Sl,1,,,92/168,,Naoyo Kimura,,,
-374,Beldum,Sl,1,,,93/168,,Hasuno,,,
-379,Registeel,Sl,3,,,96/168,,Shin Nagasawa,,,
-206,Dunsparce,N,2,,,110/168,,Mitsuhiro Arita,,,
-278,Wingull,N,1,,,111/168,,Ken Sugimori,,,
-289,Slaking,N,3,Reverse,,115/168,,Ken Sugimori,,,5/11/2019
-293,Whismur,N,1,Full,,117/168,,Asako Ito,,,5/11/2019
-T,Apricorn Maker,Su,2,,,124/168,,Kagemaru Himeno,,,5/11/2019
-T,Bill's Maintenance,Su,2,,,126/168,,Ken Sugimori,,,
-T,Copycat,Su,2,,,127/168,,Ken Sugimori,,,
-T,Energy Recycle System,I,2,,,128/168,,Zu-Ka,,,
-T,Friend Ball,I,2,,,131/168,,Katsura Tabata,,,
-T,Hau,Su,2,,,132/168,,TOKIYA,,,
-T,The Masked Royal,Su,2,,,139/168,,Ken Sugimori,,,
-T,Super Scoop Up,I,2,,,146/168,,Keiji Kinebuchi,,,
-T,Switch,I,2,,,147/168,,Hiromichi Sugiyama,,,
-T,Tate & Liza,Su,2,,,148/168,,Megumi Mizutani,,,
-T,TV Reporter,Su,2,,,149/168,,Ken Sugimori,,,
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+70,Weepinbell,G,2,,,2/168,,Miki Tanaka,,,,170807
+123,Scyther,G,2,Reverse,,4/168,,Hajime Kusajima,,,,170810
+252,Treeko,G,1,,,8/168,,tetsuya koizumi,,,,170813
+254,Sceptile,G,3,Full,,10/168,,Mitsuhiro Arita,,,,170816
+273,Seedot,G,1,,,12/168,,Misa Tsutsui,,,,170820
+283,Surskit,G,1,,,15/168,,Ken Sugimori,,,,170825
+284,Masquerain,G,2,Reverse,,16/168,,Yukiko Baba,,,,170826
+331,Cacnea,G,1,,,19/168,,Atsuko Nishida,,,,170829
+218,Slugma,F,1,,,23/168,,Midori Harada,,,,170834
+219,Magcargo,F,3,,,24/168,,Midori Harada,,,,170837
+255,Torchic,F,1,,,26/168,,MAHOU,,,,170839
+258,Mudkip,W,1,,,32/168,,Shigenori Negishi,,,,170849
+258,Mudkip,W,1,,,33/168,,Misa Tsutsui,,,,170850
+259,Marshtomp,W,2,,,34/168,,Ken Sugimori,,,,170851
+320,Wailmer,W,1,,,39/168,,Kagemaru Himeno,,,,170856
+310,Manectric,El,3,,,52/168,,Sanosuke Sakuma,,,,170871
+316,Gulpin,P,1,Reverse,,57/168,,Yuka Morii,,,,170878
+325,Spoink,P,1,,,59/168,,MAHOU,,,,170880
+353,Shuppet,P,1,,,63/168,,Mitsuhiro Arita,,,,170884
+353,Shuppet,P,1,,,64/168,,Eri Yamaki,,,,170885
+354,Banette,P,3,,,65/168,,Eri Yamaki,,,,170886
+232,Donphan,Fg,2,,,73/168,,Ken Sugimori,,,5/11/2019,170895
+307,Meditite,Fg,1,,,76/168,,Shibuzoh.,,,5/11/2019,170898
+343,Baltoy,Fg,1,,,78/168,,Ken Sugimori,,,,170900
+344,Claydol,Fg,3,,,79/168,,Yumi,,,,170901
+774,Minior,Fg,2,,,83/146,,sui,,,,170905
+215,Sneasel,D,1,,,86/168,,Ken Sugimori,,,,170908
+302,Sableye,D,2,,,88/168,,Yukiko Baba,,,,170910
+374,Beldum,Sl,1,,,92/168,,Naoyo Kimura,,,,170917
+374,Beldum,Sl,1,,,93/168,,Hasuno,,,,170918
+379,Registeel,Sl,3,,,96/168,,Shin Nagasawa,,,,170921
+206,Dunsparce,N,2,,,110/168,,Mitsuhiro Arita,,,,170939
+278,Wingull,N,1,,,111/168,,Ken Sugimori,,,,170940
+289,Slaking,N,3,Reverse,,115/168,,Ken Sugimori,,,5/11/2019,170944
+293,Whismur,N,1,Full,,117/168,,Asako Ito,,,5/11/2019,170975
+T,Apricorn Maker,Su,2,,,124/168,,Kagemaru Himeno,,,5/11/2019,170985
+T,Bill's Maintenance,Su,2,,,126/168,,Ken Sugimori,,,,170987
+T,Copycat,Su,2,,,127/168,,Ken Sugimori,,,,170988
+T,Energy Recycle System,I,2,,,128/168,,Zu-Ka,,,,170989
+T,Friend Ball,I,2,,,131/168,,Katsura Tabata,,,,170992
+T,Hau,Su,2,,,132/168,,TOKIYA,,,,170993
+T,The Masked Royal,Su,2,,,139/168,,Ken Sugimori,,,,171000
+T,Super Scoop Up,I,2,,,146/168,,Keiji Kinebuchi,,,,171007
+T,Switch,I,2,,,147/168,,Hiromichi Sugiyama,,,,171008
+T,Tate & Liza,Su,2,,,148/168,,Megumi Mizutani,,,,171009
+T,TV Reporter,Su,2,,,149/168,,Ken Sugimori,,,171010
