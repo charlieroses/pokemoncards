@@ -1,62 +1,62 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-70,Weepinbell,G,2,,,2/145,,Mina Nakai,,,
-708,Phantump,G,1,,,6/145,,Sanosuke Sakuma,,,
-709,Trevenant,G,3,Full,,7/145,,Hiroyuki Yamamoto,,,
-767,Wimpod,G,1,,,8/145,,match,,,
-607,Litwick,F,1,,,11/145,,Mitsuhiro Arita,,,
-609,Chandelure,F,3,Reverse,,13/145,,Kouki Saitou,,,
-757,Salandit,F,1,,,15/145,,TOKIYA,,,
-225,Delibird,W,1,,,26/145,,sui,,,
-318,Carvanha,W,1,,,27/145,,Hideki Ishikawa,,,
-320,Wailmer,W,1,,,29/145,,Miki Tanaka,,,
-362,Glalie,W,2,,,32/145,,so-taro,,,
-582,Vanilite,W,1,Full,,33/145,,OOYAMA,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
-583,Vanillish,W,2,,,34/145,,Naoki Saito,,,
-746,Wishiwashi,W,1,,,37/145,,Sanosuke Sakuma,,,
-74,Alolan Geodude,El,1,,,40/145,,Hitoshi Ariga,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
-75,Alolan Graveler,El,2,,,41/145,,match,,,
-80,Slowbro,P,2,Reverse,,49/145,,Shibuzoh.,,,
-568,Trubbish,P,1,,,50/145,,Yuka Morii,,,
-574,Gothita,P,1,,,52/145,,Yuka Morii,,,
-576,Gothitelle,P,3,,,54/145,,Mitsuhiro Arita,,,
-741,Oricorio,P,3,,,56/145,,TOKIYA,,,
-781,Dhelmise,P,3,Full,,59/145,,Hasuno,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
-67,Machoke,Fg,2,,,64/145,,Kouki Saitou,,,
-68,Machamp,Fg,3,Reverse,,65/145,,Hitoshi Ariga,,,
-185,Sudowoodo,Fg,2,,,66/145,,Hajime Kusajima,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
-207,Gligar,Fg,1,,,67/145,,Mina Nakai,,,
-472,Gliscor,Fg,2,,,68/145,,Yoshinobu Saito,,,
-299,Nosepass,Fg,1,,,69/145,,Tomokazu Komiya,,,
-339,Barboach,Fg,1,,,70/145,,sui,,,
-340,Whiscash,Fg,3,,,71/145,,Masakazu Fukuda,,,
-674,Pancham,Fg,1,,,72/145,,TOKIYA,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
-744,Rockruff,Fg,1,,,73/145,,Naoki Saito,,,
-749,Mudbray,Fg,1,,,75/145,,Kouki Saitou,,,
-8,Clefairy,Fa,1,,,88/145,,Kogemaru Himeno,,,
-704,Goomy,Dr,1,,,94/145,,Asako Ito,,,
-780,Drampa,Dr,3,Reverse,,97/145,,match,,,
-782,Jangmo-o,Dr,1,,,98/145,,match,,,
-783,Hakamo-o,Dr,2,,,99/145,,Shin Nagasawa,,,
-276,Tailow,N,1,,,103/145,,Ayaka Yoshida,,,
-277,Swellow,N,3,Reverse,,104/145,,Kagemaru Himeno,,,
-351,Castform,N,1,,,105/145,,sui,,,
-504,Patrat,N,1,,,107/145,,Ayaka Yoshida,,,
-505,Watchog,N,2,,,108/145,,Kagemaru Himeno,,,
-661,Fletchling,N,1,,,109/145,,You Iribi,,,
-662,Fletchinder,N,2,Full,,110/145,,kawayoo,,,
-663,Talonflame,N,3,,,111/145,,Shin Nagasawa,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
-760,Bewear,N,2,,,113/145,,Shin Nagasawa,,,Fri Apr 12 2019 00:00:00 GMT-0400 (EDT)
-775,Komala,N,2,,,114/145,,Kouki Saitou,,,
-T,Aether Paradise Conservation Area,S,2,,,116/145,,5ban Graphics,,,
-T,Alter of the Moone,S,2,,,117/145,,5ban Graphics,,,
-T,Aqua Patch,I,2,,,119/145,,Toyste Beach,,,
-T,Brooklet Hill,S,2,Full,,120/145,,5ban Graphics,,,
-T,Choice Band,I,2,,,121/145,,Eske Yoshinob,,,
-T,Enhanced Hammer,I,2,,,124/145,,Yoshinobu Saito,,,
-T,Field Blower,I,2,Full,,125/145,,Toyste Beach,,,
-T,Hala,Su,2,,,126/145,,Ken Sugimori,,,
-T,Mallow,Su,2,,,127/145,,Ken Sugimori,,,
-T,Max Potion,I,2,,,128/145,,Toyste Beach,,,
-T,Multi Switch,I,2,,,129/145,,Toyste Beach,,,
-T,Rescue Stretcher,I,2,,,130/145,,Yoshinobu Saito,,,
-727,Incineroar,F,5,Full,Full Art / Rainbow / Ridged,147/145,,5ban Graphics,,,
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+70,Weepinbell,G,2,,,2/145,,Mina Nakai,,,,130687
+708,Phantump,G,1,,,6/145,,Sanosuke Sakuma,,,,130691
+709,Trevenant,G,3,Full,,7/145,,Hiroyuki Yamamoto,,,,130692
+767,Wimpod,G,1,,,8/145,,match,,,,130693
+607,Litwick,F,1,,,11/145,,Mitsuhiro Arita,,,,130757
+609,Chandelure,F,3,Reverse,,13/145,,Kouki Saitou,,,,130759
+757,Salandit,F,1,,,15/145,,TOKIYA,,,,130761
+225,Delibird,W,1,,,26/145,,sui,,,,130926
+318,Carvanha,W,1,,,27/145,,Hideki Ishikawa,,,,130927
+320,Wailmer,W,1,,,29/145,,Miki Tanaka,,,,130929
+362,Glalie,W,2,,,32/145,,so-taro,,,,130932
+582,Vanilite,W,1,Full,,33/145,,OOYAMA,,,4/12/2019,130933
+583,Vanillish,W,2,,,34/145,,Naoki Saito,,,,130934
+746,Wishiwashi,W,1,,,37/145,,Sanosuke Sakuma,,,,130937
+74,Alolan Geodude,El,1,,,40/145,,Hitoshi Ariga,,,4/12/2019,130942
+75,Alolan Graveler,El,2,,,41/145,,match,,,,130943
+80,Slowbro,P,2,Reverse,,49/145,,Shibuzoh.,,,,130955
+568,Trubbish,P,1,,,50/145,,Yuka Morii,,,,130956
+574,Gothita,P,1,,,52/145,,Yuka Morii,,,,130958
+576,Gothitelle,P,3,,,54/145,,Mitsuhiro Arita,,,,130960
+741,Oricorio,P,3,,,56/145,,TOKIYA,,,,130962
+781,Dhelmise,P,3,Full,,59/145,,Hasuno,,,4/12/2019,130967
+67,Machoke,Fg,2,,,64/145,,Kouki Saitou,,,,130974
+68,Machamp,Fg,3,Reverse,,65/145,,Hitoshi Ariga,,,,130975
+185,Sudowoodo,Fg,2,,,66/145,,Hajime Kusajima,,,4/12/2019,130976
+207,Gligar,Fg,1,,,67/145,,Mina Nakai,,,,130977
+472,Gliscor,Fg,2,,,68/145,,Yoshinobu Saito,,,,130978
+299,Nosepass,Fg,1,,,69/145,,Tomokazu Komiya,,,,130979
+339,Barboach,Fg,1,,,70/145,,sui,,,,130980
+340,Whiscash,Fg,3,,,71/145,,Masakazu Fukuda,,,,130981
+674,Pancham,Fg,1,,,72/145,,TOKIYA,,,4/12/2019,130982
+744,Rockruff,Fg,1,,,73/145,,Naoki Saito,,,,130983
+749,Mudbray,Fg,1,,,75/145,,Kouki Saitou,,,,130987
+8,Clefairy,Fa,1,,,88/145,,Kogemaru Himeno,,,131002
+704,Goomy,Dr,1,,,94/145,,Asako Ito,,,,131010
+780,Drampa,Dr,3,Reverse,,97/145,,match,,,,131013
+782,Jangmo-o,Dr,1,,,98/145,,match,,,,131014
+783,Hakamo-o,Dr,2,,,99/145,,Shin Nagasawa,,,,131015
+276,Tailow,N,1,,,103/145,,Ayaka Yoshida,,,,131021
+277,Swellow,N,3,Reverse,,104/145,,Kagemaru Himeno,,,,131022
+351,Castform,N,1,,,105/145,,sui,,,,131023
+504,Patrat,N,1,,,107/145,,Ayaka Yoshida,,,,131025
+505,Watchog,N,2,,,108/145,,Kagemaru Himeno,,,,131026
+661,Fletchling,N,1,,,109/145,,You Iribi,,,,131027
+662,Fletchinder,N,2,Full,,110/145,,kawayoo,,,,131028
+663,Talonflame,N,3,,,111/145,,Shin Nagasawa,,,4/12/2019,131029
+760,Bewear,N,2,,,113/145,,Shin Nagasawa,,,412/2019,131031
+775,Komala,N,2,,,114/145,,Kouki Saitou,,,,131032
+T,Aether Paradise Conservation Area,S,2,,,116/145,,5ban Graphics,,,,131036
+T,Alter of the Moone,S,2,,,117/145,,5ban Graphics,,,,131037
+T,Aqua Patch,I,2,,,119/145,,Toyste Beach,,,,131039
+T,Brooklet Hill,S,2,Full,,120/145,,5ban Graphics,,,,131040
+T,Choice Band,I,2,,,121/145,,Eske Yoshinob,,,,131041
+T,Enhanced Hammer,I,2,,,124/145,,Yoshinobu Saito,,,,131044
+T,Field Blower,I,2,Full,,125/145,,Toyste Beach,,,,131045
+T,Hala,Su,2,,,126/145,,Ken Sugimori,,,,131046
+T,Mallow,Su,2,,,127/145,,Ken Sugimori,,,,131047
+T,Max Potion,I,2,,,128/145,,Toyste Beach,,,,131048
+T,Multi Switch,I,2,,,129/145,,Toyste Beach,,,,131049
+T,Rescue Stretcher,I,2,,,130/145,,Yoshinobu Saito,,,,131050
+727,Incineroar,F,5,Full,Full Art / Rainbow / Ridged,147/145,,5ban Graphics,,,,131055
