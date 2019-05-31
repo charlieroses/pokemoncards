@@ -1,77 +1,77 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-495,Snivy,G,1,,,1/114,,Kagemaru Himeno,,,
-495,Snivy,G,1,Reverse,,2/114,,5ban Graphics,,,
-496,Servine,G,2,,,3/114,,Kagemaru Himeno,,,
-497,Serperior,G,3,Reverse,,5/114,,Kagemaru Himeno,,,
-497,Serperior,G,3,Art,,5/114,,Kagemaru Himeno,,,
-497,Serperior,G,3,Art,,6/114,,5ban Graphics,,,
-511,Pansage,G,1,Reverse,,7/114,,sui,,,
-512,Simisage,G,2,Reverse,,8/114,,Masakazu Fukuda,,,
-548,Petilil,G,1,,,9/114,,Kagemaru Himeno,,,
-556,Maractus,G,3,,,12/114,,Kouki Saitou,,,
-585,Deerling,G,1,,,13/114,,Atsuko Nishida,,,
-586,Sawsbuck,G,3,,,14/114,,Naoyo Kimura,,,
-498,Tepig,F,1,,,15/114,,Kouki Saitou,,,
-498,Tepig,F,1,,,16/114,,5ban Graphics,,,
-499,Pignite,F,2,Reverse,,17/114,,Kouki Saitou,,,
-499,Pignite,F,2,,,18/114,,5ban Graphics,,,
-513,Pansear,F,1,,,21/114,,match,,,
-514,Simisear,F,2,,,22/114,,Shin Nagasawa,,,
-554,Darumaka,F,2,,,24/114,,Masakazu Fukuda,,,
-501,Oshawott,W,1,,,27/114,,Masakazu Fukuda,,,
-501,Oshawott,W,1,,,28/114,,5ban Graphics,,,
-502,Dewott,W,2,Art,,29/114,,Masakazu Fukuda,,,
-502,Dewott,W,2,,,30/114,,5ban Graphics,,,
-503,Samurott,W,3,,,31/114,,Masakazu Fukuda,,,
-515,Panpour,W,1,,,33/114,,Atsuko Nishida,Tattered Edges,,
-516,Simipour,W,2,,,34/114,,Kagemaru Himeno,,,
-550,Basculin,W,2,,,35/114,,Naoyo Kimura,,,
-580,Ducklett,W,1,,,36/114,,Kagemaru Himeno,,,
-581,Swanna,W,3,,,37/114,,Naoyo Kimura,,,
-594,Alomomola,W,3,,,39/114,,Naoyo Kimura,,,
-522,Blitzle,El,1,,,40/114,,Kouki Saitou,,,
-522,Blitzle,El,1,,,41/114,,Kagemaru Himeno,,,
-523,Zebstrika,El,2,Reverse,,42/114,,Kouki Saitou,,,
-595,Joltik,El,1,,,44/114,,Kouki Saitou,,,
-595,Joltik,El,1,Reverse,,45/114,,Masakazu Fukuda,,,
-596,Galvantula,El,3,,,46/114,,Mitsuhiro Arita,,,
-517,Munna,P,2,,,48/114,,Atsuko Nishida,,,
-518,Musharna,P,3,,,49/114,,Masakazu Fukuda,,,
-527,Woobat,P,1,,,50/114,,MAHOU,,,
-528,Swoobat,P,2,,,51/114,,Kouki Saitou,,,
-543,Venipede,P,1,,,52/114,,Masakazu Fukuda,,,
-544,Whirlipede,P,2,,,53/114,,Masakazu Fukuda,,,
-545,Scolipede,P,3,,,54/114,,Masakazu Fukuda,,,
-577,Solosis,P,1,,,55/114,,MAHOU,,,
-578,Duosion,P,2,,,56/114,,Shin Nagasawa,,,
-532,Timburr,Fg,1,,,58/114,,match,,,
-532,Timburr,Fg,1,,,59/114,,Masakazu Fukuda,,,
-539,Sawk,Fg,3,Reverse,,62/114,,Naoki Saito,,,
-551,Sandile,Fg,1,,,63/114,,Naoyo Kimura,,,
-552,Krokorok,Fg,2,,,64/114,,Kouki Saitou,,,
-559,Scraggy,D,1,,,68/114,,Masakazu Fukuda,,,
-560,Scrafty,D,3,,,69/114,,Shin Nagasawa,,,
-630,Mandibuzz,D,3,,,73/114,,Kouki Saitou,,,
-599,Klink,Sl,1,,,74/114,,Masakazu Fukuda,,,
-600,Klang,Sl,2,,,75/114,,Naoki Saito,,,
-504,Patrat,N,1,,,77/114,,Kagemaru Himeno,,,
-504,Patrat,N,1,,,78/114,,Masakazu Fukuda,,,
-506,Lillipup,N,1,,,80/114,,Masakazu Fukuda,,,
-506,Lillipup,N,1,,,81/114,,sui,,,
-508,Stoutland,N,3,,,83/114,,match,,,
-519,Pidove,N,1,,,84/114,,Masakazu Fukuda,,,
-520,Tranquill,N,2,,,85/114,,Kouki Saitou,,,
-521,Unfezant,N,3,,,86/114,,Kagemaru Himeno,,,
-531,Audino,N,2,,,87/114,,MAHOU,,,
-572,Minccino,N,1,,,88/114,,sui,,,
-626,Bouffalant,N,2,,,90/114,,Naoki Saito,,,
-T,Energy Retrieval,I,2,,,92/114,,Kent Kanetsuna,,,
-T,Energy Search,I,1,,,93/114,,Ryo Ueda,,,
-T,Full Heal,I,2,,,95/114,,5ban Graphics,,,
-T,Poke Ball,I,2,,,97/114,,Yuri Umemura,,,
-T,Pokedex,I,2,,,98/114,,Noriko Hotta,,,
-T,Pokemon Communication,I,2,,,99/114,,5ban Graphics,,,
-T,Professor Juniper,Su,2,,,101/114,,Ken Sugimori,,,
-T,Revive,I,2,,,102/114,,5ban Graphics,,,
-T,Switch,I,1,Full,,104/114,,Ayaka Yoshida,,,
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+495,Snivy,G,1,,,1/114,,Kagemaru Himeno,,,,89375
+495,Snivy,G,1,Reverse,,2/114,,5ban Graphics,,,,89376
+496,Servine,G,2,,,3/114,,Kagemaru Himeno,,,,89076
+497,Serperior,G,3,Reverse,,5/114,,Kagemaru Himeno,,,,89069
+497,Serperior,G,3,Art,,5/114,,Kagemaru Himeno,,,,89069
+497,Serperior,G,3,Art,,6/114,,5ban Graphics,,,,89070
+511,Pansage,G,1,Reverse,,7/114,,sui,,,,87932
+512,Simisage,G,2,Reverse,,8/114,,Masakazu Fukuda,,,,89221
+548,Petilil,G,1,,,9/114,,Kagemaru Himeno,,,,87990
+556,Maractus,G,3,,,12/114,,Kouki Saitou,,,,97187
+585,Deerling,G,1,,,13/114,,Atsuko Nishida,,,,84724
+586,Sawsbuck,G,3,,,14/114,,Naoyo Kimura,,,,88941
+498,Tepig,F,1,,,15/114,,Kouki Saitou,,,,89879
+498,Tepig,F,1,,,16/114,,5ban Graphics,,,,89880
+499,Pignite,F,2,Reverse,,17/114,,Kouki Saitou,,,,88060
+499,Pignite,F,2,,,18/114,,5ban Graphics,,,880
+513,Pansear,F,1,,,21/114,,match,,,,87940
+514,Simisear,F,2,,,22/114,,Shin Nagasawa,,,,89225
+554,Darumaka,F,2,,,24/114,,Masakazu Fukuda,,,,84718
+501,Oshawott,W,1,,,27/114,,Masakazu Fukuda,,,,87890
+501,Oshawott,W,1,,,28/114,,5ban Graphics,,,87891
+502,Dewott,W,2,Art,,29/114,,Masakazu Fukuda,,,,84793
+502,Dewott,W,2,,,30/114,,5ban Graphics,,,,84794
+503,Samurott,W,3,,,31/114,,Masakazu Fukuda,,,,88907
+515,Panpour,W,1,,,33/114,,Atsuko Nishida,Tattered Edges,,,87927
+516,Simipour,W,2,,,34/114,,Kagemaru Himeno,,,,89217
+550,Basculin,W,2,,,35/114,,Naoyo Kimura,,,,83730
+580,Ducklett,W,1,,,36/114,,Kagemaru Himeno,,,,84990
+581,Swanna,W,3,,,37/114,,Naoyo Kimura,,,,89684
+594,Alomomola,W,3,,,39/114,,Naoyo Kimura,,,,83506
+522,Blitzle,El,1,,,40/114,,Kouki Saitou,,,,83927
+522,Blitzle,El,1,,,41/114,,Kagemaru Himeno,,,,83928
+523,Zebstrika,El,2,Reverse,,42/114,,Kouki Saitou,,,,90727
+595,Joltik,El,1,,,44/114,,Kouki Saitou,,,,86353
+595,Joltik,El,1,Reverse,,45/114,,Masakazu Fukuda,,,,86354
+596,Galvantula,El,3,,,46/114,,Mitsuhiro Arita,,,,85610
+517,Munna,P,2,,,48/114,,Atsuko Nishida,,,,87641
+518,Musharna,P,3,,,49/114,,Masakazu Fukuda,,,,87659
+527,Woobat,P,1,,,50/114,,MAHOU,,,,90624
+528,Swoobat,P,2,,,51/114,,Kouki Saitou,,,,89724
+543,Venipede,P,1,,,52/114,,Masakazu Fukuda,,,,90294
+544,Whirlipede,P,2,,,53/114,,Masakazu Fukuda,,,,90570
+545,Scolipede,P,3,,,54/114,,Masakazu Fukuda,,,,88968
+577,Solosis,P,1,,,55/114,,MAHOU,,,,89420
+578,Duosion,P,2,,,56/114,,Shin Nagasawa,,,,85016
+532,Timburr,Fg,1,,,58/114,,match,,,,89912
+532,Timburr,Fg,1,,,59/114,,Masakazu Fukuda,,,,89913
+539,Sawk,Fg,3,Reverse,,62/114,,Naoki Saito,,,,88937
+551,Sandile,Fg,1,,,63/114,,Naoyo Kimura,,,,88912
+552,Krokorok,Fg,2,,,64/114,,Kouki Saitou,,,,86536
+559,Scraggy,D,1,,,68/114,,Masakazu Fukuda,,,,88981
+560,Scrafty,D,3,,,69/114,,Shin Nagasawa,,,,88977
+630,Mandibuzz,D,3,,,73/114,,Kouki Saitou,,,,87150
+599,Klink,Sl,1,,,74/114,,Masakazu Fukuda,,,,86479
+600,Klang,Sl,2,,,75/114,,Naoki Saito,,,,86474
+504,Patrat,N,1,,,77/114,,Kagemaru Himeno,,,,87961
+504,Patrat,N,1,,,78/114,,Masakazu Fukuda,,,,87962
+506,Lillipup,N,1,,,80/114,,Masakazu Fukuda,,,,86797
+506,Lillipup,N,1,,,81/114,,sui,,,,86798
+508,Stoutland,N,3,,,83/114,,match,,,,89570
+519,Pidove,N,1,,,84/114,,Masakazu Fukuda,,,,88054
+520,Tranquill,N,2,,,85/114,,Kouki Saitou,,,,90014
+521,Unfezant,N,3,,,86/114,,Kagemaru Himeno,,,,90159
+531,Audino,N,2,,,87/114,,MAHOU,,,,83659
+572,Minccino,N,1,,,88/114,,sui,,,,87473
+626,Bouffalant,N,2,,,90/114,,Naoki Saito,,,,83943
+T,Energy Retrieval,I,2,,,92/114,,Kent Kanetsuna,,,,85230
+T,Energy Search,I,1,,,93/114,,Ryo Ueda,,,,85249
+T,Full Heal,I,2,,,95/114,,5ban Graphics,,,,85580
+T,Poke Ball,I,2,,,97/114,,Yuri Umemura,,,,88192
+T,Pokedex,I,2,,,98/114,,Noriko Hotta,,,,88200
+T,Pokemon Communication,I,2,,,99/114,,5ban Graphics,,,,88223
+T,Professor Juniper,Su,2,,,101/114,,Ken Sugimori,,,,88395
+T,Revive,I,2,,,102/114,,5ban Graphics,,,,88726
+T,Switch,I,1,Full,,104/114,,Ayaka Yoshida,,,,89721
 T,Water Energy,E,1,,,107/114,,,,,

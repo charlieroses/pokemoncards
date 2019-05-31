@@ -1,25 +1,25 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-283,Surskit,G,1,,,1/101,,Naoyo Kimura,,,
-345,Lileep,G,2,,,3/101,,Suwama Chiaki,,,
-616,Shelmet,G,1,,,7/101,,Sumiyoshi Kizuki,,,
-649,Genesect,G,3,,,10/101,,Masakazu Fukuda,,,
-637,Volcarona,F,3,,Team Plasma's,13/101,,5ban Graphics,,,
-7,Squirtle,W,1,,,14/101,,Akira Komayama,,,
-223,Remoraid,W,1,,,18/101,,Masokazu Fukuda,,,
-362,Glalie,W,2,,Team Plasma,22/101,,5ban Graphics,,,
-369,Relicanth,W,2,,Team Plasma,24/101,,5ban Graphics,,,
-459,Snover,W,1,,,25/101,,Shigenori Negishi,,,
-580,Ducklett,W,1,,,29/101,,Naoki Saito,,,
-425,Drifloon,P,1,,,34/101,,Kyoko Umemoto,,,
-426,Drifblim,P,3,,,35/101,,Akira Komayama,,,
-577,Solosis,P,1,Reverse,,42/101,,Midori Harada,,,
-579,Reuniclus,P,3,,,44/101,,Kagemaru Himeno,,,
-67,Machoke,Fg,2,,,48/101,,match,,,
-68,Machamp,Fg,3,,,50/101,,Kouki Saitou,,,
-228,Houndour,D,1,,,55/101,,Sumiyoshi Kizuki,,,
-115,Kangaskhan,N,1,,,71/101,,Kouki Saitou,,,
-137,Porygon,N,1,,,72/101,,Mitsuhiro Arita,,,
-233,Porygon2,N,2,Reverse,,73/101,,HiRON,,,
-216,Teddiursa,N,1,,,75/101,,Naoyo Kimura,,,
-T,Caitlin,Su,2,,,78/101,,Yusuke Ohmura,,,
-T,Pokemon Catcher,I,2,,,83/101,,5ban Graphics,,,
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+283,Surskit,G,1,,,1/101,,Naoyo Kimura,,,,89652
+345,Lileep,G,2,,,3/101,,Suwama Chiaki,,,,86790
+616,Shelmet,G,1,,,7/101,,Sumiyoshi Kizuki,,,,89148
+649,Genesect,G,3,,,10/101,,Masakazu Fukuda,,,,85661
+637,Volcarona,F,3,,Team Plasma,13/101,,5ban Graphics,,,,90405
+7,Squirtle,W,1,,,14/101,,Akira Komayama,,,,89499
+223,Remoraid,W,1,,,18/101,,Masokazu Fukuda,,,,88700
+362,Glalie,W,2,,Team Plasma,22/101,,5ban Graphics,,,,85757
+369,Relicanth,W,2,,Team Plasma,24/101,,5ban Graphics,,,,88691
+459,Snover,W,1,,,25/101,,Shigenori Negishi,,,,89404
+580,Ducklett,W,1,,,29/101,,Naoki Saito,,,,84995
+425,Drifloon,P,1,,,34/101,,Kyoko Umemoto,,,,84963
+426,Drifblim,P,3,,,35/101,,Akira Komayama,,,,84951
+577,Solosis,P,1,Reverse,,42/101,,Midori Harada,,,,89422
+579,Reuniclus,P,3,,,44/101,,Kagemaru Himeno,,,,88723
+67,Machoke,Fg,2,,,48/101,,match,,,,86985
+68,Machamp,Fg,3,,,50/101,,Kouki Saitou,,,,86970
+228,Houndour,D,1,,,55/101,,Sumiyoshi Kizuki,,,,86234
+115,Kangaskhan,N,1,,,71/101,,Kouki Saitou,,,,86424
+137,Porygon,N,1,,,72/101,,Mitsuhiro Arita,,,,88314
+233,Porygon2,N,2,Reverse,,73/101,,HiRON,,,,88329
+216,Teddiursa,N,1,,,75/101,,Naoyo Kimura,,,,89861
+T,Caitlin,Su,2,,,78/101,,Yusuke Ohmura,,,,84085
+T,Pokemon Catcher,I,2,,,83/101,,5ban Graphics,,,,88210

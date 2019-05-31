@@ -1,36 +1,36 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-205,Forretress,Sl,3,Reverse,,3/90,,Kyoko Umemoto,,,
-85,Dodrio,N,3,,,11/90,,Yukiko Baba,,,
-479,Rotom,El,3,,,20/90,,MAHOU,,,
-227,Skarmory,Sl,3,,,21/90,,Midori Harada,,,
-44,Gloom,G,2,,,27/90,,Mitsuhiro Arita,Dirty,,
-375,Metang,Sl,2,Reverse,,30/90,,TOKIYA,,,
-20,Raticate,N,2,,,34/90,,Sachiko Adachi,,,
-435,Skuntank,D,2,,,37/90,,Naoyo Kimura,,,
-201,Unown,P,2,Reverse,,40/90,,Hideaki Hakozaki,,,
-304,Aron,Sl,1,,,42/90,,match,,,
-374,Beldum,Sl,1,,,43/90,,TOKIYA,,,
-415,Combee,G,1,,,44/90,,Naoyo Kimura,,,
-84,Doduo,N,1,,,45/90,,Yukiko Baba,,,
-88,Grimer,P,1,,,50/90,,Midori Harada,,,
-107,Hitmonchan,Fg,1,,,51/90,,Kouki Saitou,,,
-228,Houndour,D,1,,,53/90,,kawayoo,,,
-228,Houndour,D,1,,,54/90,,Kagemaru Himeno,,,
-303,Mawile,Sl,1,,,56/90,,TOKIYA,,,
-200,Misdreavus,P,1,,,57/90,,Suwama Chiaki,,,
-198,Murkrow,D,1,,,58/90,,kawayoo,,,
-43,Oddish,G,1,,,60/90,,Mitsuhiro Arita,,,
-204,Pineco,G,1,,,63/90,,Kyoko Umemoto,,,
-19,Rattata,N,1,,,64/90,,Sachiko Adachi,,,
-79,Slowpoke,W,1,,,66/90,,Kagemaru Himeno,Dirty,,
-218,Slugma,F,1,,,67/90,,Yuka Morii,,,
-434,Stunky,D,1,,,69/90,,Naoyo Kimura,,,
-T,Burned Tower,S,2,,,71/90,,Ryo Ueda,,,
-T,Defender,T,2,,,72/90,,Ryo Ueda,,,
-T,Energy Exchanger,T,2,,,73/90,,Ryo Ueda,,,
-T,Legend Box,T,2,,,75/90,,Shizurow,,,
-T,Ruins of Alph,S,2,Full,,76/90,,Ryo Ueda,,,
-T,Sage's Training,Su,2,,,77/90,,Masakazu Fukuda,,,
-T,Team Rocket's Trickery,Su,2,,,78/90,,Takao Unno,Tattered,,
-T,Darkness Energy,E,2,,,79/90,,Kent Kanetsuna,,,
-T,Metal Energy,E,2,Full,,80/90,,Kent Kanetsuna,,,
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+205,Forretress,Sl,3,Reverse,,3/90,,Kyoko Umemoto,,,,85551
+85,Dodrio,N,3,,,11/90,,Yukiko Baba,,,,84854
+479,Rotom,El,3,,,20/90,,MAHOU,,,,88839
+227,Skarmory,Sl,3,,,21/90,,Midori Harada,,,,89242
+44,Gloom,G,2,,,27/90,,Mitsuhiro Arita,Dirty,,,85786
+375,Metang,Sl,2,Reverse,,30/90,,TOKIYA,,,,87382
+20,Raticate,N,2,,,34/90,,Sachiko Adachi,,,,88606
+435,Skuntank,D,2,,,37/90,,Naoyo Kimura,,,,89282
+201,Unown,P,2,Reverse,,40/90,,Hideaki Hakozaki,,,,90164
+304,Aron,Sl,1,,,42/90,,match,,,,83638
+374,Beldum,Sl,1,,,43/90,,TOKIYA,,,,83792
+415,Combee,G,1,,,44/90,,Naoyo Kimura,,,,84397
+84,Doduo,N,1,,,45/90,,Yukiko Baba,,,,84865
+88,Grimer,P,1,,,50/90,,Midori Harada,,,,85913
+107,Hitmonchan,Fg,1,,,51/90,,Kouki Saitou,,,,86095
+228,Houndour,D,1,,,53/90,,kawayoo,,,,86230
+228,Houndour,D,1,,,54/90,,Kagemaru Himeno,,,,86231
+303,Mawile,Sl,1,,,56/90,,TOKIYA,,,,87263
+200,Misdreavus,P,1,,,57/90,,Suwama Chiaki,,,,87511
+198,Murkrow,D,1,,,58/90,,kawayoo,,,,87655
+43,Oddish,G,1,,,60/90,,Mitsuhiro Arita,,,,87845
+204,Pineco,G,1,,,63/90,,Kyoko Umemoto,,,,88129
+19,Rattata,N,1,,,64/90,,Sachiko Adachi,,,,88621
+79,Slowpoke,W,1,,,66/90,,Kagemaru Himeno,Dirty,,,89333
+218,Slugma,F,1,,,67/90,,Yuka Morii,,,,89346
+434,Stunky,D,1,,,69/90,,Naoyo Kimura,,,,89587
+T,Burned Tower,S,2,,,71/90,,Ryo Ueda,,,,84058
+T,Defender,T,2,,,72/90,,Ryo Ueda,,,,84727
+T,Energy Exchanger,T,2,,,73/90,,Ryo Ueda,,,,85212
+T,Legend Box,T,2,,,75/90,,Shizurow,,,,86709
+T,Ruins of Alph,S,2,Full,,76/90,,Ryo Ueda,,,,88846
+T,Sage's Training,Su,2,,,77/90,,Masakazu Fukuda,,,,88893
+T,Team Rocket's Trickery,Su,2,,,78/90,,Takao Unno,Tattered,,,89852
+T,Darkness Energy,E,2,,,79/90,,Kent Kanetsuna,,,,84693
+T,Metal Energy,E,2,Full,,80/90,,Kent Kanetsuna,,,,87366
