@@ -1,67 +1,67 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-68,Machamp,Fg,3,Reverse,,8/102,,Ken Sugimori,Torn / Scratched,,
-82,Magneton,El,3,Reverse,,9/102,,Keiji Kinebuchi,,,
-150,Mewtwo,P,3,Art,,10/102,,Ken Sugimori,,,
-17,Pidgeotto,N,3,,,22/102,,Ken Sugimori,,,
-59,Arcanine,F,2,,,23/102,,Ken Sugimori,Bent,,
-5,Charmeleon,F,2,,,24/102,,Mitsuhiro Arita,,,
-147,Dratini,N,2,,,26/102,,Ken Sugimori,,,
-83,Farfetch'd,N,2,,,27/102,,Ken Sugimori,,,
-58,Growlithe,F,2,,,28/102,,Ken Sugimori,,,
-93,Haunter,P,2,,,29/102,,Keiji Kinebuchi,,,
-2,Ivysaur,G,2,,,30/102,,Ken Sugimori,Tattered,,
-124,Jynx,P,2,,,31/102,,Ken Sugimori,,,
-64,Kadabra,P,2,,,32/102,,Ken Sugimori,,,
-67,Machoke,Fg,2,,,34/102,,Ken Sugimori,Torn,,
-129,Magikarp,W,2,,,35/102,,Mitsuhiro Arita,,,
-126,Magmar,F,2,,,36/102,,Ken Sugimori,,,
-61,Poliwhirl,W,2,,,38/102,,Ken Sugimori,,,
-137,Porygon,N,2,,,39/102,,Tomoaki Imakuni,,,
-20,Raticate,N,2,,,40/102,,Ken Sugimori,,,
-84,Doduo,N,1,,,40/102,,Mitsuhiro Arita,,,
-86,Seel,W,2,,,41/102,,Ken Sugimori,,,
-63,Abra,P,1,,,43/102,,Mitsuhiro Arita,,,
-4,Charmander,F,1,,,46/102,,Mitsuhiro Arita,,,
-50,Diglett,Fg,1,,,47/102,,Keiji Kinebuchi,,,
-96,Drowzee,P,1,,,49/102,,Ken Sugimori,,,
-92,Gastly,P,1,,,50/102,,Keiji Kinebuchi,,,
-109,Koffing,G,1,,,51/102,,Mitsuhiro Arita,,,
-66,Machop,Fg,1,,,52/102,,Mitsuhiro Arita,,,
-11,Metapod,G,1,,,54/102,,Ken Sugimori,,,
-32,Nidoran M,G,1,,,55/102,,Ken Sugimori,Bent,,
-32,Nidoran M,G,1,,Japanese / Original Back,32,,Ken Sugimori,,,
-95,Onix,Fg,1,,,56/102,,Ken Sugimori,,,
-25,Pikachu,El,1,,,58/102,,Mitsuhiro Arita,Bent,,
-60,Poliwag,W,1,,,59/102,,Ken Sugimori,,,
-77,Ponyta,F,1,,,60/102,,Ken Sugimori,,,
-7,Squirtle,W,1,,,63/102,,Mitsuhiro Arita,Tattered,,
-121,Starmie,W,1,,,64/102,,Keiji Kinebuchi,Corners Bad,,
-120,Staryu,W,1,,,65/102,,Keiji Kinebuchi,Bent,,
-114,Tangela,G,1,,,66/102,,Mitsuhiro Arita,,,
-100,Voltorb,El,1,,,67/102,,Keiji Kinebuchi,,,
-37,Vulpix,F,1,,,68/102,,Ken Sugimori,,,
-T,Computer Search,T,3,,,71/102,,Keiji Kinebuchi,,,
-T,Devolution Spray,T,3,,,72/102,,Keiji Kinebuchi,,,
-T,Imposter Professor Oak,T,3,,,73/102,,Ken Sugimori,,,
-T,Pokemon Trader,T,3,,,77/102,,Ken Sugimori,,,
-T,Scoop Up,T,3,,,78/102,,Keiji Kinebuchi,,,
-T,Defender,T,2,,,80/102,,Keiji Kinebuchi,,,
-T,Full Heal,T,2,,,82/102,,Keiji Kinebuchi,,,
-T,Maintenance,T,2,,,83/102,,Keiji Kinebuchi,,,
-T,PlusPower,T,2,,,84/102,,Keiji Kinebuchi,,,
-T,Pokemon Center,T,2,,,85/102,,Keiji Kinebuchi,,,
-T,Pokedex,T,2,,,87/102,,Keiji Kinebuchi,,,
-T,Professor Oak,T,2,,,88/102,,Ken Sugimori,,,
-T,Super Potion,T,2,,,90/102,,Keiji Kinebuchi,,,
-T,Bill,T,1,,,91/102,,Ken Sugimori,,,
-T,Energy Removal,T,1,,,92/102,,Keiji Kinebuchi,,,
-T,Gust of Wind,T,1,,,93/102,,Keiji Kinebuchi,,,
-T,Potion,T,1,,,94/102,,Keiji Kinebuchi,,,
-T,Switch,T,1,,,95/102,,Keiji Kinebuchi,,,
-T,Double Colorless,E,2,,,96/102,,Keiji Kinebuchi,,,
-T,Fight Energy,E,,,,97/102,,Keiji Kinebuchi,,,
-T,Fire Energy,E,,,,98/102,,Keiji Kinebuchi,,,
-T,Grass Energy,E,,,,99/102,,Keiji Kinebuchi,,,
-T,Electric Energy,E,,,,100/102,,Keiji Kinebuchi,,,
-T,Psychic Energy,E,,,,101/102,,Keiji Kinebuchi,,,
-T,Water Energy,E,,,,102/102,,Keiji Kinebuchi,,,
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+68,Machamp,Fg,3,Reverse,,8/102,,Ken Sugimori,Torn / Scratched,,,null
+82,Magneton,El,3,Reverse,,9/102,,Keiji Kinebuchi,,,,107003
+150,Mewtwo,P,3,Art,,10/102,,Ken Sugimori,,,,107005
+17,Pidgeotto,N,3,,,22/102,,Ken Sugimori,,,,107017
+59,Arcanine,F,2,,,23/102,,Ken Sugimori,Bent,,,107018
+5,Charmeleon,F,2,,,24/102,,Mitsuhiro Arita,,,,107021
+147,Dratini,N,2,,,26/102,,Ken Sugimori,,,,107023
+83,Farfetch'd,N,2,,,27/102,,Ken Sugimori,,,,107024
+58,Growlithe,F,2,,,28/102,,Ken Sugimori,,,,107024
+93,Haunter,P,2,,,29/102,,Keiji Kinebuchi,,,,107026
+2,Ivysaur,G,2,,,30/102,,Ken Sugimori,Tattered,,,107027
+124,Jynx,P,2,,,31/102,,Ken Sugimori,,,,107028
+64,Kadabra,P,2,,,32/102,,Ken Sugimori,,,,107029
+67,Machoke,Fg,2,,,34/102,,Ken Sugimori,Torn,,,107031
+129,Magikarp,W,2,,,35/102,,Mitsuhiro Arita,,,,107032
+126,Magmar,F,2,,,36/102,,Ken Sugimori,,,,107033
+61,Poliwhirl,W,2,,,38/102,,Ken Sugimori,,,,107035
+137,Porygon,N,2,,,39/102,,Tomoaki Imakuni,,,,107036
+20,Raticate,N,2,,,40/102,,Ken Sugimori,,,,107037
+84,Doduo,N,1,,,40/102,,Mitsuhiro Arita,,,,107045
+86,Seel,W,2,,,41/102,,Ken Sugimori,,,,107037
+63,Abra,P,1,,,43/102,,Mitsuhiro Arita,,,,107040
+4,Charmander,F,1,,,46/102,,Mitsuhiro Arita,,,,107043
+50,Diglett,Fg,1,,,47/102,,Keiji Kinebuchi,,,,107044
+96,Drowzee,P,1,,,49/102,,Ken Sugimori,,,,107046
+92,Gastly,P,1,,,50/102,,Keiji Kinebuchi,,,,107047
+109,Koffing,G,1,,,51/102,,Mitsuhiro Arita,,,,107048
+66,Machop,Fg,1,,,52/102,,Mitsuhiro Arita,,,,107049
+11,Metapod,G,1,,,54/102,,Ken Sugimori,,,,107051
+32,Nidoran M,G,1,,,55/102,,Ken Sugimori,Bent,,,107052
+32,Nidoran M,G,1,,Japanese / Original Back,32,,Ken Sugimori,,,,null
+95,Onix,Fg,1,,,56/102,,Ken Sugimori,,,,107053
+25,Pikachu,El,1,,,58/102,,Mitsuhiro Arita,Bent,,,107055
+60,Poliwag,W,1,,,59/102,,Ken Sugimori,,,,107056
+77,Ponyta,F,1,,,60/102,,Ken Sugimori,,,,107057
+7,Squirtle,W,1,,,63/102,,Mitsuhiro Arita,Tattered,,,107060
+121,Starmie,W,1,,,64/102,,Keiji Kinebuchi,Corners Bad,,,107061
+120,Staryu,W,1,,,65/102,,Keiji Kinebuchi,Bent,,,107062
+114,Tangela,G,1,,,66/102,,Mitsuhiro Arita,,,,107063
+100,Voltorb,El,1,,,67/102,,Keiji Kinebuchi,,,,107064
+37,Vulpix,F,1,,,68/102,,Ken Sugimori,,,,107065
+T,Computer Search,T,3,,,71/102,,Keiji Kinebuchi,,,,107068
+T,Devolution Spray,T,3,,,72/102,,Keiji Kinebuchi,,,,107069
+T,Imposter Professor Oak,T,3,,,73/102,,Ken Sugimori,,,,107070
+T,Pokemon Trader,T,3,,,77/102,,Ken Sugimori,,,,107073
+T,Scoop Up,T,3,,,78/102,,Keiji Kinebuchi,,,,107075
+T,Defender,T,2,,,80/102,,Keiji Kinebuchi,,,,107077
+T,Full Heal,T,2,,,82/102,,Keiji Kinebuchi,,,,107079
+T,Maintenance,T,2,,,83/102,,Keiji Kinebuchi,,,,107080
+T,PlusPower,T,2,,,84/102,,Keiji Kinebuchi,,,,107081
+T,Pokemon Center,T,2,,,85/102,,Keiji Kinebuchi,,,,107082
+T,Pokedex,T,2,,,87/102,,Keiji Kinebuchi,,,,107084
+T,Professor Oak,T,2,,,88/102,,Ken Sugimori,,,,107085
+T,Super Potion,T,2,,,90/102,,Keiji Kinebuchi,,,,107087
+T,Bill,T,1,,,91/102,,Ken Sugimori,,,,107088
+T,Energy Removal,T,1,,,92/102,,Keiji Kinebuchi,,,,107089
+T,Gust of Wind,T,1,,,93/102,,Keiji Kinebuchi,,,,107090
+T,Potion,T,1,,,94/102,,Keiji Kinebuchi,,,,107091
+T,Switch,T,1,,,95/102,,Keiji Kinebuchi,,,,10792
+T,Double Colorless,E,2,,,96/102,,Keiji Kinebuchi,,,,107099
+T,Fight Energy,E,,,,97/102,,Keiji Kinebuchi,,,,107093
+T,Fire Energy,E,,,,98/102,,Keiji Kinebuchi,,,,107094
+T,Grass Energy,E,,,,99/102,,Keiji Kinebuchi,,,,107095
+T,Electric Energy,E,,,,100/102,,Keiji Kinebuchi,,,,107097
+T,Psychic Energy,E,,,,101/102,,Keiji Kinebuchi,,,,107096
+T,Water Energy,E,,,,102/102,,Keiji Kinebuchi,,,,107098

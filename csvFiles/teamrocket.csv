@@ -1,13 +1,13 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-44,Dark Gloom,G,2,,,36/82,,Kagemaru Himeno,,,
-89,Dark Muk,G,2,,,41/82,,Kagemaru Himeno,,,
-63,Abra,P,1,,,49/82,,Sumiyoshi Kizuki,,,
-4,Charmander,F,1,,,50/82,,Kagemaru Himeno,,,
-20,Dark Raticate,N,1,,,51/82,,Shin-Ichi Toshida,,,
-50,Diglett,Fg,1,,,52/82,,Sumiyoshi Kizuki,,,
-96,Drowzee,P,1,,,54/82,,Kagemaru Himeno,,,
-133,Eevee,N,1,,,55/82,,Atsuko Nishida,,,
-88,Grimer,G,1,,,57/82,,Kagemaru Himeno,,,
-109,Koffing,G,1,,,58/82,,Sumiyoshi Kizuki,,,
-T,Nightly Garbage Run,T,2,,,77/82,,Sumiyoshi Kizuki,,,
-T,Potion Energy,E,2,,,82/82,,Keiji Kinebuchi,,,
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+44,Dark Gloom,G,2,,,36/82,,Kagemaru Himeno,,,,84600
+89,Dark Muk,G,2,,,41/82,,Kagemaru Himeno,,,,84630
+63,Abra,P,1,,,49/82,,Sumiyoshi Kizuki,,,,83445
+4,Charmander,F,1,,,50/82,,Kagemaru Himeno,,,,84204
+20,Dark Raticate,N,1,,,51/82,,Shin-Ichi Toshida,,,,84649
+50,Diglett,Fg,1,,,52/82,,Sumiyoshi Kizuki,,,,84819
+96,Drowzee,P,1,,,54/82,,Kagemaru Himeno,,,,84969
+133,Eevee,N,1,,,55/82,,Atsuko Nishida,,,,85078
+88,Grimer,G,1,,,57/82,,Kagemaru Himeno,,,,85905
+109,Koffing,G,1,,,58/82,,Sumiyoshi Kizuki,,,,86491
+T,Nightly Garbage Run,T,2,,,77/82,,Sumiyoshi Kizuki,,,,87755
+T,Potion Energy,E,2,,,82/82,,Keiji Kinebuchi,,,,88350

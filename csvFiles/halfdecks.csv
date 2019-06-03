@@ -1,36 +1,36 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-711,Gourgeist,P,,,,2/30,N,5ban Graphics,,,
-24,Arbok,P,3,,,3/30,N,Naoki Saito,,$2.56,
-659,Bunnelby,N,,,,4/30,N,5ban Graphics,,,
-710,Pumpkaboo,P,,,,11/30,N,5ban Graphics,,,
-T,Potion,I,,,,15/30,N,5ban Graphics,,,
-23,Ekans,P,1,,,16/30,N,Shigenori Negishi,,$2.19,
-676,Forfrou,N,,,,20/30,N,5ban Graphics,,,
-T,Poke Ball,I,,,,21/30,N,5ban Graphics,,,
-714,Noibat,N,,,,23/30,N,5ban Graphics,,,
-T,Dark Energy,E,,,,28/30,N,,,,
-715,Noivern,Dr,,,,30/30,N,5ban Graphics,,,
-T,Switch,I,,,,4/30,S,5ban Graphics,,,
-676,Forfrou,N,,,,16/30,S,5ban Graphics,,,
-T,Fairy Energy,E,,,,18/30,S,,,,
-661,Fletchling,N,,,,19/30,S,5ban Graphics,,,
-T,Pokemon Catcher,I,,,,23/30,S,5ban Graphics,,,
-209,Snubbull,Fa,,,,27/30,S,Naoki Saito,,,
-210,Granbull,Fa,,,,29/30,S,Masokazu Fukuda,,,
-700,Sylveon,Fa,,,,30/30,S,5ban Graphics,,,
-509,Purrloin,D,,,,1/30,Z,Kagemaru Himeno,,,
-505,Watchog,N,,,,2/30,Z,match,,,
-T,PlusPower,I,,,,11/30,Z,5ban Graphics,,,
-570,Zorua,D,,,,13/30,Z,Kouki Saitou,,,
-571,Zoroark,D,,,,17/30,Z,Shin Nagasawa,,,
-T,Energy Switch,I,,,,4/30,E,Kent Kanetsuna,,,
-533,Gurdurr,Fg,,,,14/30,E,Naoki Saito,,,
-T,Potion,I,,,,15/30,E,Ayaka Yoshida,,,
-530,Excadrill,Fg,,,,17/30,E,5ban Graphics,,,
-507,Herdier,N,,,,19/30,E,Midori Harada,,,
-66,Machop,Fg,,,,5/11,L,Atsuko Nishida,Dirty,,
-419,Floatzel,W,,,,2/12,Ma,Masahiko Ishii,,,
-118,Goldeen,W,,,,3/12,Ma,Atsuko Nishida,,,
-490,Manaphy,W,,Art,,4/12,Ma,Daisuke Ito,,,
-325,Spoink,P,,,,7/12,P,Kagemaru Himeno,,,
-255,Torchic,F,,,,7/10,La,Hironobu Yoshida,Bent,,
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+711,Gourgeist,P,,,,2/30,N,5ban Graphics,,,,97997
+24,Arbok,P,3,,,3/30,N,Naoki Saito,,$2.56,,97998
+659,Bunnelby,N,,,,4/30,N,5ban Graphics,,,,97999
+710,Pumpkaboo,P,,,,11/30,N,5ban Graphics,,,,98006
+T,Potion,I,,,,15/30,N,5ban Graphics,,,,98010
+23,Ekans,P,1,,,16/30,N,Shigenori Negishi,,$2.19,,98011
+676,Forfrou,N,,,,20/30,N,5ban Graphics,,,,98018
+T,Poke Ball,I,,,,21/30,N,5ban Graphics,,,,98019
+714,Noibat,N,,,,23/30,N,5ban Graphics,,,,98020
+T,Dark Energy,E,,,,28/30,N,,,,,null
+715,Noivern,Dr,,,,30/30,N,5ban Graphics,,,,98025
+T,Switch,I,,,,4/30,S,5ban Graphics,,,,97969
+676,Forfrou,N,,,,16/30,S,5ban Graphics,,,,97981
+T,Fairy Energy,E,,,,18/30,S,,,,,97983
+661,Fletchling,N,,,,19/30,S,5ban Graphics,,,,97984
+T,Pokemon Catcher,I,,,,23/30,S,5ban Graphics,,,97988
+209,Snubbull,Fa,,,,27/30,S,Naoki Saito,,,,97992
+210,Granbull,Fa,,,,29/30,S,Masokazu Fukuda,,,,97994
+700,Sylveon,Fa,,,,30/30,S,5ban Graphics,,,,97995
+509,Purrloin,D,,,,1/30,Z,Kagemaru Himeno,,,,98703
+505,Watchog,N,,,,2/30,Z,match,,,,98705
+T,PlusPower,I,,,,11/30,Z,5ban Graphics,,,,98694
+570,Zorua,D,,,,13/30,Z,Kouki Saitou,,,,98710
+571,Zoroark,D,,,,17/30,Z,Shin Nagasawa,,,,98715
+T,Energy Switch,I,,,,4/30,E,Kent Kanetsuna,,,,98684
+533,Gurdurr,Fg,,,,14/30,E,Naoki Saito,,,,98691
+T,Potion,I,,,,15/30,E,Ayaka Yoshida,,,,98692
+530,Excadrill,Fg,,,,17/30,E,5ban Graphics,,,,98695
+507,Herdier,N,,,,19/30,E,Midori Harada,,,98701
+66,Machop,Fg,,,,5/11,L,Atsuko Nishida,Dirty,,,86996
+419,Floatzel,W,,,,2/12,Ma,Masahiko Ishii,,,,85512
+118,Goldeen,W,,,,3/12,Ma,Atsuko Nishida,,,,85808
+490,Manaphy,W,,Art,,4/12,Ma,Daisuke Ito,,,,87145
+325,Spoink,P,,,,7/12,P,Kagemaru Himeno,,,,89475
+255,Torchic,F,,,,7/10,La,Hironobu Yoshida,Bent,,,89954
