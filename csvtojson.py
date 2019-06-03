@@ -10,6 +10,7 @@ import os
 import sys
 
 def createJSONFileName(csvPath):
+	print("Converting", csvPath)
 	temp = csvPath
 	temp = temp.split("/")
 	csvName = temp.pop()
