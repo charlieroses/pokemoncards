@@ -1,13 +1,17 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+10,Caterpie,G,1,Full,Italian,1/147,,Sekio,,,6/2/2019,XXXXXX
 11,Metapod,G,2,,,2/147,,Suwama Chiaki,,,4/20/2019,138272
 12,Butterfree,G,3,Full,,3/147,,Shin Nagasawa,,,4/12/2019,138273
 43,Oddish,G,1,,,4/147,,Sumiyoshi Kizuki,,,,138274
 44,Gloom,G,2,,,5/147,,Shibuzoh.,,,,138275
 114,Tangela,G,1,,,7/147,,Shibuzoh.,,,,138277
+114,Tangela,G,1,,Italian,7/147,,Shibuzoh.,,,6/2/2019,138277
 165,Ledyba,G,1,,,9/147,,Ayaka Yoshida,,,,138279
+214,Heracross,G,3,,Italian,11/147,,Shin Nagasawa,,,6/2/2019,XXXXXX
 511,Pansage,G,1,,,12/147,,Shigenori Negishi,,,,138282
 512,Simisage,G,2,,,13/147,,tetsuya koizumi,,,4/12/2019,138283
 751,Dewpider,G,1,,,14/147,,Kouki Saitou,,,,138284
+751,Dewpider,G,1,,Italian,14/147,,Kouki Saitou,Bent,,6/2/2019,138284
 4,Charmander,F,1,Full,,18/147,,Kagemaru Himeno,,,4/20/2019,138454
 5,Charmeleon,F,2,,,19/147,,Kawayoo,,,,138485
 776,Turtonator,F,3,,,26/147,,Kouki Saitou,,,4/12/2019,138506
@@ -21,14 +25,17 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 603,Eelektrik,El,2,,,45/147,,OOYAMA,,,,138527
 202,Wobbuffet,P,2,,,49/147,,nagimiso,,,,138531
 336,Seviper,P,2,Reverse,,50/147,,Eri Yamaki,,,,138532
+336,Seviper,P,2,,Italian,50/147,,Eri Yamaki,,,6/2/2019,138532
 355,Duskull,P,1,,,51/147,,Midori Harada,,,4/12/2019,138533
 543,Venipede,P,1,Full,,56/147,,Yukiko Baba,,,,138538
 544,Whirlipede,P,2,,,57/147,,SATOSHI NAKAI,,,4/12/2019,138539
 677,Espurr,P,1,,,59/147,,Miki Tanaka,,,5/5/2019,138541
 769,Sandygast,P,1,,,61/147,,Masokazu Fukuda,,,4/20/2019,138543
 111,Rhyhorn,Fg,1,,,65/147,,miki kudo,,,,138551
+111,Rhyhorn,Fg,1,,Italian,65/147,,miki kudo,,,6/2/2019,138551
 112,Rhydon,Fg,2,,,66/147,,Sanosuke Sakuma,,,,138552
 447,Riolu,Fg,1,,,70/147,,Saya Tsuruta,,,4/12/2019,138556
+447,Riolu,Fg,1,,Italian,70/147,,Saya Tsuruta,,,6/2/2019,138556
 539,Sawk,Fg,1,,,72/147,,Shigenori Negishi,,,,138558
 739,Crabrawler,Fg,1,,,73/147,,kirisAki,,,,138559
 749,Mudbray,Fg,1,,,77/147,,Saya Tsuruta,,,,138563
@@ -37,7 +44,9 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 280,Ralts,Fa,1,,,91/147,,Yumi,,,,138583
 281,Kirlia,Fa,2,,,92/147,,Anesaki Dynamic,,,,138584
 742,Cutiefly,Fa,1,,,95/147,,Atsuko Nishida,,,,138589
+742,Cutiefly,Fa,1,,Italian,95/147,,Atsuko Nishida,,,6/2/2019,138589
 743,Ribombee,Fa,2,,,96/147,,Megumi Mizutani,,,,138590
+743,Ribombee,Fa,2,,Italian,96/147,,Megumi Mizutani,,,6/2/2019,138590
 755,Morelull,Fa,1,,,97/147,,Hitoshi Arigo,,,,138591
 137,Porygon,N,1,,,103/147,,Shin Nagasawa,,,5/5/2019,138599
 233,Porygon2,N,2,,,104/147,,Midori Harada,,,,138600
@@ -50,6 +59,7 @@ T,Guzma,Su,2,,,115/147,,Ken Sugimori,,,,138611
 T,Lana,Su,2,,,117/147,,Ken Sugimori,,,,138614
 T,Olivia,Su,2,,,119/147,,Ken Sugimori,,,,138615
 T,Po Town,S,2,Full,,121/147,,5ban Graphics,,,5/5/2019,138631
+T,Chrys,Su,2,,Italian,123/147,,Ken Sugimori,,,6/2/2019,XXXXXX
 T,Weakness Policy,I,2,,,126/147,,Ayaka Yoshida,,,,138628
 T,Wishful Baton,I,2,,,128/147,,Toyste Beach,,,4/20/2019,138629
 802,Marshadow GX,Fg,5,Full,Full Art / Rainbow / Ridged,156/147,,5ban Graphics,,$9.32,4/20/2019,138568
