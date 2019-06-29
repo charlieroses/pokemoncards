@@ -3,10 +3,11 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 193,Yanma,G,1,,,6/114,,match,,,,120995
 273,Seedot,G,1,Full,,9/114,,sui,,,4/12/2019,120998
 275,Shiftry,G,3,Reverse,Dual Type / Shiny,11/114,,XXXXXX,,,6/15/2019,XXXXXX
+591,Amoonguss,G,3,,,13/114,,Ken Sugimori,,,6/29/2019,XXXXXX
 77,Ponyta,F,1,,,16/114,,Sumiyoshi Kizuki,,,,121005
 78,Rapidash,F,2,,,17/114,,Yukiko Baba,,,,121006
 390,Chimchar,F,1,,,18/114,,Shibuzoh,,,,121007
-667,Litleo,F,1,,,23/114,,Kyoko Umemoto,,,,121010
+667,Litleo,F,1,,,22/114,,Kyoko Umemoto,,,,121010
 501,Oshawott,W,1,,,30/114,,sui,,,,121017
 502,Dewott,W,2,,,31/114,,Shin Nagasawa,,,,121018
 179,Mareep,El,1,,,38/114,,Eri Yamaki,,,,121127
@@ -28,6 +29,9 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 600,Klang,Sl,2,,,72/114,,Shigenori Negishi,,,,121201
 183,Marill,Fa,1,,,76/114,,Shibuzoh,,,,121205
 184,Azumarill,Fa,2,,Dual Type / Shiny,77/114,,Sanosuke Sakuma,,,,120153
+707,Klefki,Fa,2,,,80/114,,Saya Tsuruta,,,6/29/2019,XXXXXX
+716,Xerneas BREAK,Fa,5,Full,Full Art / Break,82/114,,5ban Graphics,,,6/29/2019,XXXXXX
+633,Deino,Dr,1,,,84/114,,Suwama Chiaki,,,6/29/2019,XXXXXX
 634,Zweilous,Dr,2,,,85/114,,Ken Sugimori,,,,121211
 52,Meowth,N,1,,,88/114,,Masakazu Fukuda,,,,121214
 53,Persian,N,2,,,89/114,,Anesaki Dynamic,,,,121215
@@ -35,6 +39,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 424,Ambipom,N,2,Reverse,,91/114,,Atsuko Nishida,,,,121217
 627,Rufflet,N,1,Reverse,,92/114,,Mitsuhiro Arita,,,,121218
 661,Fletchling,N,1,Reverse,,94/114,,TOKIYA,,,,121220
+T,Armor Fossil Shieldon,I,2,,,98/114,,Toyste Beach,,,6/29/2019,XXXXXX
 T,Greedy Dice,I,2,,,102/114,,Toyste Beach,,,,121226
 T,Pokemon Ranger,Su,2,,,104/114,,Yusuke Ohmura,,,,121228
 T,Special Charge,I,2,,,105/114,,Toyste Beach,,,4/12/2019,121229
