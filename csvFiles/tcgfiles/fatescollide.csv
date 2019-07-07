@@ -3,17 +3,23 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 413,Wormadam,G,2,,,3/124,,kawayoo,,,,117766
 414,Mothim,G,3,,,4/124,,MAHOU,,,,117767
 495,Snivy,G,1,,,5/124,,Atsuko Nishida,,,,117768
+497,Serperior,G,3,,,7/124,,You iribi,,,7/7/2019,XXXXXX
 653,Fennekin,F,1,,,10/124,,Akira Komayama,,,,117773
 653,Fennekin,F,1,,,11/124,,kirisAki,,,,117774
 654,Braixen,F,2,,,12/124,,kirisAki,,,,117775
 86,Seel,W,1,,,15/124,,Hasuno,,,,117777
 688,Binacle,W,1,,,22/124,,Tomokazu Komiya,,,,117784
-688,Binacle (JPN),W,1,,,22/124,,Tomokazu Komiya,,,,000000
+688,Binacle (JPN),W,1,,Japanese,22/124,,Tomokazu Komiya,,,,XXXXXX
 110,Weezing,P,2,,,28/124,,Shin Nagasawa,,,,117788
+325,Spoink,P,1,,,30/124,,TOKIYA,,,7/7/2019,XXXXXX
 574,Gothita,P,1,,,32/124,,Kagemaru Himeno,,,,117792
+577,Solosis,P,1,,,33/124,,match,,,7/7/2019,XXXXXX
 105,Marowak,Fg,3,,,37/124,,Shin Nagasawa,,,,117797
+247,Pupitar,Fg,2,,,42/124,,match,,,7/7/2019,XXXXXX
 413,Wormadam,Fg,2,Reverse,,44/124,,Hajime Kusajima,,,,117804
 447,Riolu,Fg,1,,,45/124,,You Iribi,,,,117805
+447,Riolu,Fg,1,,,46/124,,match,,,7/7/2019,XXXXXX
+703,Carbink,Fg,1,,,50/124,,kawayoo,,,7/7/2019,XXXXXX
 248,Tyranitar,D,3,Reverse,,56/124,,Satoshi Shirai,,,6/15/2019,XXXXXX
 448,Lucario,Sl,3,Reverse,,63/124,,Hitoshi Ariga,,,5/12/2019,117838
 39,Jigglypuff,Fa,1,,,65/124,,Midori Harada,,,,117840
@@ -22,7 +28,10 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 547,Whimsicott,Fa,2,,,71/124,,sui,,,,117846
 293,Whismur,N,1,,,80/124,,Kouki Saitou,,,,117855
 572,Minccino,N,1,,,86/124,,kirisAki,,,,117859
+573,Cinccino,N,2,Card,,89/124,,Kouki Saitou,,,7/7/2019,XXXXXX
 T,Fossil Excavation Kit,I,2,Full,,101/124,,Toyste Beach,,,,117873
 T,Old Amber Aerodactyl,I,2,,,106/124,,Toyste Beach,,,,117877
 T,Random Reciever,I,2,,,109/124,,Toyste Beach,,,,117880
 T,Scorched Earth,S,2,,,110/124,,Ryo Ueda,,,,117881
+T,Shauna,Su,2,,,111/124,,Ken Sugimori,,,7/7/2019,XXXXXX
+T,Strong Energy,Fg,2,,,115/124,,5ban Graphics,,,7/7/2019,XXXXXX
