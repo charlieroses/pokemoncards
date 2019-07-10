@@ -50,7 +50,8 @@ if __name__ == "__main__":
 			if line == header:
 				continue
 			tline = line.split(",")
-			tline[7] = csv[:-4]
+			if tline[7] == "":
+				tline[7] = csv[:-4]
 			sline = ""
 			for i in tline:
 				if i == tline[-1]:
