@@ -28,10 +28,10 @@ T,Cilan,Su,2,,,86/99,nextdestinies,Yusuke Ohmura,,,,84316
 T,Exp. Share,I,2,,,87/99,nextdestinies,Ryo Ueda,,,,85365
 T,Pokemon Center,S,2,Full,,90/99,nextdestinies,5ban Graphics,,,,88215
 T,Skyarrow Bridge,S,2,,,91/99,nextdestinies,Ryo Ueda,,,,89285
-254,Sceptile,G,3,Art,,4/17,popseriespromo,Hiromichi Sugiyama,Bent,,,88946
-370,Luvdisc,W,1,,,14/17,popseriespromo,Atsuko Nishida,,,,86934
-485,Heatran,F,3,,,1/17,popseriespromo,Ken Sugimori,,,,86049
-387,Turtwig,G,1,,,17/17,popseriespromo,Midori Harada,,,,90078
+254,Sceptile,G,3,Art,,4/17,P1,Hiromichi Sugiyama,Bent,,,88946
+370,Luvdisc,W,1,,,14/17,P2,Atsuko Nishida,,,,86934
+485,Heatran,F,3,,,1/17,P8,Ken Sugimori,,,,86049
+387,Turtwig,G,1,,,17/17,P9,Midori Harada,,,,90078
 127,Pinsir,G,3,,,24/92,legendmaker,Mitsuhiro Arita,,,,88136
 327,Spinda,N,3,,,26/92,legendmaker,Motofumi Fujiwara,,,,89460
 347,Anorith,Fg,2,,,29/92,legendmaker,Atsuko Nishida,,,,83559
@@ -480,41 +480,43 @@ T,Ultra Space,S,2,,,112/131,forbiddenlight,5ban Graphics,,,,165775
 T,Ultra Recon Squad,Su,2,,,114/131,forbiddenlight,Megumi Mizutani,,,,165777
 113,Chansey,N,1,,e-Card,69/147,aquapolis,Atsuko Nishida,,,,84171
 114,Goldeen,W,1,,e-Card,78/147,aquapolis,Miki Tanaka,,,,85804
-711,Gourgeist,P,,,,2/30,halfdecks,5ban Graphics,,,,97997
-24,Arbok,P,3,,,3/30,halfdecks,Naoki Saito,,$2.56,,97998
-659,Bunnelby,N,,,,4/30,halfdecks,5ban Graphics,,,,97999
-710,Pumpkaboo,P,,,,11/30,halfdecks,5ban Graphics,,,,98006
-T,Potion,I,,,,15/30,halfdecks,5ban Graphics,,,,98010
-23,Ekans,P,1,,,16/30,halfdecks,Shigenori Negishi,,$2.19,,98011
-676,Forfrou,N,,,,20/30,halfdecks,5ban Graphics,,,,98018
-T,Poke Ball,I,,,,21/30,halfdecks,5ban Graphics,,,,98019
-714,Noibat,N,,,,23/30,halfdecks,5ban Graphics,,,,98020
-T,Dark Energy,E,,,,28/30,halfdecks,,,,,XXXXXX
-715,Noivern,Dr,,,,30/30,halfdecks,5ban Graphics,,,,98025
-T,Switch,I,,,,4/30,halfdecks,5ban Graphics,,,,97969
-676,Forfrou,N,,,,16/30,halfdecks,5ban Graphics,,,,97981
-T,Fairy Energy,E,,,,18/30,halfdecks,,,,,97983
-661,Fletchling,N,,,,19/30,halfdecks,5ban Graphics,,,,97984
-T,Pokemon Catcher,I,,,,23/30,halfdecks,5ban Graphics,,,,97988
-209,Snubbull,Fa,,,,27/30,halfdecks,Naoki Saito,,,,97992
-210,Granbull,Fa,,,,29/30,halfdecks,Masokazu Fukuda,,,,97994
-700,Sylveon,Fa,,,,30/30,halfdecks,5ban Graphics,,,,97995
-509,Purrloin,D,,,,1/30,halfdecks,Kagemaru Himeno,,,,98703
-505,Watchog,N,,,,2/30,halfdecks,match,,,,98705
-T,PlusPower,I,,,,11/30,halfdecks,5ban Graphics,,,,98694
-570,Zorua,D,,,,13/30,halfdecks,Kouki Saitou,,,,98710
-571,Zoroark,D,,,,17/30,halfdecks,Shin Nagasawa,,,,98715
-T,Energy Switch,I,,,,4/30,halfdecks,Kent Kanetsuna,,,,98684
-533,Gurdurr,Fg,,,,14/30,halfdecks,Naoki Saito,,,,98691
-T,Potion,I,,,,15/30,halfdecks,Ayaka Yoshida,,,,98692
-530,Excadrill,Fg,,,,17/30,halfdecks,5ban Graphics,,,,98695
-507,Herdier,N,,,,19/30,halfdecks,Midori Harada,,,,98701
-66,Machop,Fg,,,,5/11,halfdecks,Atsuko Nishida,Dirty,,,86996
-419,Floatzel,W,,,,2/12,halfdecks,Masahiko Ishii,,,,85512
-118,Goldeen,W,,,,3/12,halfdecks,Atsuko Nishida,,,,85808
-490,Manaphy,W,,Art,,4/12,halfdecks,Daisuke Ito,,,,87145
-325,Spoink,P,,,,7/12,halfdecks,Kagemaru Himeno,,,,89475
-255,Torchic,F,,,,7/10,halfdecks,Hironobu Yoshida,Bent,,,89954
+711,Gourgeist,P,,,,2/30,N,5ban Graphics,,,,97997
+24,Arbok,P,3,,,3/30,N,Naoki Saito,,$2.56,,97998
+659,Bunnelby,N,,,,4/30,N,5ban Graphics,,,,97999
+710,Pumpkaboo,P,,,,11/30,N,5ban Graphics,,,,98006
+T,Potion,I,,,,15/30,N,5ban Graphics,,,,98010
+23,Ekans,P,1,,,16/30,N,Shigenori Negishi,,$2.19,,98011
+676,Forfrou,N,,,,20/30,N,5ban Graphics,,,,98018
+T,Poke Ball,I,,,,21/30,N,5ban Graphics,,,,98019
+714,Noibat,N,,,,23/30,N,5ban Graphics,,,,98020
+T,Dark Energy,E,,,,28/30,N,,,,,XXXXXX
+715,Noivern,Dr,,,,30/30,N,5ban Graphics,,,,98025
+T,Switch,I,,,,4/30,S,5ban Graphics,,,,97969
+676,Forfrou,N,,,,16/30,S,5ban Graphics,,,,97981
+T,Fairy Energy,E,,,,18/30,S,,,,,97983
+661,Fletchling,N,,,,19/30,S,5ban Graphics,,,,97984
+T,Pokemon Catcher,I,,,,23/30,S,5ban Graphics,,,,97988
+209,Snubbull,Fa,,,,27/30,S,Naoki Saito,,,,97992
+210,Granbull,Fa,,,,29/30,S,Masokazu Fukuda,,,,97994
+700,Sylveon,Fa,,,,30/30,S,5ban Graphics,,,,97995
+509,Purrloin,D,,,,1/30,Z,Kagemaru Himeno,,,,98703
+505,Watchog,N,,,,2/30,Z,match,,,,98705
+T,PlusPower,I,,,,11/30,Z,5ban Graphics,,,,98694
+570,Zorua,D,,,,13/30,Z,Kouki Saitou,,,,98710
+571,Zoroark,D,,,,17/30,Z,Shin Nagasawa,,,,98715
+T,Energy Switch,I,,,,4/30,E,Kent Kanetsuna,,,,98684
+533,Gurdurr,Fg,,,,14/30,E,Naoki Saito,,,,98691
+T,Potion,I,,,,15/30,E,Ayaka Yoshida,,,,98692
+530,Excadrill,Fg,,,,17/30,E,5ban Graphics,,,,98695
+507,Herdier,N,,,,19/30,E,Midori Harada,,,,98701
+66,Machop,Fg,,,,5/11,L,Atsuko Nishida,Dirty,,,86996
+419,Floatzel,W,,,,2/12,Ma,Masahiko Ishii,,,,85512
+118,Goldeen,W,,,,3/12,Ma,Atsuko Nishida,,,,85808
+490,Manaphy,W,,Art,,4/12,Ma,Daisuke Ito,,,,87145
+325,Spoink,P,,,,7/12,P,Kagemaru Himeno,,,,89475
+255,Torchic,F,,,,7/10,La,Hironobu Yoshida,Bent,,,89954
+498,Tepig,F,,Art,,3/12,MC2011,Ken Sugimori,,,,87893
+501,Oshawott,W,,Art,,4/12,MC2011,Ken Sugimori,,,,89882
 152,Chikorita,G,1,Full,,1/122,breakpoint,Akira Komayama,Slight Bent,,5/18/2019,111504
 154,Meganium,G,3,Reverse,,3/122,breakpoint,kawayoo,,,5/18/2019,111506
 401,Kricketot,G,1,,,5/122,breakpoint,Sumiyoshi Kizuki,,,,111508
