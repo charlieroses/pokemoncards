@@ -1,5 +1,6 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
 114,Tangela,G,1,,,1/114,,OOYAMA,,,7/14/2019,XXXXXX
+465,Tangrowth,G,2,,,2/114,,kirisAki,,,7/26/2019,XXXXXX
 187,Hoppip,G,1,,,3/114,,Mina Nakai,,,,120992
 188,Skiploom,G,2,,,4/114,,Eri Yamaki,,,7/14/2019,XXXXXX
 193,Yanma,G,1,,,6/114,,match,,,,120995
@@ -17,12 +18,14 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 180,Flaaffy,El,2,,,39/114,,MAHOU,,,7/14/2019,XXXXXX
 595,Joltik,El,1,,,41/114,,Ayaka Yoshida,,,,121130
 596,Galvantula,El,3,,Dual Type / Shiny,42/114,,match,,,,121131
+32,Nidoran M,P,1,,,43/114,,Hasuno,,,7/26/2019,XXXXXX
 33,Nidorino,P,2,,,44/114,,TOKIYA,,,,121133
-425,Drifloon,P,1,,,46/114,,kodama,,,,121135
 426,Drifblim,P,2,,,47/114,,Miki Tanaka,,,,121136
 607,Litwick,P,1,,,48/114,,Ken Sugimori,,,7/14/2019,XXXXXX
+608,Lampent,P,2,,,49/114,,miki kudo,,,7/26/2019,XXXXXX
 609,Chandelure,P,3,Art,,50/114,,Tomokazu Komiya,,,,121139
 56,Mankey,Fg,1,,,52/114,,Hitoshi Ariga,,,4/12/2019,121141
+57,Primeape,Fg,3,,,53/114,,Masakazu Fukuda,,7/26/2019,XXXXXX
 299,Nosepass,Fg,1,,,54/114,,You Iribi,,,,121184
 347,Anorith,Fg,2,Reverse,,56/114,,Shigenori Negishi,,,,121186
 453,Croagunk,Fg,1,,,58/114,,Masakazu Fukuda,,,7/14/2019,XXXXXX
@@ -47,6 +50,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 424,Ambipom,N,2,Reverse,,91/114,,Atsuko Nishida,,,,121217
 627,Rufflet,N,1,Reverse,,92/114,,Mitsuhiro Arita,,,,121218
 661,Fletchling,N,1,Reverse,,94/114,,TOKIYA,,,,121220
+701,Hawlucha,N,2,,,97/114,,miki kudo,,,7/26/2019,XXXXXX
 T,Armor Fossil Shieldon,I,2,,,98/114,,Toyste Beach,,,6/29/2019,XXXXXX
 T,Greedy Dice,I,2,,,102/114,,Toyste Beach,,,,121226
 T,Ninja Boy,Su,2,,,103/114,,Megumi Mizutani,,,7/14/2019,XXXXXX
