@@ -1,12 +1,15 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
 102,Exeggcute,G,1,,,1/108,,Tomokazu Komiya,,,,98037
+265,Wurmple,G,1,,,3/108,,Naoyo Kimura,,,7/30/2019,XXXXXX
 266,Silcoon,G,2,,,4/108,,Shigenori Negishi,,,,98040
 268,Casconn,G,1,,,6/108,,MAHOU,,,5/18/2019,98042
 290,Nincada,G,1,,,9/108,,Kyoko Umemoto,,,7/14/2019,XXXXXX
 357,Tropius,G,2,,,12/108,,Kyoko Umemoto,,,,98048
 662,Fletchinder,F,2,,,14/108,,Naoyo Kimura,,,7/7/2019,XXXXXX
 144,Articuno,W,3,,Full Art,17/108,,5ban Graphics,,,7/7/2019,XXXXXX
+278,Wingull,W,1,,,18/108,,MAHOU,,,7/30/2019,XXXXXX
 25,Pikachu,El,1,,,20/108,,Naoki Saito,,,7/7/2019,XXXXXX
+100,Voltorb,El,1,Card,,21/108,,Suwama Chiaki,,,7/30/2019,XXXXXX
 309,Electrike,El,1,,,24/108,,Akira Komayama,,,7/14/2019,XXXXXX
 177,Natu,P,1,,Full Art,28/108,,Kagemaru Himeno,,,,98064
 353,Shuppet,P,1,,,30/108,,Yukiko Baba,,,,98066
@@ -15,11 +18,13 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 688,Binacle,Fg,1,Card,,38/108,,Kanako Eo,,,7/7/2019,98074
 686,Inkay,D,1,,,41/108,,Akira Komayama,,,7/7/2019,XXXXXX
 175,Togepi,Fa,1,,,43/108,,HiRON,,,,98079
+176,Togetic,Fa,2,Card,,44/108,,Kanako Eo,,,7/30/2019,XXXXXX
 149,Dragonite,Dr,3,,,51/108,,kawayoo,,,5/18/2019,98087
 149,Dragonite,Dr,3,Full,Full Art,52/108,,hatachu,,,5/18/2019,98088
 334,Altaria,Dr,2,,,53/108,,Mitsuhiro Arita,,,7/7/2019,XXXXXX
 371,Bagon,Dr,1,,,54/108,,Kagemaru Himeno,,,7/14/2019,XXXXXX
 371,Bagon,Dr,1,,,55/108,,kirisAki,,,7/20/2019,XXXXXX
+372,Shelgon,Dr,2,,,56/108,,sui,,,7/30/2019,XXXXXX
 635,Hydreigon EX,Dr,5,Full,Full Art,62/108,,Eske Yoshinob,,,7/14/2019,XXXXXX
 52,Meowth,N,1,,,67/108,,Akira Komayama,,,5/18/2019,98103
 206,Dunsparce,N,1,,,68/108,,Yuka Morii,,,7/20/2019,XXXXXX
@@ -30,6 +35,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 521,Unfezant,N,2,,,80/108,,Shigenori Negishi,,,7/7/2019,XXXXXX
 521,Unfezant,N,3,,Full Art,81/108,,TOKIYA,,,,98117
 661,Fletchling,N,1,,,82/108,,Kanako Eo,,,,98118
+T,Mega Turbo,I,2,,,86/108,,Toyste Beach,,,7/30/2019,XXXXXX
 T,Trainers' Mail,I,2,,,92/108,,Toyste Beach,,,7/14/2019,XXXXXX
 T,Ultra Ball,I,2,,,93/108,,5ban Graphics,,,5/18/2019,98129
 T,Wally,Su,2,,,94/108,,Megumi Mizutani,,,,98130
