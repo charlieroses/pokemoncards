@@ -4,7 +4,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 12,Butterfree,G,3,,,3/149,,chibi,,,,126874
 46,Paras,G,1,,,4/149,,Ayaka Yoshida,,,,126875
 47,Parasect,G,3,,,5/149,,Eri Yamaki,,,,126876
-127,Pinsir,G,2,,,6/149,,DemizuPosuka,,,,126877
+127,Pinsir,G,2,Card,,6/149,,DemizuPosuka,,,8/1/2019,126877
 283,Surskit,G,1,,,7/149,,Kyoko Umemoto,,,,126878
 723,Dartrix,G,2,,,10/149,,Mizue,,,,126881
 736,Grubbin,G,1,,,13/149,,Akira Komayama,,,,126884
@@ -46,6 +46,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 297,Hariyama,Fg,3,,,68/149,,Miki Tanaka,,,,126939
 524,Roggenrola,Fg,1,Card,,69/149,,Kanako Eo,,,7/26/2019,126940
 525,Boldore,Fg,2,,,70/149,,Shigenori Negishi,,,,126941
+526,Gigalith,Fg,3,Reverse,,71/149,,Eske Yoshinob,,,8/1/2019,XXXXXX
 739,Crabrawler,Fg,1,Full,,72/149,,Shin Nagasawa,,,4/20/2019,126943
 770,Palossand,Fg,3,,,75/149,,Kouki Saitou,,,,126947
 19,Alolan Rattata,D,1,,,76/149,,Kouki Saitou,,,,126948
