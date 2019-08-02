@@ -16,7 +16,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 349,Feebas,W,1,,,26/111,,Hitoshi Ariga,,,,149047
 422,Shellos,W,1,,,29/111,,Kouki Saitou,,,,149051
 25,Pikachu,El,1,,,30/111,,Shibuzoh.,,,,149053
-74,Alolan Geodude,El,1,Full,,32/111,,Mitsuhiro Arita,,,,149055
+74,Alolan Geodude,El,1,Card,,32/111,,Mitsuhiro Arita,,,,149055
 75,Alolan Graveler,El,2,,,33/111,,kirisAki,,,,149056
 92,Gastly,P,1,,,36/111,,Shibuzoh.,,,,149059
 93,Haunter,P,2,,,37/111,,Eri Yamaki,,,,149060
@@ -28,13 +28,16 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 765,Oranguru,P,3,,,48/111,,Yoshinobu Saito,,,7/20/2019,XXXXXX
 56,Mankey,Fg,1,,,50/111,,Miki Tanaka,,,,149073
 104,Cubone,Fg,1,Full,,52/111,,sui,,,,149075
-760,Bewear,Fg,3,Reverse,,56/111,,Saya Tsuruta,,,,149079
+759,Stufful,Fg,1,,,55/111,,Kanako Eo,,,8/1/2019,XXXXXX
+760,Bewear,Fg,3,Card,,56/111,,Saya Tsuruta,,,,149079
 228,Houndour,D,1,,,58/111,,Kouki Saitou,,,,149081
 633,Deino,D,1,,,60/111,,miki kudo,,,,149083
 634,Zweilous,D,2,,,61/111,,kodama,,,,149084
 305,Lairon,Sl,2,Full,,66/111,,Atsuko Nishida,,,,149089
+379,Registeel,Sl,3,,,68/111,,Mitsuhiro Arita,,,8/1/2019,XXXXXX
 782,Jangmo-o,Dr,1,,,75/111,,Atsuko Nishida,,,,149101
 783,Hakamo-o,Dr,2,,,76/111,,Masokazu Fukuda,,,,149102
+241,Miltank,N,2,,,78/111,,Mina Nakai,,,8/1/2019,XXXXXX
 333,Swablu,N,1,Full,,79/111,,Mitsuhiro Arita,,,,149105
 334,Altaria,N,3,,,80/111,,sui,,,,149106
 396,Starly,N,1,,,81/111,,miki kudo,,,,149107
@@ -45,4 +48,5 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 T,Counter Catcher,I,2,,,91/111,,Toyste Beach,,,,149116
 T,Dashing Pouch,I,2,,,92/111,,Eske Yoshinob,,,,149117
 T,Devoured Field,S,2,,,93/111,,5ban Graphics,,,,149118
+T,Gladion,Su,2,,,95/111,,Ken Sugimori,,,8/1/2019,XXXXXX
 T,Peeking Red Card,I,2,,,97/111,,Toyste Beach,,,,149122
