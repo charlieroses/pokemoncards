@@ -6,6 +6,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 607,Litwick,F,1,,,11/145,,Mitsuhiro Arita,,,,130757
 609,Chandelure,F,3,Reverse,,13/145,,Kouki Saitou,,,,130759
 757,Salandit,F,1,,,15/145,,TOKIYA,,,,130761
+37,Alolan Vulpix,W,1,,,21/145,,You Iribi,,,8/1/2019,XXXXXX
 225,Delibird,W,1,,,26/145,,sui,,,,130926
 318,Carvanha,W,1,,,27/145,,Hideki Ishikawa,,,,130927
 320,Wailmer,W,1,,,29/145,,Miki Tanaka,,,,130929
@@ -15,12 +16,15 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 746,Wishiwashi,W,1,,,37/145,,Sanosuke Sakuma,,,,130937
 74,Alolan Geodude,El,1,,,40/145,,Hitoshi Ariga,,,4/12/2019,130942
 75,Alolan Graveler,El,2,,,41/145,,match,,,,130943
+694,Helioptile,El,1,,,43/145,,Masakazu Fukuda,,,8/1/2019,XXXXXX
+79,Slowpoke,P,1,,,48/145,,Mina Nakai,,,8/1/2019,XXXXXX
 80,Slowbro,P,2,Reverse,,49/145,,Shibuzoh.,,,,130955
 568,Trubbish,P,1,,,50/145,,Yuka Morii,,,,130956
 574,Gothita,P,1,,,52/145,,Yuka Morii,,,,130958
 576,Gothitelle,P,3,,,54/145,,Mitsuhiro Arita,,,,130960
 741,Oricorio,P,3,,,56/145,,TOKIYA,,,,130962
 781,Dhelmise,P,3,Full,,59/145,,Hasuno,,,4/12/2019,130967
+66,Machop,Fg,1,,,62/145,,Kyoko Umemoto,,,8/1/2019,XXXXXX
 67,Machoke,Fg,2,,,64/145,,Kouki Saitou,,,,130974
 68,Machamp,Fg,3,Reverse,,65/145,,Hitoshi Ariga,,,,130975
 185,Sudowoodo,Fg,2,,,66/145,,Hajime Kusajima,,,4/12/2019,130976
@@ -32,6 +36,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 674,Pancham,Fg,1,,,72/145,,TOKIYA,,,4/12/2019,130982
 744,Rockruff,Fg,1,,,73/145,,Naoki Saito,,,,130983
 749,Mudbray,Fg,1,,,75/145,,Kouki Saitou,,,,130987
+198,Murkrow,D,1,,,78/145,,Sekio,,,8/1/2019,XXXXXX
 8,Clefairy,Fa,1,,,88/145,,Kogemaru Himeno,,,,131002
 704,Goomy,Dr,1,,,94/145,,Asako Ito,,,,131010
 780,Drampa,Dr,3,Reverse,,97/145,,match,,,,131013
@@ -39,7 +44,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 783,Hakamo-o,Dr,2,,,99/145,,Shin Nagasawa,,,,131015
 276,Tailow,N,1,,,103/145,,Ayaka Yoshida,,,,131021
 277,Swellow,N,3,Reverse,,104/145,,Kagemaru Himeno,,,,131022
-351,Castform,N,1,,,105/145,,sui,,,,131023
+351,Castform,N,1,Card,,105/145,,sui,,,8/1/2019,131023
 504,Patrat,N,1,,,107/145,,Ayaka Yoshida,,,,131025
 505,Watchog,N,2,,,108/145,,Kagemaru Himeno,,,,131026
 661,Fletchling,N,1,,,109/145,,You Iribi,,,,131027
@@ -48,7 +53,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 760,Bewear,N,2,,,113/145,,Shin Nagasawa,,,412/2019,131031
 775,Komala,N,2,,,114/145,,Kouki Saitou,,,,131032
 T,Aether Paradise Conservation Area,S,2,,,116/145,,5ban Graphics,,,,131036
-T,Alter of the Moone,S,2,,,117/145,,5ban Graphics,,,,131037
+T,Altar of the Moone,S,2,,,117/145,,5ban Graphics,,,,131037
+T,Altar of the Sunne,S,2,,,118/145,,5ban Graphics,,,8/1/2019,XXXXXX
 T,Aqua Patch,I,2,,,119/145,,Toyste Beach,,,,131039
 T,Brooklet Hill,S,2,Full,,120/145,,5ban Graphics,,,,131040
 T,Choice Band,I,2,,,121/145,,Eske Yoshinob,,,,131041
