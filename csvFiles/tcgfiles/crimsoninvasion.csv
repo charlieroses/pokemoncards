@@ -11,9 +11,10 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 120,Staryu,W,1,,,15/111,,Yukiko Baba,,,,149036
 220,Swinub,W,1,,,16/111,,Eri Yamaki,,,,149040
 129,Magikarp,W,1,,,17/111,,TOKIYA,,,,149038
+220,Swinub,W,1,,,19/111,,Eri Yamaki,,,8/10/2019,XXXXXX
 221,Piloswine,W,2,,,20/111,,Kouki Saitou,,,,149041
 341,Corphish,W,1,,,24/111,,Masakazu Fukuda,,,,149045
-349,Feebas,W,1,,,26/111,,Hitoshi Ariga,,,,149047
+349,Feebas,W,1,Reverse,,26/111,,Hitoshi Ariga,,,8/10/2019,149047
 422,Shellos,W,1,,,29/111,,Kouki Saitou,,,,149051
 25,Pikachu,El,1,,,30/111,,Shibuzoh.,,,,149053
 74,Alolan Geodude,El,1,Card,,32/111,,Mitsuhiro Arita,,,,149055
@@ -28,6 +29,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 765,Oranguru,P,3,,,48/111,,Yoshinobu Saito,,,7/20/2019,XXXXXX
 56,Mankey,Fg,1,,,50/111,,Miki Tanaka,,,,149073
 104,Cubone,Fg,1,Full,,52/111,,sui,,,,149075
+423,Gastrodon,Fg,2,,,54/111,,TOKIYA,,,8/10/2019,XXXXXX
 759,Stufful,Fg,1,,,55/111,,Kanako Eo,,,8/1/2019,XXXXXX
 760,Bewear,Fg,3,Card,,56/111,,Saya Tsuruta,,,,149079
 228,Houndour,D,1,,,58/111,,Kouki Saitou,,,,149081
@@ -35,6 +37,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 634,Zweilous,D,2,,,61/111,,kodama,,,,149084
 305,Lairon,Sl,2,Full,,66/111,,Atsuko Nishida,,,,149089
 379,Registeel,Sl,3,,,68/111,,Mitsuhiro Arita,,,8/1/2019,XXXXXX
+39,Jigglypuff,Fa,1,,,71/111,,You Iribi,,,8/10/2019,XXXXXX
+40,Wigglytuff,Fa,3,,,72/111,,0313,,,8/10/2019,XXXXXX
 782,Jangmo-o,Dr,1,,,75/111,,Atsuko Nishida,,,,149101
 783,Hakamo-o,Dr,2,,,76/111,,Masokazu Fukuda,,,,149102
 241,Miltank,N,2,,,78/111,,Mina Nakai,,,8/1/2019,XXXXXX
