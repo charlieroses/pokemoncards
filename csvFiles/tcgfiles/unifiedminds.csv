@@ -26,6 +26,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 564,Tirtouga,W,2,,,44/236,,HYOGONOSUKE,,,8/25/2019,XXXXXX
 565,Carracosta,W,2,Reverse,,45/236,,Kouki Saitou,,,8/2/2019,XXXXXX
 615,Cryogonal,W,1,,,46/236,,Ken Sugimori,,,8/25/2019,XXXXXX
+752,Araquanid,W,3,,,49/236,,Misa Tsutsui,,,9/7/2019,XXXXXX
 767,Wimpod,W,1,,,50/236,,Tomokazu Komiya,,,8/2/2019,XXXXXX
 771,Pyukumuku,W,2,Reverse,,52/236,,OOYAMA,,,8/2/2019,XXXXXX
 25,Pikachu,El,1,,,55/236,,Sanosuke Sakuma,,,8/2/2019,XXXXXX
@@ -46,6 +47,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 482,Azelf,P,2,,,85/236,,Mizue,,,8/25/2019,XXXXXX
 488,Cresselia,P,2,,,87/236,,Megumi Mizutani,,,8/2/2019,XXXXXX
 517,Munna,P,1,,,88/236,,Shibuzoh.,,,8/2/2019,XXXXXX
+518,Musharna,P,2,,,89/236,,Misa Tsutsui,,,9/7/2019,XXXXXX
 605,Elgyem,P,2,,,90/236,,Sumiyoshi Kizuki,,,8/2/2019,XXXXXX
 679,Honedge,P,1,,,92/236,,MAHOU,,,8/2/2019,XXXXXX
 679,Honedge,P,1,,,93/236,,Suwama Chiaki,,,8/2/2019,XXXXXX
@@ -72,6 +74,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 302,Sableye,D,2,,,133/236,,Suwama Chiaki,,,8/10/2019,XXXXXX
 509,Purrloin,D,1,,,135/236,,Sumiyoshi Kizuki,,,8/2/2019,XXXXXX
 559,Scraggy,D,1,,,137/236,,Yumi,,,8/25/2019,XXXXXX
+717,Yveltal,D,3,Art,,139/236,,sui,,,9/7/2019,XXXXXX
+546,Cottonee,Fa,1,,,143/236,,Asako Ito,,,9/7/2019,XXXXXX
 547,Whimsicott,Fa,3,,,144/236,,Shibuzoh.,,,8/10/2019,XXXXXX
 445 & 487,Garchomp & Giratina GX,Dr,5,Full,Full Art / Team Up,146/236,,Mitsuhiro Arita,,,8/10/2019,XXXXXX
 147,Dratini,Dr,1,Reverse,,147/236,,Motofumi Fujiwara,,,8/2/2019,XXXXXX
@@ -91,6 +95,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 641,Tornadus,N,2,,,178/236,,Anesaki Dynamic,,,8/2/2019,XXXXXX
 661,Fletchling,N,1,,,179/236,,Saya Tsuruta,,,8/2/2019,XXXXXX
 734,Yungoos,N,1,,,180/236,,Shigenori Negishi,,,8/25/2019,XXXXXX
+735,Gumshoos,N,3,,,181/236,,Midori Harada,,,9/7/2019,XXXXXX
+772,Type: Null,N,2,,,183/236,,tetsuya koizumi,,,9/7/2019,XXXXXX
 775,Komala,N,2,,,185/236,,Miki Tanaka,,,8/2/2019,XXXXXX
 T,Blue's Tactics,Su,2,,,188/236,,Megumi Mizutani,,,8/25/2019,XXXXXX
 T,Channeler,Su,2,,,190/236,,TOKIYA,,,8/25/2019,XXXXXX
@@ -102,6 +108,6 @@ T,Misty's Favor,Su,2,,,202/236,,Hideki Ishikawa,,,8/2/2019,XXXXXX
 T,Normalium Z:Tackle,I,2,,,203/236,,5ban Graphics,,,8/10/2019,XXXXXX
 T,Slumbering Forest,S,2,,,207/236,,Ryo Ueda,,,8/2/2019,XXXXXX
 T,Unidentified Fossil,I,2,,,210/236,,Toyste Beach,,,8/2/2019,XXXXXX
-T,Recycle Energy,E,2,,,212/236,,,,,8/2/2019,XXXXXX
+T,Recycle Energy,E,2,Reverse,,212/236,,,,,9/7/2019,XXXXXX
 445 & 487,Garchomp & Giratina GX,Dr,5,Full,Full Art / Textured / Team Up,228/236,,aky CG Works,,,8/24/2019,XXXXXX
 149,Dragonite,Dr,5,Full,Full Art / Textured,229/236,,ConceptLab,,,8/2/2019,XXXXXX
