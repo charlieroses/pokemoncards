@@ -31,7 +31,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 355,Duskull,P,1,,,51/147,,Midori Harada,,,4/12/2019,138533
 543,Venipede,P,1,Full,,56/147,,Yukiko Baba,,,,138538
 544,Whirlipede,P,2,,,57/147,,SATOSHI NAKAI,,,4/12/2019,138539
-677,Espurr,P,1,,,59/147,,Miki Tanaka,,,5/5/2019,138541
+677,Espurr,P,1,Reverse,,59/147,,Miki Tanaka,,,9/19/2019,138541
 769,Sandygast,P,1,,,61/147,,Masokazu Fukuda,,,4/20/2019,138543
 111,Rhyhorn,Fg,1,,,65/147,,miki kudo,,,,138551
 111,Rhyhorn,Fg,1,,Italian,65/147,,miki kudo,,,6/2/2019,138551
@@ -40,9 +40,11 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 447,Riolu,Fg,1,,Italian,70/147,,Saya Tsuruta,,,6/2/2019,138556
 539,Sawk,Fg,1,,,72/147,,Shigenori Negishi,,,,138558
 739,Crabrawler,Fg,1,,,73/147,,kirisAki,,,,138559
+740,Crabominable,Fg,3,,,74/147,,Mitsuhiro Arita,,,9/19/2019,XXXXXX
 749,Mudbray,Fg,1,,,77/147,,Saya Tsuruta,,,,138563
 88,Alolan Grimer,D,1,,,83/147,,Kouki Saitou,,,,138571
 215,Sneasel,D,1,,,85/147,,Hasuno,,,,138575
+686,Inkay,D,1,,,89/147,,OOYAMA,,,9/19/2019,XXXXXX
 280,Ralts,Fa,1,,,91/147,,Yumi,,,,138583
 281,Kirlia,Fa,2,,,92/147,,Anesaki Dynamic,,,,138584
 742,Cutiefly,Fa,1,,,95/147,,Atsuko Nishida,,,,138589
@@ -53,14 +55,16 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 137,Porygon,N,1,,,103/147,,Shin Nagasawa,,,5/5/2019,138599
 233,Porygon2,N,2,,,104/147,,Midori Harada,,,,138600
 163,Hoothoot,N,1,,,106/147,,MAHOU,,,,138602
-714,Noibat,N,1,,,106/147,,Yumi,,,,138605
+164,Noctowl,N,2,,,107/147,,Sekio,,,9/19/2019,XXXXXX
 626,Bouffalant,N,2,,,108/147,,TOKIYA,,,,138604
+714,Noibat,N,1,,,109/147,,Yumi,,,,138605
 760,Bewear,N,3,,,111/147,,Mitsuhiro Arita,,,5/5/2019,138607
 T,Acerola,Su,2,,,112/147,,Ken Sugimori,,,4/20/2019,138608
 T,Escape Rope,I,2,,,114/147,,Toyste Beach,,,8/6/2019,XXXXXX
 T,Guzma,Su,2,,,115/147,,Ken Sugimori,,,,138611
 T,Kiawe,Su,2,,,116/147,,Ken Sugimori,,,6/15/2019,XXXXXX
 T,Lana,Su,2,,,117/147,,Ken Sugimori,,,,138614
+T,Mount Lanakila,S,2,,,118/147,,5ban Graphics,,,9/19/2019,XXXXXX
 T,Olivia,Su,2,,,119/147,,Ken Sugimori,,,,138615
 T,Po Town,S,2,Full,,121/147,,5ban Graphics,,,5/5/2019,138631
 T,Sophocles,Su,2,,,123/147,,Ken Sugimori,,,8/6/2019,XXXXXX
