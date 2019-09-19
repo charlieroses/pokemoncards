@@ -1,12 +1,14 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
 70,Weepinbell,G,2,,,2/168,,Miki Tanaka,,,,170807
 123,Scyther,G,2,Reverse,,4/168,,Hajime Kusajima,,,,170810
+167,Spinarak,G,1,,,5/168,,Sachiko Adachi,,,9/19/2019,XXXXXX
 252,Treeko,G,1,,,8/168,,tetsuya koizumi,,,,170813
 253,Groyle,G,2,,,9/168,,Shin Nagasawa,,,8/1/2019,XXXXXX
 254,Sceptile,G,3,Full,,10/168,,Mitsuhiro Arita,,,,170816
 273,Seedot,G,1,,,12/168,,Misa Tsutsui,,,,170820
 283,Surskit,G,1,,,15/168,,Ken Sugimori,,,,170825
 284,Masquerain,G,2,Reverse,,16/168,,Yukiko Baba,,,,170826
+313,Volbeat,G,2,Reverse,,17/168,,Saya Tsuruta,,,9/19/2019,XXXXXX
 331,Cacnea,G,1,,,19/168,,Atsuko Nishida,,,,170829
 218,Slugma,F,1,,,23/168,,Midori Harada,,,,170834
 219,Magcargo,F,3,,,24/168,,Midori Harada,,,,170837
@@ -16,6 +18,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 258,Mudkip,W,1,,,33/168,,Misa Tsutsui,,,,170850
 259,Marshtomp,W,2,,,34/168,,Ken Sugimori,,,,170851
 320,Wailmer,W,1,,,39/168,,Kagemaru Himeno,,,,170856
+370,Luvdisk,W,1,,,44/168,,Asako Ito,,,9/19/2019,XXXXXX
 171,Lanturn,El,2,,,50/168,,Aya Kusube,,,8/1/2019,XXXXXX
 310,Manectric,El,3,,,52/168,,Sanosuke Sakuma,,,,170871
 316,Gulpin,P,1,Reverse,,57/168,,Yuka Morii,,,,170878
@@ -31,9 +34,11 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 19,Alolan Rattata,D,1,,,84/168,,Shibuzoh.,,,8/10/2019,XXXXXX
 215,Sneasel,D,1,,,86/168,,Ken Sugimori,,,,170908
 302,Sableye,D,2,,,88/168,,Yukiko Baba,,,,170910
+303,Mawile,Sl,2,,,91/168,,Kagemaru Himeno,,,9/19/2019,XXXXXX
 374,Beldum,Sl,1,,,92/168,,Naoyo Kimura,,,,170917
 374,Beldum,Sl,1,,,93/168,,Hasuno,,,,170918
 379,Registeel,Sl,3,,,96/168,,Shin Nagasawa,,,,170921
+371,Bagon,Dr,1,,,103/168,,Yumi,,,9/19/2019,XXXXXX
 372,Shelgon,Dr,2,,,105/168,,Asako Ito,,,8/1/2019,XXXXXX
 206,Dunsparce,N,2,,,110/168,,Mitsuhiro Arita,,,,170939
 278,Wingull,N,1,,,111/168,,Ken Sugimori,,,,170940
