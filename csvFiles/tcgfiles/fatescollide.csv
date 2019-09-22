@@ -1,10 +1,12 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+213,Shuckle,G,2,,,1/124,,sui,,,9/21/2019,XXXXXX
 412,Burmy,G,1,,,2/124,,Kouki Saitou,,,,117765
 413,Wormadam,G,2,,,3/124,,kawayoo,,,,117766
 414,Mothim,G,3,,,4/124,,MAHOU,,,,117767
 495,Snivy,G,1,,,5/124,,Atsuko Nishida,,,,117768
 496,Servine,G,2,,,6/124,,Sumiyoshi Kizuki,,,9/7/2019,XXXXXX
 497,Serperior,G,3,,,7/124,,You iribi,,,7/7/2019,XXXXXX
+585,Deerling,G,1,,,8/124,,Kanako Eo,,,9/21/2019,XXXXXX
 146,Moltres,F,3,,,9/124,,OOYAMA,,,7/30/2019,XXXXXX
 653,Fennekin,F,1,,,10/124,,Akira Komayama,,,,117773
 653,Fennekin,F,1,,,11/124,,kirisAki,,,,117774
@@ -13,6 +15,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 87,Dewgong,W,2,,,16/124,,Naoyo Kimura,,,7/14/2019,XXXXXX
 139,Omastar,W,3,,,18/124,,Hasuno,,,9/7/2019,XXXXXX
 688,Binacle,W,1,,,22/124,,Tomokazu Komiya,,,,117784
+689,Barbacle,W,3,Reverse,,23/124,,Shin Nagasawa,,,9/21/2019,XXXXXX
 109,Koffing,P,1,,,27/124,,sui,,,8/6/2019,XXXXXX
 110,Weezing,P,2,,,28/124,,Shin Nagasawa,,,,117788
 325,Spoink,P,1,,,30/124,,TOKIYA,,,7/7/2019,XXXXXX
@@ -49,9 +52,11 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 T,Alakazam Spirit Link,I,2,,,90/124,,5ban Graphics,,,7/30/2019,XXXXXX
 T,Audino Spirit Link,I,2,,,92/124,,5ban Graphics,,,8/6/2019,XXXXXX
 T,Bent Spoon,I,2,Reverse,,93/124,,Toyste Beach,,,9/7/2019,XXXXXX
+T,Chaos Tower,S,2,,,94/124,,5ban Graphics,,,9/21/2019,XXXXXX
 T,Energy Pouch,I,2,,,97/124,,Toyste Beach,,,7/14/2019,XXXXXX
 T,Fairy Garden,S,2,,,100/124,,Ryo Ueda,,,9/17/2019,XXXXXX
 T,Fossil Excavation Kit,I,2,Full,,101/124,,Toyste Beach,,,,117873
+T,Helix Fossil Omanyte,I,2,,,102/124,,Toyste Beach,,,9/21/2019,XXXXXX
 T,Old Amber Aerodactyl,I,2,,,106/124,,Toyste Beach,,,,117877
 T,Power Memory,I,2,,,108/124,,5ban Graphics,,,9/19/2019,XXXXXX
 T,Random Reciever,I,2,,,109/124,,Toyste Beach,,,,117880
