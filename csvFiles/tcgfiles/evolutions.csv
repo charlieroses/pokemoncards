@@ -4,6 +4,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 11,Metapod,G,2,,,4/108,,Ken Sugimori,,,,124017
 13,Weedle,G,1,Reverse,,5/108,,Mitsuhiro Arita,,,,124017
 14,Kakuna,G,2,,,6/108,,Keiji Kinebuchi,,,,124019
+15,Beedrill,G,3,,,7/108,,Ken Sugimori,,,10/12/2019,XXXXXX
 114,Tangela,G,1,,,8/108,,Mitsuhiro Arita,,,,124021
 4,Charmander,F,1,Card,,9/108,,Mitsuhiro Arita,,,6/29/2019,XXXXXX
 6,Charizard,F,3,Reverse,,11/108,,Mitsuhiro Arita,,,6/29/2019,XXXXXX
@@ -26,7 +27,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 100,Voltorb,El,1,,,39/108,,Keiji Kinebuchi,,,6/29/2019,XXXXXX
 101,Electrode,El,3,,,40/108,,Keiji Kinebuchi,,,6/29/2019,XXXXXX
 125,Electabuzz,El,1,Reverse,,41/108,,Ken Sugmiori,,,7/30/2019,XXXXXX
-32,Nidoran M,P,1,,,43/108,,Ken Sugimori,,,,124056
+32,Nidoran M,P,1,Reverse,,43/108,,Ken Sugimori,,,10/12/2019,124056
 33,Nidorino,P,2,,,44/108,,Mitsuhiro Arita,,,,124057
 92,Gastly,P,1,Reverse,,47/108,,Keiji Kinebuchi,,,9/7/2019,XXXXXX
 93,Haunter,P,2,,,48/108,,Keiji Kinebuchi,,,,124060
@@ -64,6 +65,7 @@ T,Psychic Energy,E,1,,,95/108,,,,,,124108
 T,Fight Energy,E,1,,,96/108,,,,,,124109
 T,Steel Energy,E,1,,,98/108,,,,,6/29/2019,XXXXXX
 T,Fairy Energy,E,1,,,99/108,,,,,9/17/2019,XXXXXX
-3,Mega Venusaur EX,,5,Full,Full Art / Ridged,100/108,,5ban Graphics,,,,124113
+3,Mega Venusaur EX,G,5,Full,Full Art / Textured,100/108,,5ban Graphics,,,,124113
+103,Exeggutor,G,3,,Japanese,109/108,,Dr.Ooyama,,,10/12/2019,XXXXXX
 25,Flying Pikachu,El,3,,,110/108,,Toshinao Aoki,,,9/7/2019,XXXXXX
 84,Imakuni?'s Doduo,,3,,,112/108,,Imakuni?,,,,124125
