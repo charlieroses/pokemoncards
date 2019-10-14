@@ -13,12 +13,14 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 725,Litten,F,1,,,20/181,,sui,,,5/12/2019,183791
 726,Torract,F,2,,,21/181,,Sanosuke Sakuma,,,8/27/2019,XXXXXX
 7,Squirtle,W,1,,,22/181,,sui,,,8/27/2019,XXXXXX
+8,Wartortle,W,2,,,24/181,,Misa Tsutsui,,,10/14/2019,XXXXXX
 54,Psyduck,W,1,,,26/181,,Kouki Saitou,,,7/20/2019,XXXXXX
 55,Golduck,W,2,,,27/181,,Masakazu Fukuda,,,5/12/2019,183797
 120,Staryu,W,1,,,28/181,,Ken Sugimori,,,6/15/2019,XXXXX
 129,Magikarp,W,1,Reverse,,29/181,,sui,,,7/20/2019,XXXXXX
 144,Articuno,W,3,Art,,32/181,,Yusuke Ohmura,,,8/27/2019,XXXXXX
 74,Alolan Geodude,El,1,,,34/181,,Yukiko Baba,,,,183807
+74,Alolan Geodude,El,1,,,35/181,,Yuka Morii,,,10/14/2019,XXXXXX
 75,Alolan Graveler,El,2,Full,,36/181,,Misa Tsutsui,,,4/22/2019,183809
 100,Voltorb,El,1,,,38/181,,Ken Sugimori,,,7/5/2019,XXXXX
 179,Mareep,El,1,,,41/181,,Akira Komayama,,,5/12/2019,183814
@@ -27,6 +29,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 587,Emolga,El,1,,,46/181,,Megumi Mizutani,,,5/12/2019,183821
 595,Joltik,El,1,,,47/181,,Yuka Morii,,,4/22/2019,183822
 694,Helioptile,El,1,,,49/181,,Ken Sugimori,,,4/22/2019,183824
+695,Heliolisk,El,2,,,50/181,,Sumiyoshi Kizuki,,,10/14/2019,XXXXXX
 785,Tapu Koko PS,El,3,Reverse,Prism Star,51/181,,Kouki Saitou,,,7/5/2019,XXXXXX
 29,Nidoran F,P,1,,,54/181,,miki kudo,,,7/5/2019,XXXXXX
 30,Nidorina,P,2,,,55/181,,Kagemaru Himeno,,,6/15/2019,XXXXXX
@@ -35,7 +38,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 33,Nidorino,P,2,,,58/181,,Kouki Saitou,,,4/22/2019,183836
 34,Nidoqueen,P,3,,,59/181,,kawayoo,,,8/27/2019,XXXXXX
 72,Tentacool,P,1,,,60/181,,Ken Sugimori,,,8/27/2019,XXXXXX
-88,Grimer,P,1,,,62/181,,Ken Sugimori,,,8/27/2019,XXXXXX
+88,Grimer,P,1,Reverse,,62/181,,Ken Sugimori,,,10/14/2019,XXXXXX
+89,Muk,P,3,,,63/181,,Anesaki Dynamic,,,10/14/2019,XXXXXX
 124,Jynx,P,2,,,68/181,,HYOGONOSUKE,,,8/27/2019,XXXXXX
 789,Cosmog,P,1,,,69/181,,sui,,,7/5/2019,XXXXXX
 790,Cosmoem,P,2,,,70/181,,Kouki Saitou,,,7/5/2019,XXXXXX
@@ -45,12 +49,15 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 140,Kabuto,Fg,2,,,77/181,,sui,,,8/27/2019,XXXXXX
 141,Kabutops,Fg,3,,,78/181,,Shin Nagasawa,,,8/27/2019,XXXXXX
 246,Larvitar,Fg,1,,,79/181,,Ken Sugimori,,,7/20/2019,XXXXXX
+247,Pupitar,Fg,2,,,80/181,,Anesaki Dynamic,,,10/14/2019,XXXXXX
 674,Pancham,Fg,1,,,81/181,,Yuka Morii,,,,183859
 88,Alolan Grimer,D,1,,,83/181,,SATOSHI NAKAI,,,8/27/2019,XXXXXX
+89,Alolan Muk,D,3,,,84/181,,Midori Harada,,,10/14/2019,XXXXXX
 261,Poochyena,D,1,,,86/181,,Ken Sugimori,,,4/22/2019,183864
 262,Mightyena,D,3,,,87/181,,kirisAki,,,8/27/2019,XXXXXX
+442,Spiritomb,D,2,Reverse,,89/181,,HYOGONOSUKE,,,10/14/2019,XXXXXX
 570,Zorua,D,1,,,90/181,,Naoyo Kimura,,,8/27/2019,XXXXXX
-629,Vullaby,D,1,,,92/181,,Eri Yamaki,,,4/22/2019,183870
+629,Vullaby,D,1,Reverse,,92/181,,Eri Yamaki,,,10/14/2019,183870
 630,Mandibuzz,D,3,,,93/181,,Ayaka Yoshida,,,8/27/2019,XXXXXX
 675,Pangoro,D,3,,,94/181,,Satoshi Shirai,,,7/5/2019,XXXXXX
 227,Skarmory,Sl,3,,,98/181,,kirisAki,,,8/27/2019,XXXXXX
@@ -61,22 +68,25 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 679,Honedge,Sl,1,,,107/181,,sui,,,7/5/2019,XXXXXX
 680,Doublade,Sl,2,,,108/181,,Shin Nagasawa,,,,183892
 681,Aegislash,Sl,3,Reverse,,109/181,,Kagemaru Himeno,,,8/27/2019,XXXXXX
-707,Klefki,Sl,1,,,110/181,,Shingenori Negishi,,,7/5/2019,XXXXXX
+707,Klefki,Sl,1,Reverse,,110/181,,Shingenori Negishi,,,10/14/2019,XXXXXX
 38,Alolan Ninetales,Fa,3,Reverse,,111/181,,Misa Tsuitsui,,,,183895
 778,Mimikyu,Fa,3,Reverse,,112/181,,Eri Yamaki,,,5/12/2019,183896
-380 & 381,Latias & Latios GX,5,Full,Full Art / Team Up,113/181,,Mitsuhiro Arita,,,8/27/2019,XXXXXX
+380 & 381,Latias & Latios GX,5,Dr,Full,Full Art / Team Up,113/181,,Mitsuhiro Arita,,,8/27/2019,XXXXXX
 147,Dratini,Dr,1,,,116/181,,Midori Harada,,,8/27/2019,XXXXXX
 147,Dratini,Dr,1,Full,,117/181,,Kouki Saitou,,,5/12/2019,183903
 133 & 143,Eevee & Snorlax GX,N,5,Full,Full Art / Team Up,120/181,,Mitsuhiro Arita,,,6/15/2019,XXXXXX
 16,Pidgey,N,1,,,121/181,,Shigenori Negishi,,,8/27/2019,XXXXXX
+16,Pidgey,N,1,,,122/181,,Sumiyoshi Kizuki,,,10/14/2019,XXXXXX
 17,Pidgeotto,N,1,,,123/181,,Mizue,,,7/5/2019,XXXXXX
 18,Pidgeot,N,3,,,124/181,,Akira Komayama,,,7/5/2019,XXXXXX
 53,Persian,N,2,Reverse,,126/181,,Yukiko Baba,,,8/27/2019,XXXXXX
 83,Farfetch'd,N,2,,,127/181,,Shibuzoh.,,,7/20/2019,XXXXXX
 115,Kangaskhan,N,2,Full,,128/181,,Mizue,,,4/22/2019,183917
 128,Tauros,N,2,,,129/181,,kodama,,,8/27/2019,XXXXXX
-249,Lugia,N,3,Card,,131/181,,Anesaki Dynamic,,,7/5/2019,XXXXXX
+249,Lugia,N,3,Reverse / Art,,131/181,,Anesaki Dynamic,,,7/5/2019,XXXXXX
+T,Brock's Grit,Su,2,,,135/181,,Naoki Saito,,,10/14/2019,XXXXXX
 T,Dangerous Drill,I,2,,,138/181,,Toyste Beach,,,4/22/2019,183930
+T,Electrocharger,I,2,,,139/181,,Eske Yoshinob,,,10/14/2019,XXXXXX
 T,Evelyn,Su,2,,,141/181,,Megumi Mizutani,,,7/5/2019,XXXXXX
 T,Fairy Charm UB,I,2,Reverse,,142/181,,Toyste Beach,,,8/27/2019,183937
 T,Grass Memory,I,2,,,143/181,,5ban Graphics,,,8/27/2019,XXXXXX
@@ -88,6 +98,6 @@ T,Nanu,Su,2,,,150/181,,Ken Sugimori,,,,183950
 T,Nita,Su,2,,,151/181,,Megumi Mizutani,,,8/27/2019,XXXXXX
 T,Return Label,I,2,,,153/181,,Toyste Beach,,,8/27/2019,XXXXXX
 T,Sabrina's Suggestion,Su,2,,,154/181,,Hitoshi Ariga,,,6/15/2019,XXXXXX
-T,Unidentified Fossil,I,2,,,155/181,,Toyste Beach,,,4/22/2019,183959
+T,Unidentified Fossil,I,2,Reverse,,155/181,,Toyste Beach,,,10/14/2019,183959
 T,Viridian Forest,S,2,Card,,156/181,,5ban Graphics,,,7/5/2019,XXXXXX
 94 & 778,Gengar & Mimikyu GX,P,5,Full,Full Art / Rainbow / Textured / Team Up,186/181,,5ban Graphics,,$11.35,4/22/2019,183831
