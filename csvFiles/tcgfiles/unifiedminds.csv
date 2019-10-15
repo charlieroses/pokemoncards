@@ -2,28 +2,34 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 193,Yanma,G,1,,,2/236,,Eri Yamaki,,,9/19/2019,XXXXXX
 469,Yanmega,G,2,,,3/236,,Hitoshi Ariga,,,8/2/2019,XXXXXX
 251,Celebi,G,2,Art,,4/236,,Megumi Mizutani,,,10/12/2019,XXXXXX
+285,Shroomish,G,1,,,5/236,,Ken Sugimori,,,10/14/2019,XXXXXX
 540,Sewaddle,G,1,,,6/236,,Naoyo Kimura,,,8/2/2019,XXXXXX
 540,Sewaddle,G,1,,,7/236,,Shigenori Negishi,,,8/2/2019,XXXXXX
 541,Swadloon,G,2,,,8/236,,Shibuzoh.,,,8/2/2019,XXXXXX
 557,Dwebble,G,1,,,10/236,,kawayoo,,,8/10/2019,XXXXXX
 588,Karrablast,G,1,,,12/236,,Ken Sugimori,,,8/2/2019,XXXXXX
+590,Foongus,G,1,,,13/236,,Ken Sugimori,,,10/14/2019,XXXXXX
 591,Amoonguss,G,3,,,14/236,,Midori Harada,,,8/2/2019,XXXXXX
 753,Fomantis,G,1,,,15/236,,Yuka Morii,,,8/2/2019,XXXXXX
 754,Lurantis,G,2,Reverse,,16/236,,AKIRA EGAWA,,,8/2/2019,XXXXXX
-761,Bounsweet,G,1,,,17/236,,Mizue,,,8/2/2019,XXXXXX
+761,Bounsweet,G,1,Reverse,,17/236,,Mizue,,,10/14/2019,XXXXXX
 762,Steenee,G,2,Reverse,,18/236,,Kagemaru Himeno,,,8/2/2019,XXXXXX
 781,Dhelmise,G,2,,,20/236,,TOKIYA,,,8/2/2019,XXXXXX
 126,Magmar,F,1,,,21/236,,Hiroki Asanuma,,,8/2/2019,XXXXXX
 322,Numel,F,1,,,23/236,,Motofumi Fujiwara,,,8/10/2019,XXXXXX
+323,Camerupt,F,3,Reverse,,24/236,,Masakazu Fukuda,,,10/14/2019,XXXXXX
 607,Litwick,F,1,,,27/236,,MAHOU,,,8/25/2019,XXXXXX
 607,Litwick,F,1,,,28/236,,sowsow,,,8/2/2019,XXXXXX
 608,Lampent,F,2,,,29/236,,Sachiko Adachi,,,8/2/2019,XXXXXX
-662,Fletchinder,F,1,,,31/236,,Mina Nakai,,,8/2/2019,XXXXXX
+662,Fletchinder,F,1,Revere,,31/236,,Mina Nakai,,,10/14/2019,XXXXXX
 663,Talonflame,F,3,,,32/236,,SATOSHI NAKAI,,,8/10/2019,XXXXXX
 757,Salandit,F,1,,,33/236,,Kyoko Umemoto,,,8/2/2019,XXXXXX
+79 & 54,Slowpoke & Psyduck GX,W,5,Full,Full Art / Team Up,35/236,,Mitsuhiro Arita,,,10/14/2019,XXXXXX
+131,Lapras,W,2,,,36/236,,Kagemaru Himeno,,,10/14/2019,XXXXXX
 361,Snorunt,W,1,,,37/236,,Naoyo Kimura,,,8/10/2019,XXXXXX
 456,Finneon,W,1,,,39/236,,sui,,,8/2/2019,XXXXXX
 457,Lumineon,W,2,,,40/236,,Sekio,,,8/10/2019,XXXXXX
+459,Snover,W,1,,,41/236,,otumami,,,10/14/2019,XXXXXX
 550,Basculin,W,2,Reverse,,43/236,,SATOSHI NAKAI,,,8/2/2019,XXXXXX
 564,Tirtouga,W,2,,,44/236,,HYOGONOSUKE,,,8/25/2019,XXXXXX
 565,Carracosta,W,2,Reverse,,45/236,,Kouki Saitou,,,8/2/2019,XXXXXX
@@ -38,17 +44,21 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 81,Magnemite,El,1,,,58/236,,sowsow,,,8/2/2019,XXXXXX
 82,Magneton,El,2,,,59/236,,Yumi,,,8/2/2019,XXXXXX
 595,Joltik,El,1,,,61/236,,Midori Harada,,,8/2/2019,XXXXXX
+596,Galvantula,El,3,,,62/236,,Yumi,,,10/14/2019,XXXXXX
 602,Tynamo,El,1,,,63/236,,Mina Nokai,,,8/2/2019,XXXXXX
 602,Tynamo,El,1,,,64/236,,SATOSHI NAKAI,,,8/10/2019,XXXXXX
 603,Eelektrik,El,2,,,65/236,,Midori Harada,,,10/12/2019,XXXXXX
 618,Stunfisk,El,1,,,67/236,,MAHOU,,,8/2/2019,XXXXXX
 642,Thundurus,El,2,,,68/236,,Anesaki Dynamic,,,8/2/2019,XXXXXX
+785,Tapu Koko,El,3,Art,,69/236,,Shin Nagasawa,,,10/14/2019,XXXXXX
+102,Exeggcute,P,1,,,73/236,,otumami,,,10/14/2019,XXXXXX
 105,Alolan Maroak,P,3,,,75/236,,Masakazu Fukuda,,,8/2/2019,XXXXXX
-124,Jynx,P,2,,,76/236,,sowsow,,,8/2/2019,XXXXXX
+124,Jynx,P,2,Reverse,,76/236,,sowsow,,,10/14/2019,XXXXXX
 360,Wynaut,P,2,,,77/236,,Kagemaru Himeno,,,8/2/2019,XXXXXX
 425,Drifloon,P,1,Reverse,,80/236,,ryoma uratsuka,,,8/2/2019,XXXXXX
 426,Drifblim,P,3,,,81/236,,Mizue,,,8/2/2019,XXXXXX
 451,Skorupi,P,1,,,82/236,,Ken Sugimori,,,8/2/2019,XXXXXX
+480,Uxie,P,3,Reverse / Art,,kodama,,,10/14/2019,XXXXXX
 482,Azelf,P,2,,,85/236,,Mizue,,,8/25/2019,XXXXXX
 488,Cresselia,P,2,,,87/236,,Megumi Mizutani,,,8/2/2019,XXXXXX
 517,Munna,P,1,,,88/236,,Shibuzoh.,,,8/2/2019,XXXXXX
@@ -56,25 +66,31 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 605,Elgyem,P,2,,,90/236,,Sumiyoshi Kizuki,,,8/2/2019,XXXXXX
 679,Honedge,P,1,,,92/236,,MAHOU,,,8/2/2019,XXXXXX
 679,Honedge,P,1,,,93/236,,Suwama Chiaki,,,8/2/2019,XXXXXX
+680,Doublade,P,2,,,94/236,,Akira Komayama,,,10/14/2019,XXXXXX
 747,Mareanie,P,1,,,96/236,,Saya Tsuruta,,,8/2/2019,XXXXXX
 757,Salandit,P,1,,,98/236,,Yukiko Baba,,,8/2/2019,XXXXXX
 758,Salazzle,P,3,,,99/236,,Masakazu Fukuda,,,10/12/2019,XXXXXX
 789,Cosmog,P,1,,,100/236,,Akira Komayama,,,8/2/2019,XXXXXX
 803,Poipole,P,1,,,102/236,,Shin Nagasawa,,,8/10/2019,XXXXXX
 95,Onix,Fg,1,,,103/236,,Hotishi Ariga,,,8/2/2019,XXXXXX
+208,Steelix,Fg,3,,,104/236,,Ayaka Yoshida,,,10/14/2019,XXXXXX
 104,Cubone,Fg,1,,,105/236,,otumami,,,8/2/2019,XXXXXX
 214,Heracross,Fg,2,,,107/236,,Sanosuke Sakuma,,,10/12/2019,XXXXXX
 286,Breloom,Fg,2,Reverse,,108/236,,Atsuko Nishida,,,8/2/2019,XXXXXX
+307,Meditite,Fg,1,Reverse,,109/236,,Mina Nakai,,,10/14/2019,XXXXXX
 369,Relicanth,Fg,2,,,111/236,,Yuka Morii,,,8/2/2019,XXXXXX
 443,Gible,Fg,1,,,112/236,,Asako Ito,,,8/2/2019,XXXXXX
+444,Gabite,Fg,2,,,113/236,,SATOSHI NAKAI,,,10/14/2019,XXXXXX
 445,Garchomp,Fg,3,Art,,114/236,,Akira Komayama,,,8/2/2019,XXXXXX
 447,Riolu,Fg,1,Reverse,,115/236,,kirisAki,,,8/25/2019,XXXXXX
+447,Riolu,Fg,1,,,116/236,,AKIRA EGAWA,,,10/14/2019,XXXXXX
+448,Lucario,Fg,3,,,117/236,,kirisAki,,,10/14/2019,XXXXXX
 529,Drilbur,Fg,1,,,118/236,,Ken Sugimori,,,8/10/2019,XXXXXX
 530,Excadrill,Fg,3,,,119/236,,Kyoko Umemoto,,,8/2/2019,XXXXXX
 566,Archen,Fg,2,,,120/236,,0313,,,8/2/2019,XXXXXX
 567,Archeops,Fg,3,Reverse,,121/236,,Hasuno,,,8/25/2019,XXXXXX
 648,Meloetta,Fg,3,,,123/236,,Kouki Saitou,,,8/2/2019,XXXXXX
-88,Alolan Grimer,D,1,,,127/236,,kawayoo,,,8/2/2019,XXXXXX
+88,Alolan Grimer,D,1,Reverse,,127/236,,kawayoo,,,10/14/2019,XXXXXX
 198,Murkrow,D,1,Reverse,,128/236,,nagimiso,,,8/2/2019,XXXXXX
 215,Sneasel,D,1,,,131/236,,sui,,,8/2/2019,XXXXXX
 461,Weavile GX,D,5,,,132/236,,aky CG Works,,,8/25/2019,XXXXXX
@@ -86,6 +102,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 547,Whimsicott,Fa,3,,,144/236,,Shibuzoh.,,,8/10/2019,XXXXXX
 445 & 487,Garchomp & Giratina GX,Dr,5,Full,Full Art / Team Up,146/236,,Mitsuhiro Arita,,,8/10/2019,XXXXXX
 147,Dratini,Dr,1,Reverse,,147/236,,Motofumi Fujiwara,,,8/2/2019,XXXXXX
+147,Dratini,Dr,1,,,148/236,,Sekio,,,10/14/2019,XXXXXX
 148,Dragonair,Dr,2,,,149/236,,Sanosuke Sakuma,,,8/2/2019,XXXXXX
 148,Dragonair,Dr,2,,,150/236,,sowsow,,,8/24/2019,XXXXXX
 149,Dragonite,Dr,3,,,151/236,,Misa Tsutsui,,,8/2/2019,XXXXXX
@@ -104,20 +121,28 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 661,Fletchling,N,1,,,179/236,,Saya Tsuruta,,,8/2/2019,XXXXXX
 734,Yungoos,N,1,,,180/236,,Shigenori Negishi,,,8/25/2019,XXXXXX
 735,Gumshoos,N,3,,,181/236,,Midori Harada,,,9/7/2019,XXXXXX
+765,Oranguru,N,2,,,182/236,,Naoki Saito,,,10/14/2019,XXXXXX
 772,Type: Null,N,2,,,183/236,,tetsuya koizumi,,,9/7/2019,XXXXXX
 775,Komala,N,2,,,185/236,,Miki Tanaka,,,8/2/2019,XXXXXX
 T,Blue's Tactics,Su,2,,,188/236,,Megumi Mizutani,,,8/25/2019,XXXXXX
 T,Channeler,Su,2,,,190/236,,TOKIYA,,,8/25/2019,XXXXXX
+T,Cherish Ball,I,2,,,191/236,,5ban Graphics,,,10/14/2019,XXXXXX
 T,Ear-Ringing Bell,I,2,,,194/236,,Toyste Beach,,,8/2/2019,XXXXXX
+T,Giant Bomb,I,2,Reverse,,196/236,,Studio Bora Inc.,,,10/14/2019,XXXXXX
 T,Giant Hearth,S,2,,,197/236,,5ban Graphics,,,8/25/2019,XXXXXX
 T,Great Potion,I,2,Reverse,,198/236,,Yoshinobu Saito,,,8/10/2019,XXXXXX
+T,Grimsley,Su,2,,,199/236,,kodama,,,10/14/2019,XXXXXX
 T,Hapu,Su,2,,,200/236,,Ken Sugimori,,,8/10/2019,XXXXXX
+T,Karate Belt,I,2,,,201/236,,Yoshinobu Saito,,,10/14/2019,XXXXXX
 T,Misty's Favor,Su,2,,,202/236,,Hideki Ishikawa,,,8/2/2019,XXXXXX
 T,Normalium Z:Tackle,I,2,,,203/236,,5ban Graphics,,,8/10/2019,XXXXXX
+T,Poke Maniac,Su,2,,,204/236,,Hitoshi Ariga,,,10/14/2019,XXXXXX
 T,Pokemon Research Lab,S,2,Reverse,,205/236,,oky CG Works,,,9/19/2019,XXXXXX
-T,Reset Stamp,I,2,,,206/236,,sadaji,,,10/12/2019,XXXXXX
+T,Reset Stamp,I,2,Reverse,,206/236,,sadaji,,,10/14/2019,XXXXXX
 T,Slumbering Forest,S,2,Reverse,,207/236,,Ryo Ueda,,,8/2/2019,XXXXXX
+T,Tag Switch,I,2,,,209/236,,Yoshinobu Saito,,,10/14/2019,XXXXXX
 T,Unidentified Fossil,I,2,,,210/236,,Toyste Beach,,,8/2/2019,XXXXXX
+T,U-Turn Board,I,2,,,211/236,,sadaji,,,10/14/2019,XXXXXX
 T,Recycle Energy,E,2,Reverse,,212/236,,,,,9/7/2019,XXXXXX
 445 & 487,Garchomp & Giratina GX,Dr,5,Full,Full Art / Textured / Team Up,228/236,,aky CG Works,,,8/24/2019,XXXXXX
 149,Dragonite,Dr,5,Full,Full Art / Textured,229/236,,ConceptLab,,,8/2/2019,XXXXXX
