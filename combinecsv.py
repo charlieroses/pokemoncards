@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 #
 #Author: Charlie Chiccarine
 #Email: src322@drexel.edu
