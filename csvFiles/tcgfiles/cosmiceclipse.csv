@@ -1,14 +1,22 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+43,Oddish,G,1,,,2/236,,Yumi,,,11/2/2019,XXXXXX
 44,Gloom,G,2,,,3/236,,sui,,,10/26/2019,XXXXXX
+114,Tangela,G,1,,,5/236,,otumami,,,11/2/2019,XXXXXX
+191,Sunkern,G,1,,,7/236,,0313,,,11/2/2019,XXXXXX
 357,Tropius,G,2,,,12/236,,sowsow,,,10/26/2019,XXXXXX
 401,Kricketot,G,1,,,13/236,,Ken Sugimori,,,10/26/2019,XXXXXX
 402,Kricketune,G,2,,,14/236,,Anesaki Dynamic,,,10/26/2019,XXXXXX
 585,Deerling,G,1,,,15/236,,Shibuzoh.,,,10/26/2019,XXXXXX
 586,Sawsbuck,G,3,,,16/236,,sui,,,10/26/2019,XXXXXX
+722,Rowlet,G,1,,,17/236,,Yuka Morii,,,11/2/2019,XXXXXX
 722,Rowlet,G,1,,,18/236,,Saya Tsuruta,,,10/26/2019,XXXXXX
 723,Dartrix,G,2,,,19/236,,Akira Komayama,,,10/26/2019,XXXXXX
+724,Decidueye,G,3,Art,,20/236,,kawayoo,,,11/2/2019,XXXXXX
+77,Ponyta,F,1,,,23/236,,Uta,,,11/2/2019,XXXXXX
+78,Rapidash,F,2,,,24/236,,Misa Tsutsui,,,11/2/2019,XXXXXX
 218,Slugma,F,1,,,26/236,,Ken Sugimori,,,10/26/2019,XXXXXX
 219,Magcargo,F,3,,,27/236,,Miki Tanaka,,,10/26/2019,XXXXXX
+244,Entei,F,3,Reverse,,28/236,,Shin Nagasawa,,,11/2/2019,XXXXXX
 324,Torkoal,F,2,,,29/236,,0313,,,10/26/2019,XXXXXX
 494,Victini,F,3,Art,,30/236,,Saya Tsuruta,,,10/26/2019,XXXXXX
 636,Larvesta,F,2,,,34/236,,Midori Harada,,,10/26/2019,XXXXXX
@@ -16,50 +24,90 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 667,Litleo,F,1,,,36/236,,HYOGONOSUKE,,,10/26/2019,XXXXXX
 668,Pyroar,F,2,,,37/236,,KEIICHIRO ITO,,,10/26/2019,XXXXXX
 37,Alolan Vulpix,W,1,,,39/236,,nagisimo,,,10/26/2019,XXXXXX
+54,Psyduck,W,1,,,40/236,,sui,,,11/2/2019,XXXXXX
+134,Vaporeon,W,2,,,42/236,,sui,,,11/2/2019,XXXXXX
+215,Sneasel,W,1,,,43/236,,ryoma uratsuka,,,11/2/2019,XXXXXX
+461,Weavile,W,3,,,44/236,,MAHOU,,,11/2/2019,XXXXXX
 363,Spheal,W,1,,,49/236,,sui,,,10/26/2019,XXXXXX
+363,Spheal,W,1,Reverse,,50/236,,SATOSHI NAKAI,,,11/2/2019,XXXXXX
 364,Sealeo,W,2,,,51/236,,miki kudo,,,10/26/2019,XXXXXX
 393,Piplup,W,1,,,54/236,,Suwama Chiaki,,,10/26/2019,XXXXXX
 394,Prinplup,W,2,,,55/236,,Hasuno,,,10/26/2019,XXXXXX
 395,Empoleon,W,3,,,56/236,,Masakazu Fukuda,,,10/26/2019,XXXXXX
+535,Tympole,W,1,,,58/236,,Asako Ito,,,11/2/2019,XXXXXX
+580,Ducklett,W,1,,,59/236,,Yumi,,,11/2/2019,XXXXXX
 751,Dewpider,W,1,,,64/236,,Shibuzoh.,,,10/26/2019,XXXXXX
 25,Pikachu,El,1,,,66/236,,Naoyo Kimura,,,10/26/2019,XXXXXX
+26,Raichu,El,3,,,67/236,,AKIRA EGAWA,,,11/2/2019,XXXXXX
+81,Magnemite,El,1,,,68/236,,Suwama Chiaki,,,11/2/2019,XXXXXX
 170,Chinchou,El,1,,,71/236,,Sekio,,,10/26/2019,XXXXXX
 177,Natu,P,1,,,78/236,,tetsuya koizumi,,,10/26/2019,XXXXXX
 280,Ralts,P,1,Reverse,,80/236,,Atsuko Nishida,,,10/26/2019,XXXXXX
+281,Kirlia,P,2,,,81/236,,sowsow,,,11/2/2019,XXXXXX
 355,Duskull,P,1,Reverse,,83/236,,ryoma uratsuko,,,10/26/2019,XXXXXX
+479,Rotom,P,2,,,86/236,,Mina Nakai,,,11/2/2019,XXXXXX
+527,Woobat,P,1,,,87/236,,Shibuzoh.,,,11/2/2019,XXXXXX
+528,Swoobat,P,3,,,88/236,,Tomokazu Komiya,,,11/2/2019,XXXXXX
 622,Golett,P,1,,,89/236,,Shigenori Negishi,,,10/26/2019,XXXXXX
 623,Golurk,P,3,,,90/236,,Ayaka Yoshida,,,10/26/2019,XXXXXX
 690,Skrelp,P,1,,,91/236,,sui,,,10/26/2019,XXXXXX
+708,Phantump,P,1,,,93/236,,miki kudo,,,11/2/2019,XXXXXX
 709,Trevenant,P,3,Reverse,,94/236,,Shin Nagasawa,,,10/26/2019,XXXXXX
 789,Cosmog,P,1,,,100/236,,Masakazu Fukuda,,,10/26/2019,XXXXXX
 299,Nosepass,Fg,1,Reverse,,106/236,,Anesaki Dynamic,,,10/26/2019,XXXXXX
+328,Trapinch,Fg,1,,,107/236,,sowsow,,,11/2/2019,XXXXXX
+328,Trapinch,Fg,1,,,108/236,,Midori Harada,,,11/2/2019,XXXXXX
+329,Vibrava,Fg,2,,,109/236,,SATOSHI NAKAI,,,11/2/2019,XXXXXX
 347,Anorith,Fg,2,,,111/236,,Sumiyoshi Kizuki,,,10/26/2019,XXXXXX
 348,Armaldo,Fg,3,,,112/236,,Ayaka Yoshida,,,10/26/2019,XXXXXX
 383,Groudon,Fg,3,,,113/236,,Shin Nagasawa,,,10/26/2019,XXXXXX
+529,Drilbur,Fg,1,,,114/236,,Suwama Chiaki,,,11/2/2019,XXXXXX
 536,Palpitoad,Fg,1,,,116/236,,Ken Sugimori,,,10/26/2019,XXXXXX
 674,Pancham,Fg,1,,,119/236,,Motofumi Fujiwara,,,10/26/2019,XXXXXX
+675,Pangoro,Fg,2,,,120/236,,Shin Nagasawa,,,11/2/2019,XXXXXX
 739,Crabrawler,Fg,1,,,121/236,,Miki Tanaka,,,10/26/2019,XXXXXX
 744,Rockruff,Fg,1,,,123/236,,Saya Tsuruta,,,10/26/2019,XXXXXX
 766,Passimian,Fg,1,Reverse,,125/236,,Masakazu Fukuda,,,10/26/2019,XXXXXX
 88,Alolan Grimer,D,1,,,130/236,,Sekio,,,10/26/2019,XXXXXX
 318,Carvanha,D,1,,,132/236,,Hasuno,,,10/26/2019,XXXXXX
+624,Bisharp,D,1,,,134/236,,Ken Sugimori,,,11/2/2019,XXXXXX
 625,Bisharp,D,2,,,135/236,,SATOSHI NAKAI,,,10/26/2019,XXXXXX
+27,Alolan Sandshrew,Sl,1,,,137/236,,ryoma uratsuka,,,11/2/2019,XXXXXX
 28,Alolan Sandslash,Sl,3,,,138/236,,Hasuno,,,10/26/2019,XXXXXX
+476,Probopass,Sl,2,,,141/236,,Masakazu Fukuda,,,11/2/2019,XXXXXX
+791,Solgaleo,Sl,3,Reverse / Art,,142/236,,Misa Tsutsui,,,11/2/2019,XXXXXX
 298,Azurill,Fa,1,,,146/236,,Asako Ito,,,10/26/2019,XXXXXX
 669,Flabebe,Fa,1,,,149/236,,tetsuya koizumi,,,10/26/2019,XXXXXX
-684,Swirlix,Fa,1,,,153/236,,MAHOU,,,10/26/2019,XXXXXX
+669,Flabebe,Fa,1,,,150/236,,Atsuko Nishida,,,11/2/2019,XXXXXX
+684,Swirlix,Fa,1,Reverse,,153/236,,MAHOU,,,11/2/2019,XXXXXX
+685,Slurpuff,Fa,3,,,154/236,,Kyoko Umemoto,,,11/2/2019,XXXXXX
 782,Jangmo-o,Dr,1,,,160/236,,AKIRA EGAWA,,,10/26/2019,XXXXXX
+782,Jangmo-o,Dr,1,Reverse,,161/236,,Tomokazu Komiya,,,11/2/2019,XXXXXX
 783,Hakamo-o,Dr,2,,,162/236,,Ryuta Fuse,,,10/26/2019,XXXXXX
+133,Eevee,N,1,,,166/236,,Motofumi Fujiwara,,,11/2/2019,XXXXXX
+133,Eevee,N,1,,,167/236,,Hasuno,,,11/2/2019,XXXXXX
 174,Igglybuff,N,2,,,168/236,,Kagemaru Himeno,,,10/26/2019,XXXXXX
-216,Teddiursa,N,1,,,171/236,,kodama,,,10/26/2019,XXXXXX
+190,Aipom,N,1,,,169/236,,Miki Tanaka,,,11/2/2019,XXXXXX
+424,Ambipom,N,2,,,170/236,,Sumiyoshi Kizuki,,,11/2/2019,XXXXXX
+216,Teddiursa,N,1,Reverse,,171/236,,kodama,,,11/2/2019,XXXXXX
+506,Lillipup,N,1,,,174/236,,Sekio,,,11/2/2019,XXXXXX
 627,Rufflet,N,1,,,177/236,,Ken Sugimori,,,10/26/2019,XXXXXX
 759,Stufful,N,1,,,181/236,,Shigenori Negishi,,,10/26/2019,XXXXXX
+760,Bewear,N,3,,,182/236,,Akira Komayama,,,11/2/2019,XXXXXX
+772,Type: Null,N,2,,,183/236,,KEIICHIRO ITO,,,11/2/2019,XXXXXX
+773,Silvally GX,N,5,Full,Full Art,184/236,,Megumi Mizutani,,,11/2/2019,XXXXXX
+T,Beastite,I,2,,,185/236,,inose yukie,,,11/2/2019,XXXXXX
 T,Erika,Su,2,Reverse,,191/236,,Megumi Mizutani,,,10/26/2019,XXXXXX
+T,Island Challenge Amulet,I,2,,,194/236,,sodaji,,,11/2/2019,XXXXXX
+T,Lana's Fishing Rod,I,2,,,195/236,,Eske Yoshinob,,,11/2/2019,XXXXXX
 T,Lillie's Full Force,Su,2,,,196/236,,kodama,,,10/26/2019,XXXXXX
+T,Mallow & Lana Tag Team,Su,2,,,198/236,,Ken Sugimori,,,11/2/2019,XXXXXX
 T,N's Resolve,Su,2,,,200/236,,Ryuta Fuse,,,10/26/2019,XXXXXX
 T,Professor Oak's Setup,Su,2,,,201/236,,Megumi Mizutani,,,10/26/2019,XXXXXX
 T,Red & Blue Tag Team,Su,2,,,202/236,,Megumi Mizutani,,,10/26/2019,XXXXXX
+T,Roller Skater,Su,2,,,203/236,,Yusuke Ohmura,,,11/2/2019,XXXXXX
 T,Rosa,Su,3,,,204/236,,Yusuke Ohmura,,,10/26/2019,XXXXXX
 T,Tag Call,I,2,,,206/236,,Toyste Beach,,,10/26/2019,XXXXXX
 T,Draw Energy,N,2,,,209/236,,,,,10/26/2019,XXXXXX
 746,Wishiwashi,W,5,Full,Full Art / Trainer,240/236,,Misaki Hashimoto,,,10/26/2019,XXXXXX
+81,Magnemite,El,5,Full,Full Art / Trainer,242/236,,Fumie Kittaka,,,11/2/2019,XXXXXX
