@@ -6,8 +6,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 14,Kakuna,G,2,,,6/108,,Keiji Kinebuchi,,,,124019
 15,Beedrill,G,3,,,7/108,,Ken Sugimori,,,10/12/2019,XXXXXX
 114,Tangela,G,1,,,8/108,,Mitsuhiro Arita,,,,124021
-4,Charmander,F,1,Card,,9/108,,Mitsuhiro Arita,,,6/29/2019,XXXXXX
-6,Charizard,F,3,Reverse,,11/108,,Mitsuhiro Arita,,,6/29/2019,XXXXXX
+4,Charmander,F,1,Reverse,,9/108,,Mitsuhiro Arita,,,6/29/2019,XXXXXX
+6,Charizard,F,3,Art,,11/108,,Mitsuhiro Arita,,,6/29/2019,XXXXXX
 37,Vulpix,F,1,Full,,14/108,,Ken Sugimori,,,,124027
 38,Ninetales,F,3,Reverse,,15/108,,Ken Sugimori,,,7/30/2019,XXXXXX
 58,Growlithe,F,1,,,17/108,,Ken Sugimori,,,,124030
@@ -38,6 +38,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 151,Mew,P,3,Reverse,,53/108,,Ken Sugimori,,,,124066
 27,Sandshrew,Fg,1,,,54/108,,Ken Sugimori,,,,124067
 50,Diglett,Fg,1,,,55/108,,Keiji Kinebuchi,,,,124068
+51,Dugtrio,Fg,3,,,56/108,,Keiji Kinebuchi,,,12/20/2019,XXXXXX
 66,Machop,Fg,1,,,57/108,,Mitsuhiro Arita,,,,124070
 95,Onix,Fg,1,,,61/108,,Ken Sugimori,,,,124074
 107,Hitmonchan,Fg,3,Art,,62/108,,Ken Sugimori,,,,124075
