@@ -8,7 +8,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 609,Chandelure,F,3,Reverse,,13/145,,Kouki Saitou,,,,130759
 757,Salandit,F,1,,,15/145,,TOKIYA,,,,130761
 28,Alolan Sandslash,W,3,,,20/145,,TOKIYA,,,8/6/2019,XXXXXX
-37,Alolan Vulpix,W,1,,,21/145,,You Iribi,,,8/1/2019,XXXXXX
+37,Alolan Vulpix,W,1,Reverse,,21/145,,You Iribi,,,12/20/2019,XXXXXX
+72,Tentacool,W,1,,,23/145,,Shibuzoh.,,,12/20/2019,XXXXXX
 225,Delibird,W,1,,,26/145,,sui,,,,130926
 318,Carvanha,W,1,,,27/145,,Hideki Ishikawa,,,,130927
 320,Wailmer,W,1,,,29/145,,Miki Tanaka,,,,130929
@@ -39,6 +40,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 744,Rockruff,Fg,1,,,73/145,,Naoki Saito,,,,130983
 749,Mudbray,Fg,1,,,75/145,,Kouki Saitou,,,,130987
 198,Murkrow,D,1,,,78/145,,Sekio,,,8/1/2019,XXXXXX
+374,Beldum,Sl,1,,,83/145,,Kyoko Umemoto,,,12/20/2019,XXXXXX
 375,Metang,Sl,2,,,84/145,,Kagemaru Himeno,,,8/10/2019,XXXXXX
 35,Clefairy,Fa,1,,,88/145,,Kagemaru Himeno,,,,131002
 546,Cottonee,Fa,1,,,90/145,,Megumi Mizutani,,,9/19/2019,XXXXXX
@@ -55,6 +57,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 661,Fletchling,N,1,,,109/145,,You Iribi,,,,131027
 662,Fletchinder,N,2,Full,,110/145,,kawayoo,,,,131028
 663,Talonflame,N,3,,,111/145,,Shin Nagasawa,,,4/12/2019,131029
+759,Stufful,N,1,,,112/145,,Kouki Saitou,,,12/20/2019,XXXXXX
 760,Bewear,N,2,Reverse,,113/145,,Shin Nagasawa,,,8/10/2019,131031
 775,Komala,N,2,,,114/145,,Kouki Saitou,,,,131032
 780,Drampa GX,N,5,Full,Full Art,115/145,,5ban Graphics,,,8/10/2019,XXXXXX
