@@ -9,6 +9,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 4,Charmander,F,1,,,12/181,,Atusko Nishida,,,7/5/2019,XXXXXX
 5,Charmeleon,F,2,,,13/181,,Ayaka Yoshida,,,4/22/2019,183784
 37,Vulpix,F,1,,,15/181,,Ken Sugimori,,,5/12/2019,183786
+77,Ponyta,F,1,,,17/181,,Saya Tsuruta,,,12/20/2019,XXXXX
 78,Rapidash,F,2,,,18/181,,Shigenori Negishi,,,7/5/2019,XXXXXX
 725,Litten,F,1,,,20/181,,sui,,,5/12/2019,183791
 726,Torract,F,2,,,21/181,,Sanosuke Sakuma,,,8/27/2019,XXXXXX
@@ -22,6 +23,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 74,Alolan Geodude,El,1,,,34/181,,Yukiko Baba,,,,183807
 74,Alolan Geodude,El,1,,,35/181,,Yuka Morii,,,10/14/2019,XXXXXX
 75,Alolan Graveler,El,2,Full,,36/181,,Misa Tsutsui,,,4/22/2019,183809
+76,Alolan Golem,El,3,,,37/181,,kawayoo,,,12/20/2019,XXXXXX
 100,Voltorb,El,1,,,38/181,,Ken Sugimori,,,7/5/2019,XXXXX
 179,Mareep,El,1,,,41/181,,Akira Komayama,,,5/12/2019,183814
 180,Flaaffy,El,2,Full,,42/181,,Shibuzoh.,,,,183815
@@ -72,6 +74,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 38,Alolan Ninetales,Fa,3,Reverse,,111/181,,Misa Tsuitsui,,,,183895
 778,Mimikyu,Fa,3,Reverse,,112/181,,Eri Yamaki,,,5/12/2019,183896
 380 & 381,Latias & Latios GX,5,Dr,Full,Full Art / Team Up,113/181,,Mitsuhiro Arita,,,8/27/2019,XXXXXX
+103,Alolan Exeggutor,3,Reverse,,115/181,,Sanosuke Sakuma,,,12/20/2019,XXXXXX
 147,Dratini,Dr,1,,,116/181,,Midori Harada,,,8/27/2019,XXXXXX
 147,Dratini,Dr,1,Full,,117/181,,Kouki Saitou,,,5/12/2019,183903
 133 & 143,Eevee & Snorlax GX,N,5,Full,Full Art / Team Up,120/181,,Mitsuhiro Arita,,,6/15/2019,XXXXXX
@@ -79,12 +82,15 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 16,Pidgey,N,1,,,122/181,,Sumiyoshi Kizuki,,,10/14/2019,XXXXXX
 17,Pidgeotto,N,1,,,123/181,,Mizue,,,7/5/2019,XXXXXX
 18,Pidgeot,N,3,,,124/181,,Akira Komayama,,,7/5/2019,XXXXXX
+52,Meowth,N,1,,,125/181,,Ken Sugimori,,,12/20/2019,XXXXXX
 53,Persian,N,2,Reverse,,126/181,,Yukiko Baba,,,8/27/2019,XXXXXX
 83,Farfetch'd,N,2,,,127/181,,Shibuzoh.,,,7/20/2019,XXXXXX
 115,Kangaskhan,N,2,Full,,128/181,,Mizue,,,4/22/2019,183917
 128,Tauros,N,2,,,129/181,,kodama,,,8/27/2019,XXXXXX
 249,Lugia,N,3,Reverse / Art,,131/181,,Anesaki Dynamic,,,7/5/2019,XXXXXX
+335,Zangoose,N,3,Reverse,,132/181,,Misa Tsutsui,,,12/20/2019,XXXXXX
 T,Brock's Grit,Su,2,,,135/181,,Naoki Saito,,,10/14/2019,XXXXXX
+T,Buff Padding,I,2,,,136/181,,Yoshinobu Saito,,,12/20/2019,XXXXXX
 T,Dangerous Drill,I,2,,,138/181,,Toyste Beach,,,4/22/2019,183930
 T,Electrocharger,I,2,,,139/181,,Eske Yoshinob,,,10/14/2019,XXXXXX
 T,Evelyn,Su,2,,,141/181,,Megumi Mizutani,,,7/5/2019,XXXXXX
