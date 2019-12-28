@@ -37,9 +37,10 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 150,Mewtwo EX,P,5,Art,Full Art,52/108,,Eske Yoshinob,,,9/7/2019,XXXXXX
 151,Mew,P,3,Reverse,,53/108,,Ken Sugimori,,,,124066
 27,Sandshrew,Fg,1,,,54/108,,Ken Sugimori,,,,124067
-50,Diglett,Fg,1,,,55/108,,Keiji Kinebuchi,,,,124068
+50,Diglett,Fg,1,Reverse,,55/108,,Keiji Kinebuchi,,,12/28/2019,124068
 51,Dugtrio,Fg,3,,,56/108,,Keiji Kinebuchi,,,12/20/2019,XXXXXX
 66,Machop,Fg,1,,,57/108,,Mitsuhiro Arita,,,,124070
+67,Machoke,Fg,2,,,58/108,,Ken Sugimori,,,12/28/2019,XXXXXX
 95,Onix,Fg,1,,,61/108,,Ken Sugimori,,,,124074
 107,Hitmonchan,Fg,3,Art,,62/108,,Ken Sugimori,,,,124075
 83,Farfetch'd,N,3,,,68/108,,Ken Sugimori,,,,124081
@@ -61,6 +62,7 @@ T,Switch,I,2,,,88/108,,Keiji Kinebuchi,,,,124101
 T,Venusaur Spirit Link,I,2,,,89/108,,5ban Graphics,,,,124102
 T,Special Energy,E,2,,,90/108,,Keiji Kinebuchi,,,,124103
 T,Fire Energy,E,1,,,92/108,,,,,9/7/2019,XXXXXX
+T,Water Energy,E,1,,,93/108,,,,,12/28/2019,XXXXXX
 T,Electric Energy,E,1,,,94/108,,,,,9/17/2019,XXXXXX
 T,Psychic Energy,E,1,,,95/108,,,,,,124108
 T,Fight Energy,E,1,,,96/108,,,,,,124109
