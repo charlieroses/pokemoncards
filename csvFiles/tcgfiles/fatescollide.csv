@@ -11,6 +11,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 653,Fennekin,F,1,,,10/124,,Akira Komayama,,,,117773
 653,Fennekin,F,1,,,11/124,,kirisAki,,,,117774
 654,Braixen,F,2,,,12/124,,kirisAki,,,,117775
+655,Delphox,F,3,Reverse,,13/124,,Kagemaru Himeno,,,12/28/2019,XXXXXX
 86,Seel,W,1,,,15/124,,Hasuno,,,,117777
 87,Dewgong,W,2,,,16/124,,Naoyo Kimura,,,7/14/2019,XXXXXX
 139,Omastar,W,3,,,18/124,,Hasuno,,,9/7/2019,XXXXXX
@@ -36,6 +37,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 248,Tyranitar,D,3,Reverse,,56/124,,Satoshi Shirai,,,6/15/2019,XXXXXX
 629,Vullaby,D,1,,,57/124,,Midori Harada,,,8/6/2019,XXXXXX
 413,Wormadam,Sl,2,,,59/124,,Kyoko Umemoto,,,9/7/2019,XXXXXX
+436,Bronzor,Sl,1,,,60/124,,Hajime Kusajima,,,12/28/2019,XXXXXX
 448,Lucario,Sl,3,Reverse,,63/124,,Hitoshi Ariga,,,5/12/2019,117838
 39,Jigglypuff,Fa,1,,,65/124,,Midori Harada,,,,117840
 40,Wigglytuff,Fa,2,,,66/124,,Mizue,,,7/20/2019,XXXXXX
@@ -43,10 +45,12 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 546,Cottonee,Fa,1,,,70/124,,MAHOU,,,,117845
 547,Whimsicott,Fa,2,,,71/124,,sui,,,,117846
 719,Diancie EX,Fa,5,,,72/124,,Eske Yoshinob,,,9/7/2019,XXXXXX
+52,Meowth,N,1,,,74/124,,Shigenori Negishi,,,12/28/2019,XXXXXX
 142,Aerodactyl,N,3,Card,,76/124,,kawayoo,,,8/6/2019,XXXXXX
 293,Whismur,N,1,,,80/124,,Kouki Saitou,,,,117855
 294,Loudred,N,2,,,81/124,,TOKIYA,,,9/7/2019,XXXXXX
 295,Exploud,N,3,,,82/124,,Masakazu Fukuda,,,7/20/2019,XXXXXX
+531,Audino EX,N,5,Full,Full Art,84/124,,Ayaka Yoshida,,,12/28/2019,XXXXXX
 572,Minccino,N,1,,,86/124,,kirisAki,,,,117859
 573,Cinccino,N,2,Card,,89/124,,Kouki Saitou,,,7/7/2019,XXXXXX
 T,Alakazam Spirit Link,I,2,,,90/124,,5ban Graphics,,,7/30/2019,XXXXXX
@@ -58,6 +62,7 @@ T,Fairy Garden,S,2,,,100/124,,Ryo Ueda,,,9/17/2019,XXXXXX
 T,Fossil Excavation Kit,I,2,Full,,101/124,,Toyste Beach,,,,117873
 T,Helix Fossil Omanyte,I,2,,,102/124,,Toyste Beach,,,9/21/2019,XXXXXX
 T,Old Amber Aerodactyl,I,2,,,106/124,,Toyste Beach,,,,117877
+T,Pokemon Fan Club,Su,2,,,107/124,,Yusuke Ohmura,,,12/28/2019,XXXXXX
 T,Power Memory,I,2,,,108/124,,5ban Graphics,,,9/19/2019,XXXXXX
 T,Random Reciever,I,2,,,109/124,,Toyste Beach,,,,117880
 T,Scorched Earth,S,2,,,110/124,,Ryo Ueda,,,,117881
