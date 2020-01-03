@@ -41,7 +41,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 448,Lucario,Sl,3,Reverse,,63/124,,Hitoshi Ariga,,,5/12/2019,117838
 39,Jigglypuff,Fa,1,,,65/124,,Midori Harada,,,,117840
 40,Wigglytuff,Fa,2,,,66/124,,Mizue,,,7/20/2019,XXXXXX
-209,Snubbull,Fa,1,,,68/124,,Aya Kusube,,,,117843
+209,Snubbull,Fa,1,Reverse,,68/124,,Aya Kusube,,,1/2/2020,117843
 546,Cottonee,Fa,1,,,70/124,,MAHOU,,,,117845
 547,Whimsicott,Fa,2,,,71/124,,sui,,,,117846
 719,Diancie EX,Fa,5,,,72/124,,Eske Yoshinob,,,9/7/2019,XXXXXX
@@ -52,12 +52,14 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 295,Exploud,N,3,,,82/124,,Masakazu Fukuda,,,7/20/2019,XXXXXX
 531,Audino EX,N,5,Full,Full Art,84/124,,Ayaka Yoshida,,,12/28/2019,XXXXXX
 572,Minccino,N,1,,,86/124,,kirisAki,,,,117859
+572,Minccino,N,1,,,87/124,,Mizue,,,1/2/2020,XXXXXX
 573,Cinccino,N,2,Card,,89/124,,Kouki Saitou,,,7/7/2019,XXXXXX
 T,Alakazam Spirit Link,I,2,,,90/124,,5ban Graphics,,,7/30/2019,XXXXXX
 T,Audino Spirit Link,I,2,,,92/124,,5ban Graphics,,,8/6/2019,XXXXXX
 T,Bent Spoon,I,2,Reverse,,93/124,,Toyste Beach,,,9/7/2019,XXXXXX
 T,Chaos Tower,S,2,,,94/124,,5ban Graphics,,,9/21/2019,XXXXXX
 T,Energy Pouch,I,2,,,97/124,,Toyste Beach,,,7/14/2019,XXXXXX
+T,Fairy Drop,I,2,,,99/124,,Toyste Beach,,,1/2/2020,XXXXXX
 T,Fairy Garden,S,2,,,100/124,,Ryo Ueda,,,9/17/2019,XXXXXX
 T,Fossil Excavation Kit,I,2,Full,,101/124,,Toyste Beach,,,,117873
 T,Helix Fossil Omanyte,I,2,,,102/124,,Toyste Beach,,,9/21/2019,XXXXXX
