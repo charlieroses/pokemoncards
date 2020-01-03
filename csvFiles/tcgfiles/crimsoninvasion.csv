@@ -1,4 +1,4 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
+/Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
 13,Weedle,G,1,,,1/111,,Yukiko Baba,,,12/28/2019,XXXXXX
 14,Kakuna,G,2,,,2/111,,Miki Kudo,,,,149022
 15,Beedrill,G,3,,,3/111,,kirisAki,,,,149023
@@ -14,6 +14,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 129,Magikarp,W,1,,,17/111,,TOKIYA,,,,149038
 220,Swinub,W,1,,,19/111,,Eri Yamaki,,,8/10/2019,XXXXXX
 221,Piloswine,W,2,,,20/111,,Kouki Saitou,,,,149041
+223,Remoraid,W,1,,,22/111,,Aya Kusube,,,1/2/2020,XXXXXX
 341,Corphish,W,1,,,24/111,,Masakazu Fukuda,,,,149045
 349,Feebas,W,1,Reverse,,26/111,,Hitoshi Ariga,,,8/10/2019,149047
 422,Shellos,W,1,,,29/111,,Kouki Saitou,,,,149051
@@ -31,14 +32,17 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 56,Mankey,Fg,1,,,50/111,,Miki Tanaka,,,,149073
 57,Primeape,Fg,3,,,51/111,,Yuka Morii,,,12/28/2019,XXXXXX
 104,Cubone,Fg,1,Reverse,,52/111,,sui,,,12/28/2019,149075
-423,Gastrodon,Fg,2,,,54/111,,TOKIYA,,,8/10/2019,XXXXXX
+377,Regirock,Fg,3,,,53/111,,kawayoo,,,1/2/2020,XXXXXX
+423,Gastrodon,Fg,2,Reverse,,54/111,,TOKIYA,,,1/2/2020,XXXXXX
 759,Stufful,Fg,1,,,55/111,,Kanako Eo,,,8/1/2019,XXXXXX
 760,Bewear,Fg,3,Card,,56/111,,Saya Tsuruta,,,,149079
+794,Buzzwole GX,Fg,5,Full,Full Art,57/111,,5ban Graphics,,,1/2/2020,XXXXXX
 228,Houndour,D,1,,,58/111,,Kouki Saitou,,,,149081
 633,Deino,D,1,,,60/111,,miki kudo,,,,149083
 634,Zweilous,D,2,,,61/111,,kodama,,,,149084
 304,Aron,Sl,1,,,65/111,,TOKIYA,,,12/28/2019,XXXXXX
 305,Lairon,Sl,2,Full,,66/111,,Atsuko Nishida,,,,149089
+306,Aggron,Sl,3,Reverse,,67/111,,Yoshinobu Saito,,,1/2/2020,XXXXXX
 379,Registeel,Sl,3,,,68/111,,Mitsuhiro Arita,,,8/1/2019,XXXXXX
 39,Jigglypuff,Fa,1,,,71/111,,You Iribi,,,8/10/2019,XXXXXX
 40,Wigglytuff,Fa,3,,,72/111,,0313,,,8/10/2019,XXXXXX
@@ -53,6 +57,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 572,Minccino,N,1,,,85/111,,kodama,,,,149110
 573,Cinccino,N,2,,,86/111,,0313,,,,149111
 659,Bunnelby,N,1,,,87/111,,kirisAki,,,,149112
+660,Diggersby,N,2,,,88/111,,Anesaki Dynamic,,,1/2/2020,XXXXXX
 T,Counter Catcher,I,2,,,91/111,,Toyste Beach,,,,149116
 T,Dashing Pouch,I,2,,,92/111,,Eske Yoshinob,,,,149117
 T,Devoured Field,S,2,,,93/111,,5ban Graphics,,,,149118
@@ -60,4 +65,5 @@ T,Fighting Memory,I,2,,,94/111,,5ban Graphics,,,12/28/2019,XXXXXX
 T,Gladion,Su,2,,,95/111,,Ken Sugimori,,,8/1/2019,XXXXXX
 T,Peeking Red Card,I,2,,,97/111,,Toyste Beach,,,,149122
 T,Psychic Memory,I,2,,,98/111,,5ban Graphics,,,12/28/2019,XXXXXX
+T,Sea of Nothingness,S,2,,,99/111,,Ryo Ueda,,,1/2/2020,XXXXXX
 T,Counter Energy,E,2,,,100/111,,,,,12/28/2019,XXXXXX
