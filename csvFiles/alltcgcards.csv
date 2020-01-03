@@ -175,6 +175,7 @@ T,Super Scoop Up,I,2,,,146/168,celestialstorm,Keiji Kinebuchi,,,,171007
 T,Switch,I,2,,,147/168,celestialstorm,Hiromichi Sugiyama,,,,171008
 T,Tate & Liza,Su,2,,,148/168,celestialstorm,Megumi Mizutani,,,,171009
 T,TV Reporter,Su,2,,,149/168,celestialstorm,Ken Sugimori,,,,171010
+384,Rayquaza GX,Dr,5,Full,Full Art / Alternate Art / Textured / Shiny,177a/168,celestialstorm,5ban Graphics,,,1/1/2020,XXXXXX
 48,Venonant,G,1,,,1/119,phantomforces,Sumiyoshi Kizuki,,,,94134
 49,Venomoth,G,3,,,2/119,phantomforces,5ban Graphics,,,,94135
 193,Yanma,G,1,,,3/119,phantomforces,Shin Nagasawa,,,,94136
@@ -643,6 +644,7 @@ T,Chrys,Su,2,,Italian,123/147,italianburningshadows,,Ken Sugimori,,,6/2/2019,XXX
 489,Phione,W,3,,,57/236,cosmiceclipse,AKIRA EGAWA,,,12/20/2019,XXXXXX
 535,Tympole,W,1,,,58/236,cosmiceclipse,Asako Ito,,,11/2/2019,XXXXXX
 580,Ducklett,W,1,,,59/236,cosmiceclipse,Yumi,,,11/2/2019,XXXXXX
+581,Swanna,W,3,,,60/236,cosmiceclipse,Yukiko Baba,,,12/28/2019,XXXXXX
 751,Dewpider,W,1,,,64/236,cosmiceclipse,Shibuzoh.,,,10/26/2019,XXXXXX
 25,Pikachu,El,1,,,66/236,cosmiceclipse,Naoyo Kimura,,,10/26/2019,XXXXXX
 26,Raichu,El,3,,,67/236,cosmiceclipse,AKIRA EGAWA,,,11/2/2019,XXXXXX
@@ -652,6 +654,7 @@ T,Chrys,Su,2,,Italian,123/147,italianburningshadows,,Ken Sugimori,,,6/2/2019,XXX
 177,Natu,P,1,,,78/236,cosmiceclipse,tetsuya koizumi,,,10/26/2019,XXXXXX
 280,Ralts,P,1,Reverse,,80/236,cosmiceclipse,Atsuko Nishida,,,10/26/2019,XXXXXX
 281,Kirlia,P,2,,,81/236,cosmiceclipse,sowsow,,,11/2/2019,XXXXXX
+475,Gallade,P,3,Reverse,,82/236,cosmiceclipse,Misa Tsutsui,,,12/28/2019,XXXXXX
 355,Duskull,P,1,Reverse,,83/236,cosmiceclipse,ryoma uratsuko,,,10/26/2019,XXXXXX
 479,Rotom,P,2,,,86/236,cosmiceclipse,Mina Nakai,,,11/2/2019,XXXXXX
 527,Woobat,P,1,,,87/236,cosmiceclipse,Shibuzoh.,,,11/2/2019,XXXXXX
@@ -661,6 +664,7 @@ T,Chrys,Su,2,,Italian,123/147,italianburningshadows,,Ken Sugimori,,,6/2/2019,XXX
 690,Skrelp,P,1,,,91/236,cosmiceclipse,sui,,,10/26/2019,XXXXXX
 708,Phantump,P,1,,,93/236,cosmiceclipse,miki kudo,,,11/2/2019,XXXXXX
 709,Trevenant,P,3,Reverse,,94/236,cosmiceclipse,Shin Nagasawa,,,10/26/2019,XXXXXX
+781,Dhelmise,P,2,,,98/236,cosmiceclipse,Midori Harada,,,12/28/2019,XXXXXX
 789,Cosmog,P,1,,,100/236,cosmiceclipse,Masakazu Fukuda,,,10/26/2019,XXXXXX
 299,Nosepass,Fg,1,Reverse,,106/236,cosmiceclipse,Anesaki Dynamic,,,10/26/2019,XXXXXX
 328,Trapinch,Fg,1,,,107/236,cosmiceclipse,sowsow,,,11/2/2019,XXXXXX
@@ -702,6 +706,7 @@ T,Chrys,Su,2,,Italian,123/147,italianburningshadows,,Ken Sugimori,,,6/2/2019,XXX
 216,Teddiursa,N,1,Reverse,,171/236,cosmiceclipse,kodama,,,11/2/2019,XXXXXX
 506,Lillipup,N,1,,,174/236,cosmiceclipse,Sekio,,,11/2/2019,XXXXXX
 627,Rufflet,N,1,,,177/236,cosmiceclipse,Ken Sugimori,,,10/26/2019,XXXXXX
+694,Helioptile,N,1,,,179/236,cosmiceclipse,Sekio,,,12/26/2019,XXXXXX
 759,Stufful,N,1,,,181/236,cosmiceclipse,Shigenori Negishi,,,10/26/2019,XXXXXX
 760,Bewear,N,3,,,182/236,cosmiceclipse,Akira Komayama,,,11/2/2019,XXXXXX
 772,Type: Null,N,2,,,183/236,cosmiceclipse,KEIICHIRO ITO,,,11/2/2019,XXXXXX
@@ -1249,6 +1254,7 @@ T,Xtransceiver,I,2,,,96/101,noblevictories,Ryo Ueda,,,,90674
 653,Fennekin,F,1,,,10/124,fatescollide,Akira Komayama,,,,117773
 653,Fennekin,F,1,,,11/124,fatescollide,kirisAki,,,,117774
 654,Braixen,F,2,,,12/124,fatescollide,kirisAki,,,,117775
+655,Delphox,F,3,Reverse,,13/124,fatescollide,Kagemaru Himeno,,,12/28/2019,XXXXXX
 86,Seel,W,1,,,15/124,fatescollide,Hasuno,,,,117777
 87,Dewgong,W,2,,,16/124,fatescollide,Naoyo Kimura,,,7/14/2019,XXXXXX
 139,Omastar,W,3,,,18/124,fatescollide,Hasuno,,,9/7/2019,XXXXXX
@@ -1274,28 +1280,34 @@ T,Xtransceiver,I,2,,,96/101,noblevictories,Ryo Ueda,,,,90674
 248,Tyranitar,D,3,Reverse,,56/124,fatescollide,Satoshi Shirai,,,6/15/2019,XXXXXX
 629,Vullaby,D,1,,,57/124,fatescollide,Midori Harada,,,8/6/2019,XXXXXX
 413,Wormadam,Sl,2,,,59/124,fatescollide,Kyoko Umemoto,,,9/7/2019,XXXXXX
+436,Bronzor,Sl,1,,,60/124,fatescollide,Hajime Kusajima,,,12/28/2019,XXXXXX
 448,Lucario,Sl,3,Reverse,,63/124,fatescollide,Hitoshi Ariga,,,5/12/2019,117838
 39,Jigglypuff,Fa,1,,,65/124,fatescollide,Midori Harada,,,,117840
 40,Wigglytuff,Fa,2,,,66/124,fatescollide,Mizue,,,7/20/2019,XXXXXX
-209,Snubbull,Fa,1,,,68/124,fatescollide,Aya Kusube,,,,117843
+209,Snubbull,Fa,1,Reverse,,68/124,fatescollide,Aya Kusube,,,1/2/2020,117843
 546,Cottonee,Fa,1,,,70/124,fatescollide,MAHOU,,,,117845
 547,Whimsicott,Fa,2,,,71/124,fatescollide,sui,,,,117846
 719,Diancie EX,Fa,5,,,72/124,fatescollide,Eske Yoshinob,,,9/7/2019,XXXXXX
+52,Meowth,N,1,,,74/124,fatescollide,Shigenori Negishi,,,12/28/2019,XXXXXX
 142,Aerodactyl,N,3,Card,,76/124,fatescollide,kawayoo,,,8/6/2019,XXXXXX
 293,Whismur,N,1,,,80/124,fatescollide,Kouki Saitou,,,,117855
 294,Loudred,N,2,,,81/124,fatescollide,TOKIYA,,,9/7/2019,XXXXXX
 295,Exploud,N,3,,,82/124,fatescollide,Masakazu Fukuda,,,7/20/2019,XXXXXX
+531,Audino EX,N,5,Full,Full Art,84/124,fatescollide,Ayaka Yoshida,,,12/28/2019,XXXXXX
 572,Minccino,N,1,,,86/124,fatescollide,kirisAki,,,,117859
+572,Minccino,N,1,,,87/124,fatescollide,Mizue,,,1/2/2020,XXXXXX
 573,Cinccino,N,2,Card,,89/124,fatescollide,Kouki Saitou,,,7/7/2019,XXXXXX
 T,Alakazam Spirit Link,I,2,,,90/124,fatescollide,5ban Graphics,,,7/30/2019,XXXXXX
 T,Audino Spirit Link,I,2,,,92/124,fatescollide,5ban Graphics,,,8/6/2019,XXXXXX
 T,Bent Spoon,I,2,Reverse,,93/124,fatescollide,Toyste Beach,,,9/7/2019,XXXXXX
 T,Chaos Tower,S,2,,,94/124,fatescollide,5ban Graphics,,,9/21/2019,XXXXXX
 T,Energy Pouch,I,2,,,97/124,fatescollide,Toyste Beach,,,7/14/2019,XXXXXX
+T,Fairy Drop,I,2,,,99/124,fatescollide,Toyste Beach,,,1/2/2020,XXXXXX
 T,Fairy Garden,S,2,,,100/124,fatescollide,Ryo Ueda,,,9/17/2019,XXXXXX
 T,Fossil Excavation Kit,I,2,Full,,101/124,fatescollide,Toyste Beach,,,,117873
 T,Helix Fossil Omanyte,I,2,,,102/124,fatescollide,Toyste Beach,,,9/21/2019,XXXXXX
 T,Old Amber Aerodactyl,I,2,,,106/124,fatescollide,Toyste Beach,,,,117877
+T,Pokemon Fan Club,Su,2,,,107/124,fatescollide,Yusuke Ohmura,,,12/28/2019,XXXXXX
 T,Power Memory,I,2,,,108/124,fatescollide,5ban Graphics,,,9/19/2019,XXXXXX
 T,Random Reciever,I,2,,,109/124,fatescollide,Toyste Beach,,,,117880
 T,Scorched Earth,S,2,,,110/124,fatescollide,Ryo Ueda,,,,117881
@@ -1811,20 +1823,25 @@ T,Skull Fossil,T,1,,,120/127,platinumbaseset,Ryo Ueda,,,,89278
 187,Hoppip,G,1,Card,,3/114,steamsiege,Mina Nakai,,,8/6/2019,120992
 188,Skiploom,G,2,,,4/114,steamsiege,Eri Yamaki,,,7/14/2019,XXXXXX
 193,Yanma,G,1,,,6/114,steamsiege,match,,,,120995
+469,Yanmega,G,3,,,7/114,steamsiege,Midori Harada,,,1/2/2020,XXXXXX
 273,Seedot,G,1,Full,,9/114,steamsiege,sui,,,4/12/2019,120998
 274,Nuzleaf,G,2,,,10/114,steamsiege,Ayaka Yoshida,,,9/17/2019,XXXXXX
 275,Shiftry,G,3,Reverse,Dual Type / Shiny,11/114,steamsiege,XXXXXX,,,6/15/2019,XXXXXX
+590,Foongus,G,1,,,12/114,steamsiege,Yuka Morii,,,12/28/2019,XXXXXX
 591,Amoonguss,G,3,,,13/114,steamsiege,Ken Sugimori,,,6/29/2019,XXXXXX
 636,Larvesta,G,1,,,14/114,steamsiege,Tomokazu Komiya,,,9/17/2019,XXXXXX
 637,Volcarona,G,3,,Dual Type / Shiny,15/114,steamsiege,Kouki Saitou,,,7/14/2019,XXXXXX
 77,Ponyta,F,1,,,16/114,steamsiege,Sumiyoshi Kizuki,,,,121005
 78,Rapidash,F,2,,,17/114,steamsiege,Yukiko Baba,,,,121006
 390,Chimchar,F,1,Card,,18/114,steamsiege,Shibuzoh,,,7/14/2019,121007
+391,Monferno,F,2,,,19/114,steamsiege,Mizue,,,12/28/2019,XXXXXX
 667,Litleo,F,1,Reverse,,22/114,steamsiege,Kyoko Umemoto,,,9/7/2019,121010
+226,Mantine,W,1,,,27/114,steamsiege,DemizuPosuka,,,12/28/2019,XXXXXX
 501,Oshawott,W,1,,,30/114,steamsiege,sui,,,,121017
 502,Dewott,W,2,,,31/114,steamsiege,Shin Nagasawa,,,,121018
 692,Clauncher,W,1,,,33/114,steamsiege,Kanako Eo,,,9/7/2019,XXXXXX
 712,Bergmite,W,1,,,36/114,steamsiege,Midori Harada,,,9/7/2019,XXXXXX
+713,Avalugg,W,3,Reverse,,37/114,steamsiege,Saya Tsuruta,,,12/28/2019,XXXXXX
 179,Mareep,El,1,,,38/114,steamsiege,Eri Yamaki,,,,121127
 180,Flaaffy,El,2,,,39/114,steamsiege,MAHOU,,,7/14/2019,XXXXXX
 181,Ampharos,El,3,,,40/114,steamsiege,Kanako Eo,,,8/6/2019,XXXXXX
@@ -1842,6 +1859,7 @@ T,Skull Fossil,T,1,,,120/127,platinumbaseset,Ryo Ueda,,,,89278
 56,Mankey,Fg,1,Reverse,,52/114,steamsiege,Hitoshi Ariga,,,9/17/2019,121141
 57,Primeape,Fg,3,,,53/114,steamsiege,Masakazu Fukuda,,,7/26/2019,XXXXXX
 299,Nosepass,Fg,1,,,54/114,steamsiege,You Iribi,,,,121184
+476,Probopass,Fg,3,Reverse,,55/114,steamsiege,MAHOU,,,12/28/2019,XXXXXX
 347,Anorith,Fg,2,Reverse,,56/114,steamsiege,Shigenori Negishi,,,,121186
 348,Armaldo,Fg,3,,,57/114,steamsiege,Satoshi Shirai,,,9/7/2019,XXXXXX
 453,Croagunk,Fg,1,,,58/114,steamsiege,Masakazu Fukuda,,,7/14/2019,XXXXXX
@@ -1858,11 +1876,12 @@ T,Skull Fossil,T,1,,,120/127,platinumbaseset,Ryo Ueda,,,,89278
 183,Marill,Fa,1,Reverse,,76/114,steamsiege,Shibuzoh,,,9/7/2019,121205
 184,Azumarill,Fa,2,,Dual Type / Shiny,77/114,steamsiege,Sanosuke Sakuma,,,,120153
 707,Klefki,Fa,2,,,80/114,steamsiege,Saya Tsuruta,,,6/29/2019,XXXXXX
+716,Xerneas,Fa,3,Art,,81/114,steamsiege,Megumi Mizutani,,,12/28/2019,XXXXXX
 716,Xerneas BREAK,Fa,5,Full,Full Art / Break,82/114,steamsiege,5ban Graphics,,,6/29/2019,XXXXXX
 621,Druddigon,Dr,3,Card,,83/114,steamsiege,kawayoo,,,7/14/2019,XXXXXX
 633,Deino,Dr,1,,,84/114,steamsiege,Suwama Chiaki,,,6/29/2019,XXXXXX
 634,Zweilous,Dr,2,,,85/114,steamsiege,Ken Sugimori,,,,121211
-635,Hydreigon,Dr,3,Reverse,,86/114,steamsiege,Hideki Ishikawa,,,7/14/2019,XXXXXX
+635,Hydreigon,Dr,3,Reverse / Art,,86/114,steamsiege,Hideki Ishikawa,,,7/14/2019,XXXXXX
 52,Meowth,N,1,,,88/114,steamsiege,Masakazu Fukuda,,,,121214
 53,Persian,N,2,,,89/114,steamsiege,Anesaki Dynamic,,,,121215
 190,Aipom,N,1,,,90/114,steamsiege,Naoki Saito,,,4/12/2019,121216
@@ -1878,6 +1897,7 @@ T,Greedy Dice,I,2,,,102/114,steamsiege,Toyste Beach,,,,121226
 T,Ninja Boy,Su,2,,,103/114,steamsiege,Megumi Mizutani,,,7/14/2019,XXXXXX
 T,Pokemon Ranger,Su,2,,,104/114,steamsiege,Yusuke Ohmura,,,,121228
 T,Special Charge,I,2,,,105/114,steamsiege,Toyste Beach,,,4/12/2019,121229
+T,Steelix Spirit Link,I,2,,,106/114,steamsiege,5ban Graphics,,,1/2/2020,XXXXXX
 201,Unown S,P,3,,,39/132,secretwonders,Kazuyuki Kano,,,,90233
 5,Charmeleon,F,2,Reverse,,46/132,secretwonders,Atsuko Nishida,Used,,8/20/2019,84231
 89,Muk,P,2,,,56/132,secretwonders,Daisuke Ito,,,,87623
@@ -2038,57 +2058,6 @@ T,Lillie,Su,2,,,62/73,shininglegends,Ken Sugimori,,,11/16/2019,XXXXXX
 T,Pokemon Catcher,I,2,,,64/73,shininglegends,Toyste Beach,,,11/16/2019,XXXXXX
 T,Super Scoop Up,I,2,,,66/73,shininglegends,Toyste Beach,,,11/16/2019,XXXXXX
 T,Ultra Ball,I,2,Reverse,,68/73,shininglegends,Ryo Ueda,,,11/16/2019,XXXXXX
-10,Caterpie,G,1,Reverse,,1/68,hiddenfates,tetsuya koizumi,,,10/20/2019,XXXXXX
-11,Metapod,G,2,,,2/68,hiddenfates,Shibuzoh.,,,10/20/2019,XXXXXX
-12,Butterfree,G,3,,,3/68,hiddenfates,Masakazu Fukuda,,,10/20/2019,XXXXXX
-46,Paras,G,1,,,4/68,hiddenfates,OOYAMA,,,10/20/2019,XXXXXX
-123,Scyther,G,2,,,5/68,hiddenfates,Hasuno,,,10/20/2019,XXXXXX
-127,Pinsir,G,5,,,6/68,hiddenfates,5ban Graphics,,,10/20/2019,XXXXXX
-4,Charmander,F,1,,,7/68,hiddenfates,Megumi Mitani,,,10/20/2019,XXXXXX
-5,Charmeleon,F,2,,,8/68,hiddenfates,Shin Nagasawa,,,10/20/2019,XXXXXX
-126,Magmar,F,2,,,10/68,hiddenfates,Satoshi Shirai,,,10/20/2019,XXXXXX
-54,Psyduck,W,1,,,11/68,hiddenfates,nagisimo,,,10/20/2019,XXXXXX
-79,Slowpoke,W,1,,,12/68,hiddenfates,Misa Tsutsui,,,10/20/2019,XXXXXX
-120,Staryu,W,1,Reverse,,13/68,hiddenfates,Ken Sugimori,,,10/20/2019,XXXXXX
-129,Magikarp,W,1,,,15/68,hiddenfates,Shigenori Negishi,,,10/20/2019,XXXXXX
-130,Gyarados GX,W,5,Full,Full Art,16/68,hiddenfates,5ban Graphics,,,10/20/2019,XXXXXX
-131,Lapras,W,3,,,17/68,hiddenfates,kodama,,,10/20/2019,XXXXXX
-25,Pikachu,El,1,,,19/68,hiddenfates,Kagemaru Himeno,,,10/20/2019,XXXXXX
-100,Voltarb,El,1,Reverse,,21/68,hiddenfates,SATOSHI NAKAI,,,10/20/2019,XXXXXX
-23,Ekans,P,1,,,25/68,hiddenfates,MAHOU,,,10/20/2019,XXXXXX
-23,Ekans,P,1,,,26/68,hiddenfates,Masakazu Fukuda,,,10/20/2019,XXXXXX
-24,Arbok,P,3,,,27/68,hiddenfates,kirisAki,,,11/16/2019,XXXXXX
-109,Koffing,P,1,,,28/68,hiddenfates,Saya Tsuruta,,,10/20/2019,XXXXXX
-124,Jynx,P,2,Reverse,,30/68,hiddenfates,Kouki Saitou,,,10/20/2019,XXXXXX
-74,Geodude,Fg,1,,,33/68,hiddenfates,Ken Sugimori,,,10/20/2019,XXXXXX
-75,Graveler,Fg,1,Reverse,,34/68,hiddenfates,Ken Sugimori,,,10/20/2019,XXXXXX
-104,Cubone,Fg,1,,,37/68,hiddenfates,Hasuno,,,10/20/2019,XXXXXX
-35,Clefairy,Fa,1,Reverse,,38/68,hiddenfates,Saya Tsuruta,,,11/16/2019,XXXXXX
-35,Clefairy,Fa,1,,,39/68,hiddenfates,kirisAki,,,10/20/2019,XXXXXX
-35,Clefable,Fa,3,,,40/68,hiddenfates,sui,,,10/20/2019,XXXXXX
-39,Jigglypuff,Fa,1,,,41/68,hiddenfates,Mizue,,,10/20/2019,XXXXXX
-122,Mr. Mime,Fa,3,,,43/68,hiddenfates,Hideki Ishikawa,,,10/20/2019,XXXXXX
-83,Farfetch'd,N,2,,,45/68,hiddenfates,Eri Yamaki,,,10/20/2019,XXXXXX
-113,Chansey,N,2,,,46/68,hiddenfates,sowsow,,,10/20/2019,XXXXXX
-115,Kangaskhan,N,3,,,47/68,hiddenfates,You Iribi,,,10/20/2019,XXXXXX
-133,Eevee,N,1,,,49/68,hiddenfates,Hitoshi Ariga,,,10/20/2019,XXXXXX
-T,Blaine's Last Stand,Su,3,,,52/68,hiddenfates,Ken Sugimori,,,10/20/2019,XXXXXX
-T,Brock's Grit,Su,2,Reverse,,53/68,hiddenfates,Megumi Mizutani,,,11/16/2019,XXXXXX
-T,Brock's Pewter City Gym,S,2,Reverse,,54/68,hiddenfates,5ban Graphics,,,11/16/2019,XXXXXX
-T,Brock's Training,Su,3,Art,,55/68,hiddenfates,TOKIYA,,,10/20/2019,XXXXXX
-T,Erika's Hospitality,Su,3,,,56/68,hiddenfates,Sanosuke Sakuma,,,11/16/2019,XXXXXX
-T,Giovanni's Exile,Su,2,,,57/68,hiddenfates,Megumi Mizutani,,,10/20/2019,XXXXXX
-T,Koga's Trap,Su,2,,,59/68,hiddenfates,Megumi Mizutani,,,10/20/2019,XXXXXX
-T,Lt. Surge's Strategy,Su,2,,,60/68,hiddenfates,Megumi Mizutani,,,10/20/2019,XXXXXX
-T,Misty's Cerulean City Gym,S,2,,,61/68,hiddenfates,5ban Graphics,,,10/20/2019,XXXXXX
-T,Misty's Determination,Su,2,,,62/68,hiddenfates,Megumi Mizutani,,,10/20/2019,XXXXXX
-T,Misty's Water Command,Su,3,Art,,63/68,hiddenfates,TOKIYA,,,10/20/2019,XXXXXX
-T,Pokemon Center Lady,Su,2,Reverse,,64/68,hiddenfates,TOKIYA,,,11/16/2019,XXXXXX
-T,Sabrina's Suggestion,Su,2,,,65/68,hiddenfates,Hitoshi Ariga,,,10/20/2019,XXXXXX
-144 & 145 & 146,Moltres & Zapdos & Articuno GX,N,5,Full,Rainbow / Textured,69/68,hiddenfates,5ban Graphics,,,11/16/2019,XXXXXX
-185,Sudowoodo,Fg,3,Art,Textured / Shiny,SV20/SV94,hiddenfates,Kyoko Umemoto,,,10/20/2019,XXXXXX
-744,Rockruff,Fg,3,Art,Textured / Shiny,SV23/SV94,hiddenfates,Masakazu Fukuda,,,10/20/2019,XXXXXX
-144,Articuno GX,W,5,Full,Full Art / Textured / Shiny,SV54/SV94,hiddenfates,5ban Graphics,,,10/20/2019,XXXXXX
 10,Caterpie,G,1,Reverse,,2/214,unbrokenbonds,Shibuzoh,,,9/28/2019,XXXXXX
 11,Metapod,G,2,,,3/214,unbrokenbonds,Shigenori Negishi,,,5/15/2019,189041
 43,Oddish,G,1,,,5/214,unbrokenbonds,0313,,,5/11/2019,189043
@@ -2102,6 +2071,7 @@ T,Sabrina's Suggestion,Su,2,,,65/68,hiddenfates,Hitoshi Ariga,,,10/20/2019,XXXXX
 725,Litten,F,1,,,27/214,unbrokenbonds,Atsuko Nishida,,,8/30/2019,XXXXXX
 727,Incineroar,F,3,,,29/214,unbrokenbonds,Misa Tsutsui,,,7/27/2019,XXXXXX
 757,Salandit,F,1,,,30/214,unbrokenbonds,Yusuke Ohmura,,,5/11/2019,189079
+758,Salazzle,F,3,,,31/214,unbrokenbonds,hatachu,,,12/28/2019,XXXXXX
 7,Squirtle,W,1,,,33/214,unbrokenbonds,tetsuya koizumi,,,7/27/2019,XXXXXX
 8,Wartortle,W,2,,,34/214,unbrokenbonds,Hiroki Asanuma,,,8/30/2019,XXXXXX
 60,Poliwag,W,1,,,36/214,unbrokenbonds,Midori Harada,,,9/28/2019,XXXXXX
@@ -2113,6 +2083,7 @@ T,Sabrina's Suggestion,Su,2,,,65/68,hiddenfates,Hitoshi Ariga,,,10/20/2019,XXXXX
 87,Dewgong,W,3,,,45/214,unbrokenbonds,Kagemaru Himeno,,,8/30/2019,XXXXXX
 98,Krabby,W,1,Full,,46/214,unbrokenbonds,Sekio,,,5/15/2019,189145
 99,Kingler,W,3,,,47/214,unbrokenbonds,Shigenori Negishi,,,5/15/2019,189146
+118,Goldeen,W,1,,,48/214,unbrokenbonds,Naoyo Kimura,,,12/28/2019,XXXXXX
 656,Froakie,W,1,Card,,51/214,unbrokenbonds,Kyoko Umemoto,,,7/27/2019,XXXXXX
 771,Pyukumuku,W,2,,,53/214,unbrokenbonds,Asako Ite,,,5/11/2019,189152
 25,Pikachu,El,1,Reverse,,54/214,unbrokenbonds,nagimiso,,,8/30/2019,XXXXXX
@@ -2124,6 +2095,7 @@ T,Sabrina's Suggestion,Su,2,,,65/68,hiddenfates,Hitoshi Ariga,,,10/20/2019,XXXXX
 151,Mew,P,3,Art,,76/214,unbrokenbonds,sui,,,8/30/2019,XXXXXX
 200,Misdreavus,P,1,,,77/214,unbrokenbonds,Miki Tanaka,,,5/11/2019,189177
 429,Mismagius,P,3,,,78/214,unbrokenbonds,sui,,,9/28/2019,XXXXXX
+677,Espurr,P,1,,,79/214,unbrokenbonds,HYOGONOSUKE,,,12/28/2019,XXXXXX
 678,Meowstic,P,3,,,80/214,unbrokenbonds,Saya Tsuruta,,,9/28/2019,XXXXXX
 27,Sandshrew,Fg,1,,,83/214,unbrokenbonds,Sekio,,,5/11/2019,189182
 28,Sanslash,Fg,3,Reverse,,84/214,unbrokenbonds,Shigenori Negishi,,,8/30/2019,XXXXXX
@@ -2131,6 +2103,7 @@ T,Sabrina's Suggestion,Su,2,,,65/68,hiddenfates,Hitoshi Ariga,,,10/20/2019,XXXXX
 74,Geodude,Fg,1,,,87/214,unbrokenbonds,Sumiyoshi Kizuki,,,5/15/2019,189186
 75,Graveler,Fg,2,,,88/214,unbrokenbonds,Ayaka Yoshida,,,7/27/2019,XXXXXX
 104,Cubone,Fg,1,,,90/214,unbrokenbonds,Mizue,,,9/28/2019,XXXXXX
+111,Rhyhorn,Fg,1,,,92/214,unbrokenbonds,sowsow,,,12/28/2019,XXXXXX
 111,Rhyhorn,Fg,1,,,93/214,unbrokenbonds,otumami,,,5/15/2019,189191
 112,Rhydon,Fg,2,Reverse,,94/214,unbrokenbonds,kirisAki,,,8/30/2019,XXXXXX
 194,Wooper,Fg,1,Full,,96/214,unbrokenbonds,tetsuya koizumi,,,5/15/2019,189195
@@ -2157,6 +2130,7 @@ T,Sabrina's Suggestion,Su,2,,,65/68,hiddenfates,Hitoshi Ariga,,,10/20/2019,XXXXX
 176,Togetic,Fa,2,,,137/214,unbrokenbonds,sui,,,8/30/2019,XXXXXX
 546,Cottonee,Fa,1,,,139/214,unbrokenbonds,Ken Sugimori,,,8/30/2019,XXXXXX
 682,Spritzee,Fa,1,,,141/214,unbrokenbonds,MAHOU,,,7/26/2019,XXXXXX
+19,Rattate,N,1,,,143/214,unbrokenbonds,Eri Yamaki,,,12/28/2019,XXXXXX
 20,Raticate,N,2,,,144/214,unbrokenbonds,Shigenori Negishi,,,8/30/2019,XXXXXX
 21,Spearow,N,1,,,145/214,unbrokenbonds,tetsuya koizumi,,,8/6/2019,XXXXXX
 22,Fearow,N,2,,,146/214,unbrokenbonds,kawayoo,,,8/30/2019,XXXXXX
@@ -2168,14 +2142,15 @@ T,Sabrina's Suggestion,Su,2,,,65/68,hiddenfates,Hitoshi Ariga,,,10/20/2019,XXXXX
 137,Porygon,N,1,Reverse,,154/214,unbrokenbonds,Ayaka Yoshida,,,9/28/2019,XXXXXX
 137,Porygon,N,1,,,155/214,unbrokenbonds,Suwama Chiaki,,,8/30/2019,XXXXXX
 233,Porygon2,N,2,,,156/214,unbrokenbonds,sowsow,,,8/30/2019,XXXXXX
-431,Glameow,N,1,Card,,159/214,unbrokenbonds,sowsow,,,7/27/2019,XXXXXX
+431,Glameow,N,1,Reverse,,159/214,unbrokenbonds,sowsow,,,7/27/2019,XXXXXX
 432,Purugly,N,3,,,160/214,unbrokenbonds,Tomokazu Komiya,,,7/20/2019,XXXXXX
 440,Happiny,N,2,,,161/214,unbrokenbonds,Eri Yamaki,,,7/27/2019,XXXXXX
 441,Chatot,N,2,,,162/214,unbrokenbonds,HYOGONOSUKE,,,7/20/2019,XXXXXX
 T,Beast Bringer,I,2,,,164/214,unbrokenbonds,Ayaka Yoshida,,,8/30/2019,XXXXXX
+T,Chip-Chip Ice Axe,I,2,,,165/214,unbrokenbonds,Yoshinobu Saito,,,12/28/2019,XXXXXX
 T,Devolution Spray Z,I,2,,,166/214,unbrokenbonds,Toyste Beach,,,5/15/2019,189266
-T,Dusk Stone,I,2,Card,,167/214,unbrokenbonds,Ryo Ueda,,,7/27/2019,XXXXXX
-T,Dust Island,S,2,Card,,168/214,unbrokenbonds,Ryo Ueda,,,7/29/2019,189268
+T,Dusk Stone,I,2,Reverse,,167/214,unbrokenbonds,Ryo Ueda,,,7/27/2019,XXXXXX
+T,Dust Island,S,2,Reverse,,168/214,unbrokenbonds,Ryo Ueda,,,7/29/2019,189268
 T,Energy Spinner,I,2,,,170/214,unbrokenbonds,Ryo Ueda,,,9/28/2019,XXXXXX
 T,Fairy Charm Ability,I,2,,,171/214,unbrokenbonds,Toyste Beach,,,7/29/2019,XXXXXX
 T,Fairy Charm Electric,I,2,,,172/214,unbrokenbonds,Toyste Beach,,,8/30/2019,XXXXXX
@@ -2184,6 +2159,7 @@ T,Giovanni's Exile,Su,2,,,174/214,unbrokenbonds,Megumi Mizutani,,,7/27/2019,XXXX
 T,Green's Exploration,Su,2,,,175/214,unbrokenbonds,Naoki Saito,,,8/30/2019,XXXXXX
 T,Koga's Trap,Su,2,,,177/214,unbrokenbonds,Megumi Mizutani,,,5/11/2019,189281
 T,Lt. Surge's Strategy,Su,2,,,178/214,unbrokenbonds,Megumi Mizutani,,,8/30/2019,XXXXXX
+T,Martial Arts Dojo,S,2,,,179/214,unbrokenbonds,5ban Graphics,,,12/28/2019,XXXXXX
 T,Metal Core Barrier,I,2,,,180/214,unbrokenbonds,Studio Bora Inc.,,,7/27/2019,XXXXXX
 T,Molayne,Su,2,,,181/214,unbrokenbonds,Ken Sugimori,,,8/30/2019,XXXXXX
 T,Power Plant,I,2,,,183/214,unbrokenbonds,oky CG Works,,,8/30/2019,XXXXXX
@@ -2288,9 +2264,10 @@ T,Champion's Room,S,2,,,135/147,supremevictors,Yusuke Ishikawa,,,,84161
 150,Mewtwo EX,P,5,Art,Full Art,52/108,evolutions,Eske Yoshinob,,,9/7/2019,XXXXXX
 151,Mew,P,3,Reverse,,53/108,evolutions,Ken Sugimori,,,,124066
 27,Sandshrew,Fg,1,,,54/108,evolutions,Ken Sugimori,,,,124067
-50,Diglett,Fg,1,,,55/108,evolutions,Keiji Kinebuchi,,,,124068
+50,Diglett,Fg,1,Reverse,,55/108,evolutions,Keiji Kinebuchi,,,12/28/2019,124068
 51,Dugtrio,Fg,3,,,56/108,evolutions,Keiji Kinebuchi,,,12/20/2019,XXXXXX
 66,Machop,Fg,1,,,57/108,evolutions,Mitsuhiro Arita,,,,124070
+67,Machoke,Fg,2,,,58/108,evolutions,Ken Sugimori,,,12/28/2019,XXXXXX
 95,Onix,Fg,1,,,61/108,evolutions,Ken Sugimori,,,,124074
 107,Hitmonchan,Fg,3,Art,,62/108,evolutions,Ken Sugimori,,,,124075
 83,Farfetch'd,N,3,,,68/108,evolutions,Ken Sugimori,,,,124081
@@ -2312,6 +2289,7 @@ T,Switch,I,2,,,88/108,evolutions,Keiji Kinebuchi,,,,124101
 T,Venusaur Spirit Link,I,2,,,89/108,evolutions,5ban Graphics,,,,124102
 T,Special Energy,E,2,,,90/108,evolutions,Keiji Kinebuchi,,,,124103
 T,Fire Energy,E,1,,,92/108,evolutions,,,,9/7/2019,XXXXXX
+T,Water Energy,E,1,,,93/108,evolutions,,,,12/28/2019,XXXXXX
 T,Electric Energy,E,1,,,94/108,evolutions,,,,9/17/2019,XXXXXX
 T,Psychic Energy,E,1,,,95/108,evolutions,,,,,124108
 T,Fight Energy,E,1,,,96/108,evolutions,,,,,124109
@@ -2403,61 +2381,6 @@ T,Professor Elm's Lecture,Su,2,,,188/214,lostthunder,Hideki Ishikawa,,,7/26/2019
 T,Sightseer,Su,2,,,189/214,lostthunder,Naoki Saito,,,,179025
 T,Mixed Herbs,I,2,,,194/214,lostthunder,Toyste Beach,,,,179017
 778,Mimikyu GX,Fa,5,Full,Full Art / Textured,206/214,lostthunder,5ban Graphics,,,7/5/2019,XXXXXX
-14,Kakuna,G,2,,,2/111,crimsoninvasion,Miki Kudo,,,,149022
-15,Beedrill,G,3,,,3/111,crimsoninvasion,kirisAki,,,,149023
-102,Exeggcute,G,1,,,4/111,crimsoninvasion,Kouki Saitou,,,,149025
-331,Cacnea,G,1,,,5/111,crimsoninvasion,Anesaki Dynamic,,,,149026
-332,Cacturne,G,3,,,6/111,crimsoninvasion,Mina Nokai,,,,149027
-588,Karrablast,G,1,,,7/111,crimsoninvasion,OOYAMA,,,,149028
-626,Shelmet,G,1,,,8/111,crimsoninvasion,OOYAMA,,,,149029
-617,Accelgor,G,2,,,9/111,crimsoninvasion,tetsuya koizumi,,,,149030
-672,Skiddo,G,1,Reverse,,10/111,crimsoninvasion,Naoki Saito,,,,149031
-120,Staryu,W,1,,,15/111,crimsoninvasion,Yukiko Baba,,,,149036
-220,Swinub,W,1,,,16/111,crimsoninvasion,Eri Yamaki,,,,149040
-129,Magikarp,W,1,,,17/111,crimsoninvasion,TOKIYA,,,,149038
-220,Swinub,W,1,,,19/111,crimsoninvasion,Eri Yamaki,,,8/10/2019,XXXXXX
-221,Piloswine,W,2,,,20/111,crimsoninvasion,Kouki Saitou,,,,149041
-341,Corphish,W,1,,,24/111,crimsoninvasion,Masakazu Fukuda,,,,149045
-349,Feebas,W,1,Reverse,,26/111,crimsoninvasion,Hitoshi Ariga,,,8/10/2019,149047
-422,Shellos,W,1,,,29/111,crimsoninvasion,Kouki Saitou,,,,149051
-25,Pikachu,El,1,,,30/111,crimsoninvasion,Shibuzoh.,,,,149053
-74,Alolan Geodude,El,1,Card,,32/111,crimsoninvasion,Mitsuhiro Arita,,,,149055
-75,Alolan Graveler,El,2,,,33/111,crimsoninvasion,kirisAki,,,,149056
-92,Gastly,P,1,,,36/111,crimsoninvasion,Shibuzoh.,,,,149059
-93,Haunter,P,2,,,37/111,crimsoninvasion,Eri Yamaki,,,,149060
-200,Misdreavus,P,1,,,39/111,crimsoninvasion,so-taro,,,7/20/2019,XXXXXX
-326,Grumpig,P,2,,,42/111,crimsoninvasion,Saya Tsuruta,,,,149065
-358,Chimecho,P,1,,,43/111,crimsoninvasion,Kanako Eo,,,,149066
-710,Pumpkaboo,P,1,,,44/111,crimsoninvasion,Miki Tanaka,,,,149067
-757,Salandit,P,1,,,46/111,crimsoninvasion,tetsuya koizumi,,,,149069
-765,Oranguru,P,3,,,48/111,crimsoninvasion,Yoshinobu Saito,,,7/20/2019,XXXXXX
-56,Mankey,Fg,1,,,50/111,crimsoninvasion,Miki Tanaka,,,,149073
-104,Cubone,Fg,1,Full,,52/111,crimsoninvasion,sui,,,,149075
-423,Gastrodon,Fg,2,,,54/111,crimsoninvasion,TOKIYA,,,8/10/2019,XXXXXX
-759,Stufful,Fg,1,,,55/111,crimsoninvasion,Kanako Eo,,,8/1/2019,XXXXXX
-760,Bewear,Fg,3,Card,,56/111,crimsoninvasion,Saya Tsuruta,,,,149079
-228,Houndour,D,1,,,58/111,crimsoninvasion,Kouki Saitou,,,,149081
-633,Deino,D,1,,,60/111,crimsoninvasion,miki kudo,,,,149083
-634,Zweilous,D,2,,,61/111,crimsoninvasion,kodama,,,,149084
-305,Lairon,Sl,2,Full,,66/111,crimsoninvasion,Atsuko Nishida,,,,149089
-379,Registeel,Sl,3,,,68/111,crimsoninvasion,Mitsuhiro Arita,,,8/1/2019,XXXXXX
-39,Jigglypuff,Fa,1,,,71/111,crimsoninvasion,You Iribi,,,8/10/2019,XXXXXX
-40,Wigglytuff,Fa,3,,,72/111,crimsoninvasion,0313,,,8/10/2019,XXXXXX
-782,Jangmo-o,Dr,1,,,75/111,crimsoninvasion,Atsuko Nishida,,,,149101
-783,Hakamo-o,Dr,2,,,76/111,crimsoninvasion,Masokazu Fukuda,,,,149102
-241,Miltank,N,2,,,78/111,crimsoninvasion,Mina Nakai,,,8/1/2019,XXXXXX
-333,Swablu,N,1,Full,,79/111,crimsoninvasion,Mitsuhiro Arita,,,,149105
-334,Altaria,N,3,,,80/111,crimsoninvasion,sui,,,,149106
-396,Starly,N,1,,,81/111,crimsoninvasion,miki kudo,,,,149107
-397,Staravia,N,2,,,82/111,crimsoninvasion,kawayoo,,,,149299
-572,Minccino,N,1,,,85/111,crimsoninvasion,kodama,,,,149110
-573,Cinccino,N,2,,,86/111,crimsoninvasion,0313,,,,149111
-659,Bunnelby,N,1,,,87/111,crimsoninvasion,kirisAki,,,,149112
-T,Counter Catcher,I,2,,,91/111,crimsoninvasion,Toyste Beach,,,,149116
-T,Dashing Pouch,I,2,,,92/111,crimsoninvasion,Eske Yoshinob,,,,149117
-T,Devoured Field,S,2,,,93/111,crimsoninvasion,5ban Graphics,,,,149118
-T,Gladion,Su,2,,,95/111,crimsoninvasion,Ken Sugimori,,,8/1/2019,XXXXXX
-T,Peeking Red Card,I,2,,,97/111,crimsoninvasion,Toyste Beach,,,,149122
 257,Blaziken,F,3,Art,,1/106,greatencounters,Kagemaru Himeno,Bent,,,83909
 334,Altaria,N,3,,,12/106,greatencounters,Kagemaru Himeno,,,,83516
 344,Claydol,Fg,3,,,15/106,greatencounters,Midori Harada,Used,,8/20/2019,XXXXXX
@@ -2969,9 +2892,11 @@ T,Research Record,T,2,Full,,84/95,calloflegends,Hideaki Hakozaki,,,,88703
 116,Horsea,W,1,,,29/147,burningshadows,Saya Tsuruta,,,,138509
 230,Kingdra,W,3,Art,,31/147,burningshadows,Mitsuhiro Arita,,,,138511
 183,Marill,W,1,,,34/147,burningshadows,Asako Ito,,,,138514
+779,Bruxish,W,3,Reverse,,38/147,burningshadows,Masakazu Fukuda,,,12/28/2019,XXXXXX
 25,Pikachu,El,1,Full,,40/147,burningshadows,Saya Tsuruta,,,6/15/2019,138522
 602,Tynamo,El,1,,,44/147,burningshadows,Asako Ito,,,412/2019,138526
 603,Eelektrik,El,2,,,45/147,burningshadows,OOYAMA,,,,138527
+604,Eelektross,El,3,,,46/147,burningshadows,hatachu,,,12/28/2019,XXXXXXX
 202,Wobbuffet,P,2,,,49/147,burningshadows,nagimiso,,,,138531
 336,Seviper,P,2,Reverse,,50/147,burningshadows,Eri Yamaki,,,,138532
 355,Duskull,P,1,,,51/147,burningshadows,Midori Harada,,,4/12/2019,138533
@@ -3000,6 +2925,7 @@ T,Research Record,T,2,Full,,84/95,calloflegends,Hideaki Hakozaki,,,,88703
 164,Noctowl,N,2,,,107/147,burningshadows,Sekio,,,9/19/2019,XXXXXX
 626,Bouffalant,N,2,,,108/147,burningshadows,TOKIYA,,,,138604
 714,Noibat,N,1,,,109/147,burningshadows,Yumi,,,,138605
+759,Stufful,N,1,,,110/147,burningshadows,Sekio,,,12/28/2019,XXXXXX
 760,Bewear,N,3,,,111/147,burningshadows,Mitsuhiro Arita,,,5/5/2019,138607
 T,Acerola,Su,2,,,112/147,burningshadows,Ken Sugimori,,,4/20/2019,138608
 T,Escape Rope,I,2,,,114/147,burningshadows,Toyste Beach,,,8/6/2019,XXXXXX
