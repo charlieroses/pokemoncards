@@ -615,7 +615,7 @@ T,Viridian Forest,S,2,Card,,156/181,teamup,5ban Graphics,,,7/5/2019,XXXXXX
 206,Dunsparce,N,1,,Japanese / Original Back,206,othercards,Yukiko Baba,Bent / Scratched,,8/20/2019,XXXXXX
 190,Aipom,N,2,,Japanese / Original Back,190,othercards,Hironobu Yoshida,Bent / Dirty,,8/20/2019,XXXXXX
 688,Binacle,W,1,,Japanese,020/078,othercards,Tomokazu Komiya,,,,XXXXXX
-10,Caterpie,G,1,,Full,Italian,1/147,italianburningshadows,Sekio,,,6/2/2019,XXXXXX
+10,Caterpie,G,1,Full,Italian,1/147,italianburningshadows,Sekio,,,6/2/2019,XXXXXX
 114,Tangela,G,1,,Italian,7/147,italianburningshadows,,Shibuzoh.,,,6/2/2019,138277
 751,Dewpider,G,1,,Italian,14/147,italianburningshadows,,Kouki Saitou,Bent,,6/2/2019,138284
 336,Seviper,P,2,,Italian,50/147,italianburningshadows,,Eri Yamaki,,,6/2/2019,138532
@@ -1964,6 +1964,7 @@ T,Skull Fossil,T,1,,,120/127,platinumbaseset,Ryo Ueda,,,,89278
 78,Rapidash,F,2,,,17/114,steamsiege,Yukiko Baba,,,,121006
 390,Chimchar,F,1,Card,,18/114,steamsiege,Shibuzoh,,,7/14/2019,121007
 391,Monferno,F,2,,,19/114,steamsiege,Mizue,,,12/28/2019,XXXXXX
+392,Infernape,F,3,Art,,20/114,steamsiege,Naoki Saito,,,2/16/2020,XXXXXX
 667,Litleo,F,1,Reverse,,22/114,steamsiege,Kyoko Umemoto,,,9/7/2019,121010
 226,Mantine,W,1,,,27/114,steamsiege,DemizuPosuka,,,12/28/2019,XXXXXX
 501,Oshawott,W,1,,,30/114,steamsiege,sui,,,,121017
@@ -2188,6 +2189,96 @@ T,Pokemon Catcher,I,2,,,64/73,shininglegends,Toyste Beach,,,11/16/2019,XXXXXX
 T,Super Scoop Up,I,2,,,66/73,shininglegends,Toyste Beach,,,11/16/2019,XXXXXX
 T,Ultra Ball,I,2,Reverse,,68/73,shininglegends,Ryo Ueda,,,11/16/2019,XXXXXX
 T,Ultra Ball,I,2,Reverse,Alternate Art / League Cup,68a/73,shininglegends,Ryo Ueda,,,1/29/2020,XXXXXX
+11,Metapod,G,2,,,2/192,rebelclash,Asako Ito,,,4/25/2020,XXXXXX
+270,Lotad,G,1,,,7/192,rebelclash,Sumiyoshi Kizuki,,,4/25/2020,XXXXXX
+271,Lombre,G,2,,,8/192,rebelclash,Miki Tanaka,,,4/25/2020,XXXXXX
+272,Ludicolo,G,3,,,9/192,rebelclash,Masakazu Fukuda,,,4/25/2020,XXXXXX
+283,Surskit,G,1,,,10/192,rebelclash,Masakazu Fukuda,,,4/25/2020,XXXXXX
+284,Masquerain,G,2,,,11/192,rebelclash,chibi,,,4/25/2020,XXXXXX
+459,Snover,G,1,,,12/192,rebelclash,Shibuzoh.,,,4/25/2020,XXXXXX
+708,Phantump,G,1,Reverse,,14/192,rebelclash,sui,,,4/25/2020,XXXXXX
+736,Grubbin,G,1,,,16/192,rebelclash,Tomokazu Komiya,,,4/25/2020,XXXXXX
+812,Rillaboom V,G,5,Full,Full Art,17/192,rebelclash,5ban Graphics,,,4/25/2020,XXXXXX
+840,Applin,G,1,,,21/192,rebelclash,Kagemaru Himeno,,,4/25/2020,XXXXXX
+37,Vulpix,F,1,,,24/192,rebelclash,sui,,,4/25/2020,XXXXXX
+58,Growlithe,F,1,,,27/192,rebelclash,Ryota Murayama,,,4/25/2020,XXXXXX
+126,Magmar,F,1,Reverse,,29/192,rebelclash,Shigenori Negishi,,,4/25/2020,XXXXXX
+631,Heatmor,F,2,Reverse,,34/192,rebelclash,Satoshi Shirai,,,4/25/2020,XXXXXX
+122,Galarian Mr. Mime,W,1,,,37/192,rebelclash,kirisAki,,,4/25/2020,XXXXXX
+129,Magikarp,W,1,,,39/192,rebelclash,kanahei,,,4/25/2020,XXXXXX
+278,Wingull,W,1,,,41/192,rebelclash,0313,,,4/25/2020,XXXXXX
+535,Tympole,W,1,,,44/192,rebelclash,Aya Kusube,,,4/25/2020,XXXXXX
+536,Palpitoad,W,2,,,45/192,rebelclash,MAHOU,,,4/25/2020,XXXXXX
+537,Seismitoad,W,3,Reverse,,46/192,rebelclash,SATOSHI NAKAI,,,4/25/2020,XXXXXX
+554,Galarian Darumaka,W,1,,,47/192,rebelclash,Akira Komayama,,,4/25/2020,XXXXXX
+818,Inteleon VMax,W,5,Full,Full Art / Textured,50/192,rebelclash,5ban Graphics,,,4/25/2020,XXXXXX
+845,Cramorant,W,3,,,51/192,rebelclash,Mitsuhiro Arita,,,4/25/2020,XXXXXX
+875,Eiscue V,W,5,,,55/192,rebelclash,PLANETA Tsuji,,,4/25/2020,XXXXXX
+100,Voltorb,El,1,,,56/192,rebelclash,Hasegawa Saki,,,4/25/2020,XXXXXX
+125,Electabuzz,El,1,,,58/192,rebelclash,Midori Harada,,,4/25/2020,XXXXXX
+403,Shinx,El,1,,,60/192,rebelclash,Uta,,,4/25/2020,XXXXXX
+404,Luxio,El,2,,,61/192,rebelclash,ryoma uratsuka,,,4/25/2020,XXXXXX
+405,Luxray,El,3,,,62/192,rebelclash,Hasuno,,,4/25/2020,XXXXXX
+694,Helioptile,El,1,,,63/192,rebelclash,0313,,,4/25/2020,XXXXXX
+695,Heliolisk,El,2,,,64/192,rebelclash,SATOSHI NAKAI,,,4/25/2020,XXXXXX
+836,Boltund V,El,5,Full,Full Art,67/192,rebelclash,aky CG Works,,,4/25/2020,XXXXXX
+848,Toxel,El,1,,,68/192,rebelclash,nagisimo,,,4/25/2020,XXXXXX
+877,Morpeko,El,2,,,73/192,rebelclash,Kouki Saitou,,,4/25/2020,XXXXXX
+35,Clefairy,P,1,,,74/192,rebelclash,sowsow,,,4/25/2020,XXXXXX
+177,Natu,P,1,,,76/192,rebelclash,Naoyo Kimura,,,4/25/2020,XXXXXX
+222,Galarian Corsola,P,1,,,78/192,rebelclash,Mitsuhiro Arita,,,4/25/2020,XXXXXX
+769,Sandygast,P,1,,,81/192,rebelclash,Yuka Morii,,,4/25/2020,XXXXXX
+770,Palossand,P,2,,,82/192,rebelclash,Hasuno,,,4/25/2020,XXXXXX
+857,Hattrem,P,2,,,84/192,rebelclash,kirisAki,,,4/25/2020,XXXXXX
+868,Milcery,P,1,,,86/192,rebelclash,Mina Nakai,,,4/25/2020,XXXXXX
+869,Alcremie,P,3,,,87/192,rebelclash,Mizue,,,4/25/2020,XXXXXX
+876,Indeedee,P,2,,,88/192,rebelclash,Mizue,,,4/25/2020,XXXXXX
+885,Dreepy,P,1,,,89/192,rebelclash,Akira Komayama,,,4/25/2020,XXXXXX
+887,Dragapult,P,3,Art,,91/192,rebelclash,Shin Nagasawa,,,4/25/2020,XXXXXX
+83,Galarian Farfetch'd,Fg,1,Reverse,,94/192,rebelclash,Akira Komayama,,,4/25/2020,XXXXXX
+307,Meditite,Fg,1,,,97/192,rebelclash,Yukiko Baba,,,4/25/2020,XXXXXX
+339,Barboach,Fg,1,,,99/192,rebelclash,Atsuko Nishida,,,4/25/2020,XXXXXX
+340,Whiscash,Fg,3,,,100/192,rebelclash,kawayoo,,,4/25/2020,XXXXXX
+837,Rolycoly,Fg,1,,,105/192,rebelclash,Misa Tsutsui,,,4/25/2020,XXXXXX
+838,Carkoal,Fg,2,,,106/191,rebelclash,Mitsuhiro Arita,,,4/25/2020,XXXXXX
+870,Falinks,Fg,2,,,109/192,rebelclash,Misa Tsutsui,,,4/25/2020,XXXXXX
+870,Falinks V,Fg,5,Full,Full Art,110/192,rebelclash,oky CG Works,,,4/25/2020,XXXXXX
+874,Stonjourner,Fg,3,Art,,111/192,rebelclash,Kouki Saitou,,,4/25/2020,XXXXXX
+109,Koffing,D,1,Reverse,,112/192,rebelclash,Kyoko Umemoto,,,4/25/2020,XXXXXX
+434,Stunky,D,1,,,114/192,rebelclash,Shigenori Negishi,,,4/25/2020,XXXXXX
+435,Stuntank,D,2,,,115/192,rebelclash,sowsow,,,4/25/2020,XXXXXX
+442,Spiritomb,D,3,Reverse,,116/192,rebelclash,Tomokazu Komiya,,,4/25/2020,XXXXXX
+568,Trubbish,D,1,,,117/192,rebelclash,HYOGONOSUKE,,,4/25/2020,XXXXXX
+629,Vullaby,D,1,,,119/192,rebelclash,Shibuzoh.,,,4/25/2020,XXXXXX
+859,Impidimp,D,1,,,123/192,rebelclash,Kouki Saitoi,,,4/25/2020,XXXXXX
+860,Morgrem,D,2,,,124/192,rebelclash,Hitosihi Ariga,,,4/25/2020,XXXXXX
+861,Grimmsnarl,D,3,Art,,125/192,rebelclash,nagimiso,,,4/25/2020,XXXXXX
+463,Bronzor,Sl,1,,,129/192,rebelclash,Midori Harada,,,4/25/2020,XXXXXX
+632,Durant,Sl,2,,,132/192,rebelclash,Hideki Ishikawa,,,4/25/2020,XXXXXX
+679,Honedge,Sl,1,,,133/192,rebelclash,Sekio,,,4/25/2020,XXXXXX
+680,Doublade,Sl,2,,,134/192,rebelclash,Aya Kusube,,,4/25/2020,XXXXXX
+143,Snorlax,N,3,Reverse,,141/192,rebelclash,Eri Yamaki,,,4/25/2020,XXXXXX
+441,Chatot,N,2,,,142/192,rebelclash,ryoma uratsuka,,,4/25/2020,XXXXXX
+519,Pidove,N,1,,,143/192,rebelclash,Ryota Murayama,,,4/25/2020,XXXXXX
+521,Unfezant,N,3,,,145/192,rebelclash,Naoyo Kimura,,,4/25/2020,XXXXXX
+659,Bunnelby,N,1,,,146/192,rebelclash,Yuka Morii,,,4/25/2020,XXXXXX
+701,Hawlucha,N,2,,,148/192,rebelclash,tetsuya koizumi,,,4/25/2020,XXXXXX
+759,Stufful,N,1,Reverse,,149/192,rebelclash,so-taro,,,4/25/2020,XXXXXX
+819,Skwovet,N,1,,,151/192,rebelclash,Mina Nakai,,,4/25/2020,XXXXXX
+820,Greedent,N,3,Reverse,,152/192,rebelclash,kirisAki,,,4/25/2020,XXXXXX
+T,Capacious Bucket,I,2,,,156/192,rebelclash,sadaji,,,4/25/2020,XXXXXX
+T,Cursed Shovel,I,2,Reverse,,157/192,rebelclash,Toyste Beach,,,4/25/2020,XXXXXX
+T,Dan,Su,2,Reverse,,158/192,rebelclash,Hitoshi Ariga,,,4/25/2020,XXXXXX
+T,Full Heal,I,2,,,159/192,rebelclash,Yoshinobu Saito,,,4/25/2020,XXXXXX
+T,Milo,Su,2,,,161/192,rebelclash,take,,,4/25/2020,XXXXXX
+T,Oleana,Su,2,,,163/192,rebelclash,Yusuke Ohmura,,,4/25/2020,XXXXXX
+T,Sonia,Su,2,,,167/192,rebelclash,Yusuke Ohmura,,,4/25/2020,XXXXXX
+T,Tool Scrapper,I,2,,,168/192,rebelclash,Studio Bora Inc.,,,4/25/2020,XXXXXX
+T,Turffield Stadium,S,2,,,170/192,rebelclash,oky CG Works,,,4/25/2020,XXXXXX
+T,Capture Energy,E,2,,,171/192,rebelclash,,,,,4/25/2020,XXXXXX
+T,Horror Energy,E,2,,,172/192,rebelclash,,,,,4/25/2020,XXXXXX
+T,Speed Energy,E,2,,,173/192,rebelclash,,,,,4/25/2020,XXXXXX
+T,Twin Energy,E,2,,,174/192,rebelclash,,,,,4/25/2020,XXXXXX
 10,Caterpie,G,1,Reverse,,2/214,unbrokenbonds,Shibuzoh,,,9/28/2019,XXXXXX
 11,Metapod,G,2,,,3/214,unbrokenbonds,Shigenori Negishi,,,5/15/2019,189041
 43,Oddish,G,1,,,5/214,unbrokenbonds,0313,,,5/11/2019,189043
@@ -2521,12 +2612,14 @@ T,Mixed Herbs,I,2,,,194/214,lostthunder,Toyste Beach,,,,179017
 626,Shelmet,G,1,,,8/111,crimsoninvasion,OOYAMA,,,,149029
 617,Accelgor,G,2,,,9/111,crimsoninvasion,tetsuya koizumi,,,,149030
 672,Skiddo,G,1,Reverse,,10/111,crimsoninvasion,Naoki Saito,,,,149031
+322,Numel,F,1,,,13/111,crimsoninvasion,sui,,,2/16/2020,XXXXXX
 120,Staryu,W,1,,,15/111,crimsoninvasion,Yukiko Baba,,,,149036
 220,Swinub,W,1,,,16/111,crimsoninvasion,Eri Yamaki,,,,149040
 129,Magikarp,W,1,,,17/111,crimsoninvasion,TOKIYA,,,,149038
-220,Swinub,W,1,,,19/111,crimsoninvasion,Eri Yamaki,,,8/10/2019,XXXXXX
+220,Swinub,W,1,Reverse,,19/111,crimsoninvasion,Eri Yamaki,,,2/16/2020,XXXXXX
 221,Piloswine,W,2,,,20/111,crimsoninvasion,Kouki Saitou,,,,149041
 223,Remoraid,W,1,,,22/111,crimsoninvasion,Aya Kusube,,,1/2/2020,XXXXXX
+224,Octillery,W,3,,,23/111,crimsoninvasion,tetsuya koizumi,,,2/16/2020,XXXXXX
 341,Corphish,W,1,,,24/111,crimsoninvasion,Masakazu Fukuda,,,,149045
 349,Feebas,W,1,Reverse,,26/111,crimsoninvasion,Hitoshi Ariga,,,8/10/2019,149047
 422,Shellos,W,1,,,29/111,crimsoninvasion,Kouki Saitou,,,,149051
