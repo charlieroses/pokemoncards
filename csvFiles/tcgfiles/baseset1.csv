@@ -7,7 +7,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 59,Arcanine,F,2,,,23/102,,Ken Sugimori,Bent,,,107018
 5,Charmeleon,F,2,,,24/102,,Mitsuhiro Arita,,,,107021
 87,Dewgong,W,2,,,25/102,,Mitsuhiro Arita,,,7/23/2019,XXXXXX
-147,Dratini,N,2,,,26/102,,Ken Sugimori,,,,107023
+147,Dratini,N,2,,Shadowless,26/102,,Ken Sugimori,,,,107023
 83,Farfetch'd,N,2,,,27/102,,Ken Sugimori,,,,107024
 58,Growlithe,F,2,,,28/102,,Ken Sugimori,,,,107024
 93,Haunter,P,2,,,29/102,,Keiji Kinebuchi,,,,107026
@@ -15,7 +15,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 124,Jynx,P,2,,,31/102,,Ken Sugimori,,,,107028
 64,Kadabra,P,2,,,32/102,,Ken Sugimori,,,,107029
 67,Machoke,Fg,2,,,34/102,,Ken Sugimori,Torn,,,107031
-129,Magikarp,W,2,,,35/102,,Mitsuhiro Arita,,,,107032
+129,Magikarp,W,2,,Shadowless,35/102,,Mitsuhiro Arita,,,,107032
 126,Magmar,F,2,,,36/102,,Ken Sugimori,,,,107033
 61,Poliwhirl,W,2,,,38/102,,Ken Sugimori,,,,107035
 137,Porygon,N,2,,,39/102,,Tomoaki Imakuni,,,,107036
@@ -37,7 +37,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 95,Onix,Fg,1,,,56/102,,Ken Sugimori,,,,107053
 25,Pikachu,El,1,,,58/102,,Mitsuhiro Arita,Bent,,,107055
 60,Poliwag,W,1,,,59/102,,Ken Sugimori,,,,107056
-77,Ponyta,F,1,,,60/102,,Ken Sugimori,,,,107057
+77,Ponyta,F,1,,Shadowless,60/102,,Ken Sugimori,,,,107057
 7,Squirtle,W,1,,,63/102,,Mitsuhiro Arita,Tattered,,,107060
 121,Starmie,W,1,,,64/102,,Keiji Kinebuchi,Corners Bad,,,107061
 120,Staryu,W,1,,,65/102,,Keiji Kinebuchi,Bent,,,107062
