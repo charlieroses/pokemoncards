@@ -1,18 +1,18 @@
-Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date,TCG Player Product ID
-301,Delcatty,N,3,Reverse,,23/146,,Kagemaru Himeno,Used,,8/20/2019,XXXXXX
-201,Unown !,P,3,,,42/146,,Kent Kanetsuna,,,,90194
-45,Vileplume,G,3,,,45/146,,Kagemaru Himeno,,,,90380
-323,Camerupt,F,2,,,47/146,,Kagemaru Himeno,,,8/17/2019,XXXXXX
-351,Castform (Snow-Cloud),W,2,,,50/146,,Saya Tsuruta,,,,84130
-351,Castform (Sunny),F,2,,,51/146,,Lee HyunJung,,,,84131
-326,Grumpig,P,2,Reverse,,56/146,,Masakazu Fukuda,,,,85970
-291,Ninjask,G,2,,,67/146,,Ken Sugimori,Bent,,8/20/2019,XXXXXX
-201,Unown J,P,2,,,76/146,,Kent Kanetsuna,,,,90216
-201,Unown R,P,2,,,77/146,,Kent Kanetsuna,,,,90231
-201,Unown V,P,2,,,79/146,,Kent Kanetsuna,,,,90239
-201,Unown ?,P,2,,,82/146,,Kazuaki Aihara,,,,90195
-170,Chinchou,El,1,,,88/146,,Midori Harada,,,,84308
-106,Hitmonlee,Fg,1,,,100/146,,Mitsuhiro Arita,,,,86106
-345,Lileep,G,1,Reverse,,105/146,,Kouki Saitou,Worn,,8/20/2019,XXXXXX
-322,Numel,F,1,,,110/146,,Kouki Saitou,Paint Chipped,,,87814
-300,Skitty,N,1,,,119/146,,Sumiyoshi Kizuki,,,,89267
+Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
+301,Delcatty,N,3,Reverse,,23/146,,Kagemaru Himeno,Used,,8/20/2019
+201,Unown !,P,3,,,42/146,,Kent Kanetsuna,,,
+45,Vileplume,G,3,,,45/146,,Kagemaru Himeno,,,
+323,Camerupt,F,2,,,47/146,,Kagemaru Himeno,,,8/17/2019
+351,Castform (Snow-Cloud),W,2,,,50/146,,Saya Tsuruta,,,
+351,Castform (Sunny),F,2,,,51/146,,Lee HyunJung,,,
+326,Grumpig,P,2,Reverse,,56/146,,Masakazu Fukuda,,,
+291,Ninjask,G,2,,,67/146,,Ken Sugimori,Bent,,8/20/2019
+201,Unown J,P,2,,,76/146,,Kent Kanetsuna,,,
+201,Unown R,P,2,,,77/146,,Kent Kanetsuna,,,
+201,Unown V,P,2,,,79/146,,Kent Kanetsuna,,,
+201,Unown ?,P,2,,,82/146,,Kazuaki Aihara,,,
+170,Chinchou,El,1,,,88/146,,Midori Harada,,,
+106,Hitmonlee,Fg,1,,,100/146,,Mitsuhiro Arita,,,
+345,Lileep,G,1,Reverse,,105/146,,Kouki Saitou,Worn,,8/20/2019
+322,Numel,F,1,,,110/146,,Kouki Saitou,Paint Chipped,,
+300,Skitty,N,1,,,119/146,,Sumiyoshi Kizuki,,,
