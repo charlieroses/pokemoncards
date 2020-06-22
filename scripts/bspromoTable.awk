@@ -19,14 +19,14 @@ BEGIN {
 	types["W"]  = "Water"
 
 	print "<table>"
-	print "<tr><th>Set Number</th><th>Rarity</th><th>Dex</th><th>Pokemon</th><th>Type</th><th>Holo</th><th>Other</th><th>Artist</th></tr>"
+	print "<tr><th>Set Number</th><th>Dex</th><th>Pokemon</th><th>Type</th><th>Holo</th><th>Source</th><th>Other</th><th>Artist</th></tr>"
 }
 
 NR > 1{
 	num_td  = "<td class=\"setnum\">" $7 "</td>"
-	rar_td  = "<td class=\"rarity\">" $4 "</td>"
 	pkmn_td = "<td class=\"name\">" $2 "</td>"
-	holo_td = "<td class=\"holofoil\">" $5 "</td>"
+	holo_td = "<td class=\"holofoil\">" $4 "</td>"
+	src_td  = "<td class=\"source\">" $5 "</td>"
 	info_td = "<td class=\"extrainfo\">" gensub("/", "<br>", "g", $6) "</td>"
 	art_td  = "<td class=\"artist\">" $9 "</td>"
 
@@ -43,7 +43,7 @@ NR > 1{
 
 	}
 
-	print "<tr>" num_td rar_td dex_td pkmn_td type_td holo_td info_td art_td "</tr>"
+	print "<tr>" num_td dex_td pkmn_td type_td holo_td src_td info_td art_td "</tr>"
 }
 
 END {

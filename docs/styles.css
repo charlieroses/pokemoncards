@@ -1,0 +1,133 @@
+body {
+	margin: 1rem auto;
+	max-width: 100ch;
+}
+
+table {
+	margin: 1rem auto;
+}
+
+
+td {
+	background-color: #F6F6F6;
+    border-radius: 2px;
+    padding: 5px; 
+}
+
+td img {
+      width: 12pt; 
+}
+
+th {
+    background-color: #E0E0E0;
+    border-radius: 2px;
+    padding: 5px; 
+}
+ 
+#menutable img {
+	width: 12pt;
+}
+
+
+
+/* All this here is for the set tables formatting */
+
+.artist {
+	text-align: left; 
+}
+
+.Dark {
+    background-color: #033538;
+    text-align: center; 
+}
+
+.deck {
+	text-align: center;
+}
+
+.dex {
+    text-align: right; 
+}
+
+.Dragon {
+    background-color: #C6A114;
+    text-align: center; 
+}
+  
+.Electric {
+    background-color: #EEBE01;
+    text-align: center; 
+}
+
+.Fairy {
+    background-color: #D01D4F;
+    text-align: center; 
+}
+
+.Fire {
+    background-color: #E71416;
+    text-align: center; 
+}
+
+.Fighting {
+    background-color: #B7401E;
+    text-align: center; 
+}
+
+.Grass {
+    background-color: #00963F;
+    text-align: center; 
+}
+
+.holofoil {
+    text-align: left; 
+}
+
+.Item {
+    color: #025FA9; 
+}
+
+.name {
+    text-align: left; 
+}
+
+.Normal {
+    background-color: #E2E7EE;
+    text-align: center; 
+}
+
+.Poison {
+    background-color: #7D52A1;
+    text-align: center; 
+}
+
+.rarity {
+    text-align: center; 
+}
+
+.setnum {
+    text-align: center; 
+}
+
+.Steel {
+    background-color: #636E77;
+    text-align: center; 
+}
+
+.Stadium {
+    color: #4FAC3F;
+}
+
+.Supporter {
+    color: #CF4226; 
+}
+
+.Water {
+    background-color: #0295D2;
+    text-align: center;
+}
+
+.xtrainfo {
+    text-align: left; 
+}
+

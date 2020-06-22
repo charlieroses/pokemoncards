@@ -15,7 +15,7 @@ echo "Building sets pages..."
 OIFS=$IFS
 IFS=$'\n'
 HEADING=0
-MENU_CONTENT="<h3>Sets</h3><table><tr>"
+MENU_CONTENT="<h3>TCG Sets</h3><table id=\"menutable\"><tr>"
 TABLE_WIDTH=3
 CURR_TD=1
 
@@ -45,11 +45,11 @@ do
 	# EX : Unified Minds > UnifiedMinds > unifiedminds > add appropriate extension
 	SET_FNAME=`echo "${SET_NAME}" | tr -d '[:space:]' | tr '[:upper:]' '[:lower:]'`
 	SET_CSV="${SET_FNAME}.csv"
-	SET_IMG="${SET_FNAME}.png"
-	SET_TITLEIMG="${SET_FNAME}title.png"
+	SET_IMG="images/sets/${SET_FNAME}.png"
+	SET_TITLEIMG="images/sets/${SET_FNAME}title.png"
 	SET_HTML="${SET_FNAME}.html"
 
-	SET_LINK="<td><a href=\"${SET_HTML}\">${SET_NAME}</a></td>"
+	SET_LINK="<td><a href=\"${SET_HTML}\"><img src=\"${SET_IMG}\"> ${SET_NAME}</a></td>"
 	MENU_CONTENT="${MENU_CONTENT}${SET_LINK}"
 
 	if [ ${CURR_TD} -lt ${TABLE_WIDTH} ]
@@ -64,12 +64,16 @@ do
 
 	SET_TABLE=`awk -f scripts/setTable.awk ${TCG_SRC}/${SET_CSV}`
 	
+	HTML_CONTENT="<h2>${SET_NAME}</h2>"
+	HTML_CONTENT="${HTML_CONTENT}<img src=\"${SET_TITLEIMG}\"><br><hr>"
+	HTML_CONTENT="${HTML_CONTENT}${SET_TABLE}"
+	
 
 	echo "  Built set table"
 
-	HTML_CONTENT=${TEMPLATE}
-	HTML_CONTENT="${HTML_CONTENT/<!-- CONTENT -->/${SET_TABLE}}"
-	echo "${HTML_CONTENT}" > ${HTML_SRC}/${SET_HTML}
+	HTML_PAGE=${TEMPLATE}
+	HTML_PAGE="${HTML_PAGE/<!-- CONTENT -->/${HTML_CONTENT}}"
+	echo "${HTML_PAGE}" > ${HTML_SRC}/${SET_HTML}
 
 	echo "  Built HTML file"
 
@@ -79,6 +83,38 @@ done
 IFS=$OIFS
 
 MENU_CONTENT="${MENU_CONTENT}</tr></table>"
+
+echo "Completed main sets"
+
+MENU_CONTENT="${MENU_CONTENT}<h3>Other Sets</h3><table><tr>"
+
+echo "Starting half decks..."
+
+HD_TABLE=`awk -f scripts/halfdeckTable.awk ${TCG_SRC}/halfdecks.csv`
+HTML_CONTENT="<h2>Half Decks</h2> ${HD_TABLE}"
+HTML_PAGE=${TEMPLATE}
+HTML_PAGE="${HTML_PAGE/<!-- CONTENT -->/${HTML_CONTENT}}"
+echo "${HTML_PAGE}" > ${HTML_SRC}/halfdecks.html
+echo "  Built HTML file"
+
+MENU_CONTENT="${MENU_CONTENT}<td><a href=\"halfdecks.html\">Half Decks</a></td>"
+echo "  Added to Menu"
+
+echo "  Completed half decks"
+
+echo "Starting Black Star Promos"
+
+PROMO_TABLE=`awk -f scripts/bspromoTable.awk ${TCG_SRC}/promo.csv`
+HTML_CONTENT="<h2>Black Star Promos</h2> ${PROMO_TABLE}"
+HTML_PAGE=${TEMPLATE}
+HTML_PAGE="${HTML_PAGE/<!-- CONTENT -->/${HTML_CONTENT}}"
+echo "${HTML_PAGE}" > ${HTML_SRC}/promo.html
+echo "  Built HTML file"
+
+MENU_CONTENT="${MENU_CONTENT}<td><a href=\"promo.html\"><img src=\"images/general/promo.png\"> Black Star Promo</a></td>"
+echo "  Added to Menu"
+
+echo "Completed Black Star Promos"
 
 INDEX=${TEMPLATE}
 INDEX="${INDEX/<!-- CONTENT -->/${MENU_CONTENT}}"
