@@ -18,17 +18,29 @@ BEGIN {
 	types["T"]  = "Trainer"
 	types["W"]  = "Water"
 
+	rarity[1] = "common.png"
+	rarity[2] = "uncommon.png"
+	rarity[3] = "rare.png"
+
 	print "<table>"
 	print "<tr><th>Set Number</th><th>Rarity</th><th>Dex</th><th>Pokemon</th><th>Type</th><th>Holo</th><th>Other</th><th>Artist</th></tr>"
 }
 
 NR > 1{
 	num_td  = "<td class=\"setnum\">" $7 "</td>"
-	rar_td  = "<td class=\"rarity\">" $4 "</td>"
 	pkmn_td = "<td class=\"name\">" $2 "</td>"
 	holo_td = "<td class=\"holofoil\">" $5 "</td>"
 	info_td = "<td class=\"extrainfo\">" gensub("/", "<br>", "g", $6) "</td>"
 	art_td  = "<td class=\"artist\">" $9 "</td>"
+
+	if( $4 < 4 )
+	{
+		rar_td  = "<td class=\"rarity\"><img src=\"images/general/" rarity[$4] "\"></td>"
+	}
+	else
+	{
+		rar_td  = "<td class=\"rarity\">" $4 "</td>"
+	}
 
 	if( $1 == "T" )
 	{

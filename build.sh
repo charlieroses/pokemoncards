@@ -100,7 +100,7 @@ echo "  Built HTML file"
 MENU_CONTENT="${MENU_CONTENT}<td><a href=\"halfdecks.html\">Half Decks</a></td>"
 echo "  Added to Menu"
 
-echo "  Completed half decks"
+echo "Completed half decks"
 
 echo "Starting Black Star Promos"
 
@@ -115,6 +115,48 @@ MENU_CONTENT="${MENU_CONTENT}<td><a href=\"promo.html\"><img src=\"images/genera
 echo "  Added to Menu"
 
 echo "Completed Black Star Promos"
+
+echo "Starting Pop Series Promo"
+
+PROMO_TABLE=`awk -f scripts/poppromoTable.awk ${TCG_SRC}/popseriespromo.csv`
+HTML_CONTENT="<h2>Pop Series Promos</h2> ${PROMO_TABLE}"
+HTML_PAGE=${TEMPLATE}
+HTML_PAGE="${HTML_PAGE/<!-- CONTENT -->/${HTML_CONTENT}}"
+echo "${HTML_PAGE}" > ${HTML_SRC}/popseriespromo.html
+echo "  Built HTML file"
+
+MENU_CONTENT="${MENU_CONTENT}<td><a href=\"popseriespromo.html\">Pop Series Promo</a></td></tr>"
+echo "  Added to Menu"
+
+echo "Completed Pop Series Promo"
+
+echo "Starting Non-English Cards"
+PROMO_TABLE=`awk -f scripts/setTable.awk ${TCG_SRC}/othercards.csv`
+HTML_CONTENT="<h2>Non-English Cards</h2> ${PROMO_TABLE}"
+HTML_PAGE=${TEMPLATE}
+HTML_PAGE="${HTML_PAGE/<!-- CONTENT -->/${HTML_CONTENT}}"
+echo "${HTML_PAGE}" > ${HTML_SRC}/nonenglish.html
+echo "  Built HTML file"
+
+MENU_CONTENT="${MENU_CONTENT}<tr><td><a href=\"nonenglish.html\">Non-English Cards</a></td>"
+echo "  Added to Menu"
+
+echo "Completed Non-English Cards"
+
+echo "Starting Topps Chrome"
+PROMO_TABLE=`awk -f scripts/toppsTable.awk ${CSV_SRC}/otherfiles/toppschrome.csv`
+HTML_CONTENT="<h2>Topps Chrome</h2> ${PROMO_TABLE}"
+HTML_PAGE=${TEMPLATE}
+HTML_PAGE="${HTML_PAGE/<!-- CONTENT -->/${HTML_CONTENT}}"
+echo "${HTML_PAGE}" > ${HTML_SRC}/toppschrome.html
+echo "  Built HTML file"
+
+MENU_CONTENT="${MENU_CONTENT}<td><a href=\"toppschrome.html\">Topps Chrome</a></td>"
+echo "  Added to Menu"
+
+echo "Completed Topps Chrome"
+
+
 
 INDEX=${TEMPLATE}
 INDEX="${INDEX/<!-- CONTENT -->/${MENU_CONTENT}}"
