@@ -1,7 +1,29 @@
+h1, h2, h3 {
+	color: #E7B636;
+}
+
+h3 {
+	text-align: center;
+}
+
 body {
+	background-color: #4A433B;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 	margin: 1rem auto;
 	max-width: 100ch;
 }
+
+a {
+	color: #E7B636;
+	text-decoration: none;
+}
+
+hr {
+	border: 1px solid;
+	color: #6A635B; 
+}
+
+/* General Table */
 
 table {
 	margin: 1rem auto;
@@ -9,9 +31,13 @@ table {
 
 
 td {
-	background-color: #F6F6F6;
+	background-color: #BAB3AB;
     border-radius: 2px;
     padding: 5px; 
+}
+
+td a {
+	color: #A76606;
 }
 
 td img {
@@ -19,7 +45,7 @@ td img {
 }
 
 th {
-    background-color: #E0E0E0;
+    background-color: #8A837B;
     border-radius: 2px;
     padding: 5px; 
 }
