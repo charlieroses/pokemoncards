@@ -36,6 +36,7 @@ do
 	SET_COUNT=`echo "${LINE}" | awk -F "," '{print $4}'`
 	SET_NUM=`echo "${LINE}" | awk -F "," '{print $5}'`
 	SET_CATEGORY=`echo "${LINE}" | awk -F "," '{print $6}'`
+	SET_COMPLETE=`echo "${LINE}" | awk -F "," '{print $7}'`
 	
 	echo "Starting ${SET_NAME}"
 
@@ -49,7 +50,14 @@ do
 	SET_TITLEIMG="images/sets/${SET_FNAME}title.png"
 	SET_HTML="${SET_FNAME}.html"
 
-	SET_LINK="<td><a href=\"${SET_HTML}\"><img src=\"${SET_IMG}\"> ${SET_NAME}</a></td>"
+	if [ "${SET_COMPLETE}" == "True" ]
+	then
+		SET_TDCLASS="complete"
+	else
+		SET_TDCLASS="incomplete"
+	fi
+
+	SET_LINK="<td class=\"${SET_TDCLASS}\"><a href=\"${SET_HTML}\"><img src=\"${SET_IMG}\"> ${SET_NAME}</a></td>"
 	MENU_CONTENT="${MENU_CONTENT}${SET_LINK}"
 
 	if [ ${CURR_TD} -lt ${TABLE_WIDTH} ]

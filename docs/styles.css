@@ -67,6 +67,14 @@ th {
     text-align: center; 
 }
 
+.complete {
+	background-color: #A76606;
+}
+
+.complete a {
+	color: #BAB3AB;
+}
+
 .deck {
 	text-align: center;
 }
