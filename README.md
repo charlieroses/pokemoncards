@@ -15,7 +15,8 @@ This is a reminder for me because I will forget what I need to do in the future.
 - Add set and it's information to `csvFiles/infofiles/setsinfo.csv`
 - Add set icon and title image to `docs/images/sets/`
 - Create csv file for set
-
+- Run `scripts/checkcsv.awk` on the newly created csv file
+- Run `build.sh` to build the site
 
 
 ## Credits
