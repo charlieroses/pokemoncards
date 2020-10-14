@@ -20,7 +20,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 120,Staryu,W,1,Reverse,,30/108,,Keiji Kinebuchi,,,
 121,Starmie,W,3,Reverse,,31/108,,Keiji Kinebuchi,,,
 129,Magikarp,W,1,Reverse,,33/108,,Mitsuhiro Arita,,,9/7/2019
-25,Pikachu,El,1,,,35/108,,Mitsuhiro Arita,,,
+25,Pikachu,El,1,Reverse,,35/108,,Mitsuhiro Arita,,,10/14/2020
 26,Raichu,El,3,Card,,36/108,,Ken Sugimori,,,7/26/2019
 81,Magnemite,El,1,,,37/108,,Keiji Kinebuchi,,,6/29/2019
 82,Magneton,El,3,Art,,38/108,,Keiji Kinebuchi,,,9/7/2019
@@ -43,6 +43,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 67,Machoke,Fg,2,,,58/108,,Ken Sugimori,,,12/28/2019
 95,Onix,Fg,1,,,61/108,,Ken Sugimori,,,
 107,Hitmonchan,Fg,3,Art,,62/108,,Ken Sugimori,,,
+20,Raticate,N,3,,,67/108,,Ken Sugimori,,,10/14/2020
 83,Farfetch'd,N,3,,,68/108,,Ken Sugimori,,,
 84,Doduo,N,1,,,69/108,,Mitsuhiro Arita,,,
 113,Chansey,N,3,Art,,70/108,,Ken Sugimori,,,9/17/2019
