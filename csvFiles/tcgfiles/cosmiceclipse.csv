@@ -4,6 +4,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 114,Tangela,G,1,,,5/236,,otumami,,,11/2/2019
 465,Tangrowth,G,2,,,6/236,,nogimiso,,,12/20/2019
 191,Sunkern,G,1,,,7/236,,0313,,,11/2/2019
+214,Heracross,G,2,,,9/236,,Satoshi Shirai,,,10/14/2020
 357,Tropius,G,2,,,12/236,,sowsow,,,10/26/2019
 401,Kricketot,G,1,,,13/236,,Ken Sugimori,,,10/26/2019
 402,Kricketune,G,2,,,14/236,,Anesaki Dynamic,,,10/26/2019
@@ -27,8 +28,9 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 668,Pyroar,F,2,,,37/236,,KEIICHIRO ITO,,,10/26/2019
 37,Alolan Vulpix,W,1,,,39/236,,nagisimo,,,10/26/2019
 54,Psyduck,W,1,,,40/236,,sui,,,11/2/2019
+55,Golduck,W,2,,,41/236,,Shignero Negishi,,,10/14/2020
 134,Vaporeon,W,2,,,42/236,,sui,,,11/2/2019
-215,Sneasel,W,1,,,43/236,,ryoma uratsuka,,,11/2/2019
+215,Sneasel,W,1,Reverse,,43/236,,ryoma uratsuka,,,10/14/2020
 461,Weavile,W,3,,,44/236,,MAHOU,,,11/2/2019
 320,Wailmer,W,1,,,45/236,,Tomokazu Komiya,,,12/20/2019
 361,Snorunt,W,1,,,47/236,,sowsow,,,12/20/2019
@@ -61,6 +63,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 690,Skrelp,P,1,,,91/236,,sui,,,10/26/2019
 708,Phantump,P,1,,,93/236,,miki kudo,,,11/2/2019
 709,Trevenant,P,3,Reverse,,94/236,,Shin Nagasawa,,,10/26/2019
+778,Mimikyu,P,3,,,97/236,,Yuka Morii,,,10/14/2020
 781,Dhelmise,P,2,,,98/236,,Midori Harada,,,12/28/2019
 789,Cosmog,P,1,,,100/236,,Masakazu Fukuda,,,10/26/2019
 299,Nosepass,Fg,1,Reverse,,106/236,,Anesaki Dynamic,,,10/26/2019

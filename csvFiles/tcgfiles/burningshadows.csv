@@ -33,6 +33,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 769,Sandygast,P,1,,,61/147,,Masokazu Fukuda,,,4/20/2019
 111,Rhyhorn,Fg,1,,,65/147,,miki kudo,,,
 112,Rhydon,Fg,2,,,66/147,,Sanosuke Sakuma,,,
+337,Lunatone,Fg,2,,,68/147,,Shin Nagasawa,,,10/14/2020
 447,Riolu,Fg,1,,,70/147,,Saya Tsuruta,,,4/12/2019
 539,Sawk,Fg,1,,,72/147,,Shigenori Negishi,,,
 739,Crabrawler,Fg,1,,,73/147,,kirisAki,,,
@@ -41,7 +42,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 88,Alolan Grimer,D,1,,,83/147,,Kouki Saitou,,,
 215,Sneasel,D,1,,,85/147,,Hasuno,,,
 686,Inkay,D,1,,,89/147,,OOYAMA,,,9/19/2019
-280,Ralts,Fa,1,,,91/147,,Yumi,,,
+687,Malamar,D,3,,,90/147,,Mitsuhiro Arita,,,10/14/2020
+280,Ralts,Fa,1,Reverse,,91/147,,Yumi,,,10/14/2020
 281,Kirlia,Fa,2,,,92/147,,Anesaki Dynamic,,,
 742,Cutiefly,Fa,1,,,95/147,,Atsuko Nishida,,,
 743,Ribombee,Fa,2,,,96/147,,Megumi Mizutani,,,
@@ -61,6 +63,7 @@ T,Kiawe,Su,2,,,116/147,,Ken Sugimori,,,6/15/2019
 T,Lana,Su,2,,,117/147,,Ken Sugimori,,,
 T,Mount Lanakila,S,2,,,118/147,,5ban Graphics,,,9/19/2019
 T,Olivia,Su,2,,,119/147,,Ken Sugimori,,,
+T,Plumeria,Su,2,,,120/147,,Ken Sugimori,,,10/14/2020
 T,Po Town,S,2,Full,,121/147,,5ban Graphics,,,5/5/2019
 T,Sophocles,Su,2,,,123/147,,Ken Sugimori,,,8/6/2019
 T,Weakness Policy,I,2,,,126/147,,Ayaka Yoshida,,,

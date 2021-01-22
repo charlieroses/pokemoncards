@@ -1,4 +1,5 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
+315,Roselia,G,1,Reverse,,2/202,,sowsow,,,10/14/2020
 547,Whimsicott,G,3,,,6/202,,kodama,,,1/25/2020
 810,Grookey,G,1,,,10/202,,Naoki Saito,,,1/25/2020
 812,Rillaboom,G,3,Reverse,,14/202,,Anesaki Dynamic,,,2/2/2020
@@ -7,6 +8,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 824,Blipbug,G,1,,,17/202,,Mina Nakai,,,2/2/2020
 825,Dottler,G,2,,,18/202,,Misa Tsutsui,,,1/25/2020
 829,Gossifleur,G,1,,,20/202,,Saya Tsuruta,,,1/25/2020
+37,Vulpix,F,1,,,22/202,,Taira Akitsu,,,10/14/2020
 631,Heatmor,F,2,,,26/202,,kawayoo,,,2/2/2020
 757,Salandit,F,1,,,27/202,,SATOSHI NAKAI,,,1/25/2020
 758,Salazzle,F,2,,,28/202,,Tomokazu Komiya,,,1/25/2020
@@ -30,13 +32,15 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 872,Snom,W,1,,,63/202,,Mina Nakai,,,1/25/2020
 25,Pikachu,El,1,,,65/202,,Ryuta Fuse,,,1/25/2020
 170,Chinchou,El,1,,,67/202,,Sumiyoshi Kizuki,,,1/25/2020
+170,Chinchou,El,1,,,68/202,,Yukiko Baba,,,10/14/2020
 595,Joltik,El,1,,,70/202,,Motofumi Fujiwara,,,2/2/2020
 596,Galvantula,El,2,,,71/202,,otumami,,,2/2/2020
 835,Yamper,El,1,,,74/202,,Saya Tsuruta,,,1/25/2020
 871,Pincurchin,El,1,,,77/202,,Akira Komayama,,,2/2/2020
 77,Galarian Ponyta,P,1,,,81/202,,Saya Tsuruta,,,1/25/2020
 92,Gastly,P,1,,,83/202,,Taira Akitsu,,,1/25/2020
-93,Haunter,P,2,,,84/202,,HYOGONOSUKE,,,1/25/2020
+93,Haunter,P,2,Reverse,,84/202,,HYOGONOSUKE,,,10/14/2020
+518,Musharna,P,3,,,88/202,,MAHOU,,,10/14/2020
 854,Sinistea,P,1,,,89/202,,Saya Tsuruta,,,1/25/2020
 855,Polteageist,P,2,Reverse,,90/202,,Shin Nagasawa,,,1/25/2020
 50,Diglett,Fg,1,Reverse,,92/202,,Hasegawa Saki,,,2/2/2020
@@ -48,6 +52,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 749,Mudbray,Fg,1,Reverse,,105/202,,Shibuzoh.,,,1/25/2020
 750,Mudsdale,Fg,3,,,106/202,,Masakazu Fukuda,,,2/2/2020
 843,Silicobra,Fg,1,,,107/202,,Misa Tsutsui,,,1/25/2020
+843,Silicobra,Fg,1,,,108/202,,Hitoshi Ariga,,,10/14/2020
 852,Clobbopus,Fg,1,,,111/202,,Mina Nakai,,,1/25/2020
 852,Clobbopus,Fg,1,,,112/202,,Akira Komayama,,,2/2/2020
 263,Galarian Zizagoon,D,1,,,117/202,,kirisAki,,,1/25/2020
@@ -55,6 +60,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 862,Galarian Obstagoon,D,3,,,119/202,,Kouki Saitou,,,2/2/2020
 451,Skorupi,D,1,,,121/202,,sowsow,,,1/25/2020
 453,Croagunk,D,1,Reverse,,123/202,,otumami,,,1/25/2020
+827,Nickit,D,1,,,125/202,,kirisAki,,,10/14/2020
 52,Galarian Meowth,Sl,1,,,127/202,,kirisAki,,,1/25/2020
 303,Mawile,Sl,1,,,129/202,,AKIRA EGAWA,,,1/25/2020
 598,Ferrothorn,Sl,2,,,131/202,,Midori Harada,,,1/25/2020
@@ -79,6 +85,7 @@ T,Energy Switch,I,2,,,162/202,,Toyste Beach,,,2/2/2020
 T,Evolution Incense,I,2,,,163/202,,Ryo Ueda,,,1/25/2020
 T,Great Ball,I,2,,,164/202,,Toyste Beach,,,1/25/2020
 T,Hop,Su,2,,,165/202,,Ken Sugimori,,,1/25/2020
+T,Lucky Egg,I,2,,,167/202,,Studio Bora Inc.,,,10/14/2020
 T,Lum Berry,I,2,,,168/202,,Yoshinobu Saito,,,1/25/2020
 T,Marnie,Su,3,,,169/202,,kirisAki,,,1/25/2020
 T,Metal Saucer,I,2,,,170/202,,Toyste Beach,,,1/25/2020
@@ -87,6 +94,7 @@ T,Pokegear 3.0,I,2,,,174/202,,Ryo Ueda,,,2/2/2020
 T,Pokemon Catcher,I,2,,,175/202,,Ryo Ueda,,,2/2/2020
 T,Professor's Research,Su,2,,Professor Magnolia,178/202,,Yusuke Ohmura,,,1/25/2020
 T,Quick Ball,I,2,Reverse,,179/202,,sodaji,,,1/25/2020
+T,Rare Candy,I,2,,,180/202,,Yoshinobu Saito,,,10/14/2020
 T,Rotom Bike,I,2,,,181/202,,5ban Graphics,,,1/25/2020
 T,Switch,I,2,,,183/202,,Studio Bora Inc.,,,1/25/2020
 T,Vitality Band,I,2,,,185/202,,Toyste Beach,,,1/25/2020
