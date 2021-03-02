@@ -21,6 +21,8 @@ BEGIN {
 	rarity[1] = "common.png"
 	rarity[2] = "uncommon.png"
 	rarity[3] = "rare.png"
+	rarity[5] = "superrare.png"
+	rarity[6] = "amazing.png"
 
 	print "<table>"
 	print "<tr><th>Set Number</th><th>Rarity</th><th>Dex</th><th>Pokemon</th><th>Type</th><th>Holo</th><th>Other</th><th>Artist</th></tr>"
@@ -33,7 +35,7 @@ NR > 1{
 	info_td = "<td class=\"extrainfo\">" gensub("/", "<br>", "g", $6) "</td>"
 	art_td  = "<td class=\"artist\">" $9 "</td>"
 
-	if( $4 < 4 )
+	if( $4 < 7 )
 	{
 		rar_td  = "<td class=\"rarity\"><img src=\"images/general/" rarity[$4] "\"></td>"
 	}
