@@ -30,7 +30,7 @@ BEGIN {
 
 NR > 1{
 	year_td = "<td>" substr($8, 3, 4) "</td>"
-	set_td  = "<td><img src=\"images/mcdonalds/" $8 ".png\"></td>"
+	set_td  = "<td class=\"set\"><img src=\"images/mcdonalds/" $8 ".png\"></td>"
 	num_td  = "<td class=\"setnum\">" $7 "</td>"
 	pkmn_td = "<td class=\"name\">" $2 "</td>"
 	holo_td = "<td class=\"holofoil\">" $5 "</td>"
