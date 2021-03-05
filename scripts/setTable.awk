@@ -14,6 +14,7 @@ BEGIN {
 	types["P"]  = "Poison"
 	types["S"]  = "Stadium"
 	types["Sl"] = "Steel" 
+	types["Sp"] = "Special Energy"
 	types["Su"] = "Supporter"
 	types["T"]  = "Trainer"
 	types["W"]  = "Water"

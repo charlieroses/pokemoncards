@@ -63,7 +63,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 791,Solgaleo GX,Sl,5,Full,Full Art,89/149,,PLANETA,,,
 209,Snubbull,Fa,1,,,90/149,,Tomokazu Komiya,,,
 210,Granbull,Fa,2,Reverse,,91/149,,Suwama Chiaki,,,
-742,Cutiefly,Fa,1,,,92/149,,Hitoshi Ariga,,,
+742,Cutiefly,Fa,1,Reverse,,92/149,,Hitoshi Ariga,,,3/5/2021
 147,Dratini,Dr,1,,,94/149,,Naoyo Kimura,,,
 148,Dragonair,Dr,2,,,95/149,,hatachu,,,
 149,Dragonite,Dr,3,Full,,96/149,,Hiroyuki Yamamoto,,,
@@ -96,4 +96,5 @@ T,Switch,I,2,,,132/149,,Ryo Ueda,,,
 T,Team Skull Grunt,Su,2,,,133/149,,Ken Sugimori,,,
 T,Timer Ball,I,2,,,134/149,,Toyste Beach,,,
 T,Ultra Ball,I,2,Full,,135/149,,Ryo Ueda,,,
+T,Rainbow Energy,Sp,,,,137/149,,,,,3/5/2021
 T,Professor Kukui,Su,5,Full,Full Art,148/149,,Megumi Mizutani,,,
