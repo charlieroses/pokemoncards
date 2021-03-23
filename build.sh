@@ -138,20 +138,6 @@ echo "  Added to Menu"
 
 echo "Completed Pop Series Promo"
 
-echo "Starting McDonalds Collection"
-PROMO_TABLE=`awk -f scripts/mdpromoTable.awk ${TCG_SRC}/mcdonaldscollection.csv`
-HTML_CONTENT="<h2>McDonald's Collection</h2> ${PROMO_TABLE}"
-HTML_PAGE=${TEMPLATE}
-HTML_PAGE="${HTML_PAGE/<!-- CONTENT -->/${HTML_CONTENT}}"
-echo "${HTML_PAGE}" > ${HTML_SRC}/mcdonalds.html
-echo "  Built HTML file"
-
-MENU_CONTENT="${MENU_CONTENT}<td><a href=\"mcdonalds.html\">McDonald's Collection</a></td>"
-echo "  Added to Menu"
-
-echo "Completed McDonalds Collection"
-
-
 echo "Starting Non-English Cards"
 PROMO_TABLE=`awk -f scripts/setTable.awk ${TCG_SRC}/othercards.csv`
 HTML_CONTENT="<h2>Non-English Cards</h2> ${PROMO_TABLE}"
