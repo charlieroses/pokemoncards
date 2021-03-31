@@ -105,7 +105,7 @@ T,Sonia,Su,2,,,167/192,,Yusuke Ohmura,,,4/25/2020
 T,Tool Scrapper,I,2,,,168/192,,Studio Bora Inc.,,,4/25/2020
 T,Training Court,I,2,,,169/192,,5ban Graphics,,,5/16/2020
 T,Turffield Stadium,S,2,,,170/192,,oky CG Works,,,4/25/2020
-T,Capture Energy,E,2,,,171/192,,,,,4/25/2020
-T,Horror Energy,E,2,,,172/192,,,,,4/25/2020
-T,Speed Energy,E,2,,,173/192,,,,,4/25/2020
-T,Twin Energy,E,2,,,174/192,,,,,4/25/2020
+T,Capture Energy,N,2,,,171/192,,,,,4/25/2020
+T,Horror Energy,P,2,,,172/192,,,,,4/25/2020
+T,Speed Energy,El,2,,,173/192,,,,,4/25/2020
+T,Twin Energy,NN,2,,,174/192,,,,,4/25/2020
