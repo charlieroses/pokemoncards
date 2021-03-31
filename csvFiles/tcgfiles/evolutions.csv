@@ -8,7 +8,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 114,Tangela,G,1,,,8/108,,Mitsuhiro Arita,,,
 4,Charmander,F,1,Reverse,,9/108,,Mitsuhiro Arita,,,6/29/2019
 6,Charizard,F,3,Art,,11/108,,Mitsuhiro Arita,,,6/29/2019
-37,Vulpix,F,1,Full,,14/108,,Ken Sugimori,,,
+37,Vulpix,F,1,Reverse,,14/108,,Ken Sugimori,,,
 38,Ninetales,F,3,Reverse,,15/108,,Ken Sugimori,,,7/30/2019
 58,Growlithe,F,1,,,17/108,,Ken Sugimori,,,
 77,Ponyta,F,1,,,19/108,,Ken Sugimori,,,
@@ -21,7 +21,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 121,Starmie,W,3,Reverse,,31/108,,Keiji Kinebuchi,,,
 129,Magikarp,W,1,Reverse,,33/108,,Mitsuhiro Arita,,,9/7/2019
 25,Pikachu,El,1,Reverse,,35/108,,Mitsuhiro Arita,,,10/14/2020
-26,Raichu,El,3,Card,,36/108,,Ken Sugimori,,,7/26/2019
+26,Raichu,El,3,Reverse,,36/108,,Ken Sugimori,,,7/26/2019
 81,Magnemite,El,1,,,37/108,,Keiji Kinebuchi,,,6/29/2019
 82,Magneton,El,3,Art,,38/108,,Keiji Kinebuchi,,,9/7/2019
 100,Voltorb,El,1,,,39/108,,Keiji Kinebuchi,,,6/29/2019
@@ -34,7 +34,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 96,Drowzee,P,1,,,49/108,,Ken Sugimori,,,9/7/2019
 109,Koffing,P,2,,,50/108,,Mitsuhiro Arita,,,9/7/2019
 150,Mewtwo,P,3,,,51/108,,Ken Sugimori,,,
-150,Mewtwo EX,P,5,Art,Full Art,52/108,,Eske Yoshinob,,,9/7/2019
+150,Mewtwo EX,P,5,Full,Full Art,52/108,,Eske Yoshinob,,,9/7/2019
 151,Mew,P,3,Reverse,,53/108,,Ken Sugimori,,,
 27,Sandshrew,Fg,1,,,54/108,,Ken Sugimori,,,
 50,Diglett,Fg,1,Reverse,,55/108,,Keiji Kinebuchi,,,12/28/2019
@@ -58,18 +58,18 @@ T,Pidgeot Spirit Link,I,2,,,81/108,,5ban Graphics,,,9/17/2019
 T,Pokedex,I,2,,,82/108,,Keiji Kinebuchi,,,7/26/2019
 T,Potion,I,2,Reverse,,83/108,,Keiji Kinebuchi,,,9/17/2019
 T,Slowbro Spirit Link,I,2,,,86/108,,5ban Graphics,,,7/26/2019
-T,Super Potion,T,2,Card,,87/108,,Keiji Kinebuchi,,,6/29/2019
+T,Super Potion,I,2,Reverse,,87/108,,Keiji Kinebuchi,,,6/29/2019
 T,Switch,I,2,,,88/108,,Keiji Kinebuchi,,,
 T,Venusaur Spirit Link,I,2,,,89/108,,5ban Graphics,,,
-T,Special Energy,E,2,,,90/108,,Keiji Kinebuchi,,,
-T,Fire Energy,E,1,,,92/108,,,,,9/7/2019
-T,Water Energy,E,1,,,93/108,,,,,12/28/2019
-T,Electric Energy,E,1,,,94/108,,,,,9/17/2019
-T,Psychic Energy,E,1,,,95/108,,,,,
-T,Fight Energy,E,1,,,96/108,,,,,
-T,Steel Energy,E,1,,,98/108,,,,,6/29/2019
-T,Fairy Energy,E,1,,,99/108,,,,,9/17/2019
+T,Double Colorless Energy,NN,2,,,90/108,,Keiji Kinebuchi,,,
+T,Fire Energy,F,1,,,92/108,,,,,9/7/2019
+T,Water Energy,W,1,,,93/108,,,,,12/28/2019
+T,Electric Energy,El,1,,,94/108,,,,,9/17/2019
+T,Psychic Energy,P,1,,,95/108,,,,,
+T,Fight Energy,Fg,1,,,96/108,,,,,
+T,Steel Energy,Sl,1,,,98/108,,,,,6/29/2019
+T,Fairy Energy,Fa,1,,,99/108,,,,,9/17/2019
 3,Mega Venusaur EX,G,5,Full,Full Art / Textured,100/108,,5ban Graphics,,,
 103,Exeggutor,G,3,,Japanese,109/108,,Dr.Ooyama,,,10/12/2019
 25,Flying Pikachu,El,3,,,110/108,,Toshinao Aoki,,,9/7/2019
-84,Imakuni?'s Doduo,,3,,,112/108,,Imakuni?,,,
+84,Imakuni?'s Doduo,N,3,,,112/108,,Imakuni?,,,

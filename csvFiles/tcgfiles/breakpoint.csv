@@ -1,11 +1,11 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
-152,Chikorita,G,1,Full,,1/122,,Akira Komayama,Slight Bent,,5/18/2019
-154,Meganium,G,3,Reverse,,3/122,,kawayoo,,,5/18/2019
+152,Chikorita,G,1,Reverse,,1/122,,Akira Komayama,Slight Bent,,5/18/2019
+154,Meganium,G,3,Art,,3/122,,kawayoo,,,5/18/2019
 401,Kricketot,G,1,,,5/122,,Sumiyoshi Kizuki,,,
 402,Kricketune,G,2,,,6/122,,Suwama Chiaki,,,5/18/2019
 548,Petilil,G,1,,,7/122,,Naoyo Kimura,,,5/18/2019
 549,Lilligant,G,3,,,8/122,,Shin Nagasawa,,,5/18/2019
-632,Durant,G,2,Card,,9/122,,Kouki Saitou,,,8/6/2019
+632,Durant,G,2,Reverse,,9/122,,Kouki Saitou,,,8/6/2019
 58,Growlithe,F,1,,,10/122,,match,,,5/18/2019
 322,Numel,F,1,,,12/122,,MAHOU,,,5/18/2019
 631,Heatmor,F,2,,,15/122,,match,,,5/18/2019
@@ -21,7 +21,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 222,Corsola,W,1,,,29/122,,Kanako Eo,,,5/18/2019
 535,Tympole,W,1,,,33/122,,Miki Tanaka,,,8/6/2019
 580,Ducklett,W,1,,,36/122,,Atsuko Nishida,,,8/6/2019
-581,Swanna,W,2,Full,,37/122,,sui,,,5/18/2019
+581,Swanna,W,2,Reverse,,37/122,,sui,,,5/18/2019
 656,Froakie,W,1,,,38/122,,Sanosuke Sakuma,,,5/18/2019
 125,Electabuzz,El,1,,,42/122,,Shin Nagasawa,,,5/18/2019
 403,Shinx,El,1,,,44/122,,Saya Tsuruta,,,5/18/2019
@@ -33,8 +33,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 97,Hypno,P,3,,,51/122,,Tomokazu Komiya,,,5/18/2019
 451,Skorupi,P,1,,,53/122,,Kyoko Umemoto,,,5/18/2019
 452,Drapion,P,3,,,54/122,,Mitsuhiro Arita,,,8/6/2019
-568,Trubbish,P,1,Full,,56/122,,OOYAMA,,,5/18/2019
-677,Espurr,P,1,Full,,58/122,,Kagemaru Himeno,,,5/18/2019
+568,Trubbish,P,1,Reverse,,56/122,,OOYAMA,,,5/18/2019
+677,Espurr,P,1,Reverse,,58/122,,Kagemaru Himeno,,,5/18/2019
 679,Honedge,P,1,,,60/122,,kawayo,,,5/18/2019
 680,Doublade,P,2,,,61/122,,Hajime Kuzajima,,,5/18/2019
 690,Skrelp,P,1,,,63/122,,Yukiko Baba,,,5/18/2019
@@ -42,8 +42,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 709,Trevenant,P,3,,,65/122,,Midori Harada,,,8/6/2019
 709,Trevenant BREAK,P,5,Full,Full Art,66/122,,5ban Graphics,,,5/18/2019
 443,Gible,Fg,1,,,68/122,,Naoyo Kimura,,,5/18/2019
-444,Gabite,Fg,2,Full,,69/122,,Midori Harada,,,5/18/2019
-445,Garchomp,Fg,3,Full,,70/122,,TOKIYA,,,5/18/2019
+444,Gabite,Fg,2,Reverse,,69/122,,Midori Harada,,,5/18/2019
+445,Garchomp,Fg,3,Reverse,,70/122,,TOKIYA,,,5/18/2019
 674,Pancham,Fg,1,,,71/122,,MAHOU,,,5/18/2019
 274,Nuzleaf,D,2,,,72/122,,Yuka Morii,,,
 675,Pangoro,D,3,,,75/122,,Naoki Saito,,,5/18/2019
@@ -51,7 +51,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 35,Clefairy,Fa,1,,,81/122,,Tomokazu Komiya,,,
 682,Spritzee,Fa,1,,,84/122,,kirisAki,,,5/18/2019
 683,Aromatisse,Fa,2,,,85/122,,kirisAki,,,7/20/2019
-691,Dragalge,Dr,3,Full,,86/122,,Shin Nagasawa,,,5/18/2019
+691,Dragalge,Dr,3,Reverse,,86/122,,Shin Nagasawa,,,5/18/2019
 19,Rattata,N,1,,,87/122,,match,,,
 206,Dunsparce,N,2,,,90/122,,Akira Komayama,,,5/18/2019
 234,Stantler,N,2,,,91/122,,sui,,,5/18/2019
@@ -67,7 +67,7 @@ T,Misty's Determination,Su,2,,,104/122,,Ken Sugimori,,,8/6/2019
 T,Pokemon Catcher,I,2,,,105/122,,5ban Graphics,,,5/18/2019
 T,Potion,I,2,,,106/122,,5ban Graphics,,,8/6/2019
 T,Professor Sycamore,Su,2,,,107/122,,Yusuke Ohmura,,,5/18/2019
-T,Puzzle of Time,I,2,Card,,109/122,,Toyste Beach,,,8/6/2019
+T,Puzzle of Time,I,2,Reverse,,109/122,,Toyste Beach,,,8/6/2019
 T,Reverse Valley,S,2,,Full Art,110/122,,5ban Graphics,,,
 T,Scizor Spirit Link,I,2,,,111/122,,5ban Graphics,,,5/18/2019
 T,Tierno,Su,2,,,112/122,,Ken Sugimori,,,5/18/2019

@@ -5,7 +5,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 650,Chespin,G,1,,,8/162,,Megumi Mizutani,,,8/27/2019
 651,Quilladin,G,2,,,10/162,,Miki Tanaka,,,8/27/2019
 665,Spewpa,G,2,Reverse,,14/162,,Saya Tsuruta,,,12/20/2019
-666,Vivillon,G,3,Reverse,,15/162,,Mizue,,,6/15/2019
+666,Vivillon,G,3,Art,,15/162,,Mizue,,,6/15/2019
 673,Gogoat,G,2,,,17/162,,Masakazu Fukuda,,,8/27/2019
 155,Cyndaquil,F,1,Reverse,,18/162,,Tomokazu Komiya,,,8/27/2019
 513,Pansear,F,1,,,23/162,,sui,,,7/20/2019
@@ -27,7 +27,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 82,Magneton,El,2,,,53/162,,Tomokazu Komiya,,,7/20/2019
 618,Stunfisk,El,1,,,56/162,,Naoki Saito,,,8/27/2019
 92,Gastly,P,1,,,58/162,,Shigenori Negishi,,,7/20/2019
-200,Misdreavus,P,1,,,65/162,,sui,,,7/20/2019
+200,Misdreavus,P,1,Art,,65/162,,sui,,,7/20/2019
 429,Mismagius,P,3,,,66/162,,Ayaka Yoshida,,,8/27/2019
 202,Wobbuffet,P,2,,,67/162,,Akira Komayama,,,7/20/2019
 281,Kirlia,P,2,,,69/162,,Sanosuke Sakuma,,,7/20/2019
@@ -42,11 +42,12 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 105,Marowak BREAK,Fg,5,,,79/162,,5ban Graphics,,,8/27/2019
 220,Swinub,Fg,1,,,80/162,,Atsuko Nishida,,,
 221,Piloswine,Fg,2,,,81/162,,MAHOU,,,
-449,Hippopotas,Fg,1,Reverse / Art,,83/162,,Akira Komayama,,,8/27/2019
+449,Hippopotas,Fg,1,Reverse,,83/162,,Akira Komayama,,,8/27/2019
+648,Meloetta,Fg,3,Art,,85/162,,kirisAki,,,
 674,Pancham,Fg,1,,,86/162,,Mizue,,,
 570,Zorua,D,1,,,89/162,,Hitoshi Ariga,,,8/27/2019
 570,Zorua,D,1,,,90/162,,Hitoshi Ariga,,,7/20/2019
-571,Zoroark,D,3,Reverse,,91/162,,kawayoo,,,5/12/2019
+571,Zoroark,D,3,Art,,91/162,,kawayoo,,,5/12/2019
 686,Inkay,D,1,,,93/162,,Kouki Saitou,,,8/27/2019
 437,Bronzong,Sl,3,,,96/162,,Tomokazy Komiya,,,7/20/2019
 209,Snubbull,Fa,1,Reverse,,98/162,,Yuka Morii,,,
@@ -54,7 +55,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 669,Flabebe,Fa,1,,,101/162,,Kouki Saitou,,,8/27/2019
 682,Spritzee,Fa,1,,,150/162,,Naoyo Kimura,,,12/20/2019
 683,Aromatisse,Fa,3,,,106/162,,Mizue,,,8/27/2019
-716,Xerneas,Fa,3,Reverse,,107/162,,Mitsuhiro Arita,,,7/30/2019
+716,Xerneas,Fa,3,Art,,107/162,,Mitsuhiro Arita,,,7/30/2019
 610,Axew,Dr,1,,,108/162,,Kagemaru Himeno,,,12/20/2019
 611,Fraxure,Dr,2,,,110/162,,Mitsuhiro Arita,,,7/20/2019
 52,Meowth,N,1,,,114/162,,kirisAki,,,

@@ -10,7 +10,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 513,Pansear,F,1,,,22/146,,Tomakazu Komiya,,,
 653,Fennekin,F,1,,,24/146,,5ban Graphics,,,
 655,Delphox,F,3,Art,,26/146,,5ban Graphics,,,
-9,Blastoise EX,W,5,Art,Full Art,29/146,,Eske Yoshinob,,,9/7/2019
+9,Blastoise EX,W,5,Full,Full Art,29/146,,Eske Yoshinob,,,9/7/2019
 9,M Blastoise EX,W,5,Full,Full Art,30/146,,5ban Graphics,,,
 91,Cloyster,W,3,,,32/146,,Masakazu Fukada,,,
 120,Staryu,W,1,,,33/146,,Sumiyoshi Kizuki,,,
@@ -49,5 +49,5 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 T,Fairy Garden,S,2,,,117/146,,Ryo Ueda,,,
 T,Cassius,Su,2,,,115/146,,Masakazu Fukada,,,
 T,Professor Sycamore,Su,2,,,122/146,,Yusuke Ohmura,,,
-T,Professor's Letter,I,2,Full,,123/146,,5ban Graphics,,,
+T,Professor's Letter,I,2,Reverse,,123/146,,5ban Graphics,,,
 T,Team Flare Grunt,Su,2,,,129/146,,Yusuke Ohmura,,,

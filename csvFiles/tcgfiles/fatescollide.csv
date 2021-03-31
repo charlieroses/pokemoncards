@@ -4,7 +4,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 413,Wormadam,G,2,,,3/124,,kawayoo,,,
 414,Mothim,G,3,,,4/124,,MAHOU,,,
 495,Snivy,G,1,,,5/124,,Atsuko Nishida,,,
-496,Servine,G,2,,,6/124,,Sumiyoshi Kizuki,,,9/7/2019
+496,Servine,G,2,Reverse,,6/124,,Sumiyoshi Kizuki,,,9/7/2019
 497,Serperior,G,3,,,7/124,,You iribi,,,7/7/2019
 585,Deerling,G,1,,,8/124,,Kanako Eo,,,9/21/2019
 146,Moltres,F,3,,,9/124,,OOYAMA,,,7/30/2019
@@ -27,41 +27,41 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 105,Marowak,Fg,3,,,37/124,,Shin Nagasawa,,,
 246,Larvitar,Fg,1,,,40/124,,Suwama Chiaki,,,8/6/2019
 246,Larvitar,Fg,1,Reverse,,41/124,,Masakazu Fukuda,,,9/19/2019
-247,Pupitar,Fg,2,Card,,42/124,,match,,,7/30/2019
+247,Pupitar,Fg,2,Reverse,,42/124,,match,,,7/30/2019
 413,Wormadam,Fg,2,Reverse,,44/124,,Hajime Kusajima,,,
 447,Riolu,Fg,1,,,45/124,,You Iribi,,,
 447,Riolu,Fg,1,,,46/124,,match,,,7/7/2019
 701,Hawlucha,Fg,2,,,48/124,,Kouki Saitou,,,9/7/2019
 703,Carbink,Fg,1,,,50/124,,kawayoo,,,7/7/2019
 718,Zygarde,Fg,2,,,52/124,,5ban Graphics,,,7/30/2019
-248,Tyranitar,D,3,Reverse,,56/124,,Satoshi Shirai,,,6/15/2019
+248,Tyranitar,D,3,Art,,56/124,,Satoshi Shirai,,,6/15/2019
 629,Vullaby,D,1,,,57/124,,Midori Harada,,,8/6/2019
 413,Wormadam,Sl,2,,,59/124,,Kyoko Umemoto,,,9/7/2019
 436,Bronzor,Sl,1,,,60/124,,Hajime Kusajima,,,12/28/2019
-448,Lucario,Sl,3,Reverse,,63/124,,Hitoshi Ariga,,,5/12/2019
+448,Lucario,Sl,3,Art,,63/124,,Hitoshi Ariga,,,5/12/2019
 39,Jigglypuff,Fa,1,,,65/124,,Midori Harada,,,
 40,Wigglytuff,Fa,2,,,66/124,,Mizue,,,7/20/2019
 209,Snubbull,Fa,1,Reverse,,68/124,,Aya Kusube,,,1/2/2020
 546,Cottonee,Fa,1,,,70/124,,MAHOU,,,
 547,Whimsicott,Fa,2,,,71/124,,sui,,,
-719,Diancie EX,Fa,5,,,72/124,,Eske Yoshinob,,,9/7/2019
+719,Diancie EX,Fa,5,Full,Full Art,72/124,,Eske Yoshinob,,,9/7/2019
 52,Meowth,N,1,,,74/124,,Shigenori Negishi,,,12/28/2019
-142,Aerodactyl,N,3,Card,,76/124,,kawayoo,,,8/6/2019
+142,Aerodactyl,N,3,Reverse,,76/124,,kawayoo,,,8/6/2019
 293,Whismur,N,1,,,80/124,,Kouki Saitou,,,
 294,Loudred,N,2,,,81/124,,TOKIYA,,,9/7/2019
 295,Exploud,N,3,,,82/124,,Masakazu Fukuda,,,7/20/2019
 531,Audino EX,N,5,Full,Full Art,84/124,,Ayaka Yoshida,,,12/28/2019
 572,Minccino,N,1,,,86/124,,kirisAki,,,
 572,Minccino,N,1,,,87/124,,Mizue,,,1/2/2020
-573,Cinccino,N,2,Card,,89/124,,Kouki Saitou,,,7/7/2019
+573,Cinccino,N,2,Reverse,,89/124,,Kouki Saitou,,,7/7/2019
 T,Alakazam Spirit Link,I,2,,,90/124,,5ban Graphics,,,7/30/2019
 T,Audino Spirit Link,I,2,,,92/124,,5ban Graphics,,,8/6/2019
 T,Bent Spoon,I,2,Reverse,,93/124,,Toyste Beach,,,9/7/2019
-T,Chaos Tower,S,2,,,94/124,,5ban Graphics,,,9/21/2019
+T,Chaos Tower,S,2,,Full Art,94/124,,5ban Graphics,,,9/21/2019
 T,Energy Pouch,I,2,,,97/124,,Toyste Beach,,,7/14/2019
 T,Fairy Drop,I,2,,,99/124,,Toyste Beach,,,1/2/2020
 T,Fairy Garden,S,2,,,100/124,,Ryo Ueda,,,9/17/2019
-T,Fossil Excavation Kit,I,2,Full,,101/124,,Toyste Beach,,,
+T,Fossil Excavation Kit,I,2,Reverse,,101/124,,Toyste Beach,,,
 T,Helix Fossil Omanyte,I,2,,,102/124,,Toyste Beach,,,9/21/2019
 T,Old Amber Aerodactyl,I,2,,,106/124,,Toyste Beach,,,
 T,Pokemon Fan Club,Su,2,,,107/124,,Yusuke Ohmura,,,12/28/2019
@@ -69,7 +69,7 @@ T,Power Memory,I,2,,,108/124,,5ban Graphics,,,9/19/2019
 T,Random Reciever,I,2,,,109/124,,Toyste Beach,,,
 T,Scorched Earth,S,2,,,110/124,,Ryo Ueda,,,
 T,Shauna,Su,2,,,111/124,,Ken Sugimori,,,7/7/2019
-T,Team Rocket's Handiwork,Su,2,Card,,112/124,,Hitoshi Ariga,,,7/14/2019
+T,Team Rocket's Handiwork,Su,2,Reverse,,112/124,,Hitoshi Ariga,,,7/14/2019
 T,Ultra Ball,I,2,,,113/124,,5ban Graphics,,,8/6/2019
 T,Strong Energy,Fg,2,,,115/124,,5ban Graphics,,,7/7/2019
 197,Umbreon EX,D,5,Full,Full Art / Textured,119/124,,Ryo Ueda,,,8/6/2019

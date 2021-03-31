@@ -9,7 +9,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 201,Unown D,P,2,,,68/130,,Nakaoka,,,
 438,Bonsly,Fg,1,,,71/130,,Midori Harada,Used,,8/20/2019
 418,Buizel,W,1,,,72/130,,Ken Sugimori,,,
-390,Chimchar,F,1,Reverse,,76/130,,Ken Sugimori,,,
+390,Chimchar,F,1,Reverse,Stamped,76/130,,Ken Sugimori,,,
 415,Combee,G,1,,,79/130,,Ken Sugimori,,,
 355,Duskull,P,1,,,80/130,,Atsuko Nishida,Scratched,,7/20/2019
 92,Gastly,P,1,,,82/130,,Kouki Saitou,,,
@@ -19,5 +19,5 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 396,Starly,N,1,,,101/130,,Ken Sugimori,,,7/20/2019
 265,Wurmple,G,1,,,104/130,,Ken Sugimori,,,
 389,Torterra lv.X,G,3,,,120/130,,Shizurow,,,
-T,Grass Energy,E,1,,,123/130,,,,,
-T,Water Energy,E,1,,,125/130,,,,,
+T,Grass Energy,G,1,,,123/130,,,,,
+T,Water Energy,W,1,,,125/130,,,,,

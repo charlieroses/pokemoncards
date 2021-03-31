@@ -4,7 +4,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 167,Spinarak,G,1,,,5/168,,Sachiko Adachi,,,9/19/2019
 252,Treeko,G,1,,,8/168,,tetsuya koizumi,,,
 253,Groyle,G,2,,,9/168,,Shin Nagasawa,,,8/1/2019
-254,Sceptile,G,3,Full,Alternate Art,10/168,,Mitsuhiro Arita,,,
+254,Sceptile,G,3,Reverse,,10/168,,Mitsuhiro Arita,,,
+254,Sceptile,G,3,Art,Alternate Art,10a/168,,Mitsuhiro Arita,,,
 273,Seedot,G,1,,,12/168,,Misa Tsutsui,,,
 283,Surskit,G,1,,,15/168,,Ken Sugimori,,,
 284,Masquerain,G,2,Reverse,,16/168,,Yukiko Baba,,,
@@ -31,7 +32,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 343,Baltoy,Fg,1,,,78/168,,Ken Sugimori,,,
 344,Claydol,Fg,3,,,79/168,,Yumi,,,
 774,Minior,Fg,2,,,83/146,,sui,,,
-19,Alolan Rattata,D,1,,,84/168,,Shibuzoh.,,,8/10/2019
+19,Rattata,D,1,,Alolan,84/168,,Shibuzoh.,,,8/10/2019
 215,Sneasel,D,1,,,86/168,,Ken Sugimori,,,
 302,Sableye,D,2,,,88/168,,Yukiko Baba,,,
 303,Mawile,Sl,2,,,91/168,,Kagemaru Himeno,,,9/19/2019
@@ -44,9 +45,9 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 278,Wingull,N,1,,,111/168,,Ken Sugimori,,,
 287,Slakoth,N,1,,,113/168,,Kagemaru Himeno,,,7/20/2019
 288,Vigoroth,N,2,,,114/168,,Kagemaru Himeno,,,8/10/2019
-289,Slaking,N,3,Reverse,,115/168,,Ken Sugimori,,,5/11/2019
-293,Whismur,N,1,Full,,117/168,,Asako Ito,,,5/11/2019
-301,Delcatty,N,3,Card,,121/168,,Sekio,,,8/1/2019
+289,Slaking,N,3,Art,,115/168,,Ken Sugimori,,,5/11/2019
+293,Whismur,N,1,Reverse,,117/168,,Asako Ito,,,5/11/2019
+301,Delcatty,N,3,Reverse,,121/168,,Sekio,,,8/1/2019
 T,Apricorn Maker,Su,2,,,124/168,,Kagemaru Himeno,,,5/11/2019
 T,Bill's Maintenance,Su,2,,,126/168,,Ken Sugimori,,,
 T,Copycat,Su,2,,,127/168,,Ken Sugimori,,,

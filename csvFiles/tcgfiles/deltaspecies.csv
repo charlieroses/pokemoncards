@@ -8,7 +8,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 78,Rapidash,F,2,,,52/113,,Atsuko Nishida,,,
 371,Bagon,F,1,,Delta Species,57/113,,Masokazu Fukuda,,,
 147,Dratini,El,1,,Delta Species,65/113,,Hajime Kusajima,Used,,8/20/2019
-100,Holon's Voltorb,El,1,,,71/113,,Takao Unno,Used,,8/20/2019
+100,Voltorb,El,1,,Holon's,71/113,,Takao Unno,Used,,8/20/2019
 109,Koffing,G,1,,,72/113,,Sachiko Adachi,Used,,8/20/2019
 52,Meowth,N,1,,,77/113,,Hiroki Fuchino,,,
 77,Ponyta,F,1,,,78/113,,Naoyo Kimura,,,
@@ -21,4 +21,4 @@ T,Holon Researcher,Su,2,,,95/113,,Kanako Eo,,,
 T,Master Ball,T,2,,,99/113,,Keiji Kinebuchi,,,
 T,Potion,T,1,,,101/113,,Shin-ichi Yoshikawa,,,
 T,Switch,T,1,,,102/113,,Hiromichi Sugiyama,,,
-T,Metal Energy,E,3,,,107/113,,Milky Isobe,,,
+T,Metal Energy,Sl,3,,,107/113,,Milky Isobe,,,

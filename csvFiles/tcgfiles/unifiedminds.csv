@@ -22,7 +22,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 607,Litwick,F,1,,,27/236,,MAHOU,,,8/25/2019
 607,Litwick,F,1,,,28/236,,sowsow,,,8/2/2019
 608,Lampent,F,2,,,29/236,,Sachiko Adachi,,,8/2/2019
-662,Fletchinder,F,1,Revere,,31/236,,Mina Nakai,,,10/14/2019
+662,Fletchinder,F,1,Reverse,,31/236,,Mina Nakai,,,10/14/2019
 663,Talonflame,F,3,,,32/236,,SATOSHI NAKAI,,,8/10/2019
 757,Salandit,F,1,,,33/236,,Kyoko Umemoto,,,8/2/2019
 758,Salazzle,F,3,,,34/236,,Midori Harada,,,12/20/2019
@@ -37,13 +37,13 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 565,Carracosta,W,2,Reverse,,45/236,,Kouki Saitou,,,8/2/2019
 615,Cryogonal,W,1,,,46/236,,Ken Sugimori,,,8/25/2019
 751,Dewpider,W,1,,,48/236,,Atsuko Nishida,,,10/12/2019
-752,Araquanid,W,3,,,49/236,,Misa Tsutsui,,,9/7/2019
+752,Araquanid,W,3,Reverse,,49/236,,Misa Tsutsui,,,9/7/2019
 767,Wimpod,W,1,,,50/236,,Tomokazu Komiya,,,8/2/2019
 771,Pyukumuku,W,2,Reverse,,52/236,,OOYAMA,,,8/2/2019
-788,Tapu Fini,W,3,,,53/236,,Hasuno,,,12/20/2019
+788,Tapu Fini,W,3,Reverse,,53/236,,Hasuno,,,12/20/2019
 25,Pikachu,El,1,,,55/236,,Sanosuke Sakuma,,,8/2/2019
 25,Pikachu,El,1,,,56/236,,Misa Tsutsui,,,8/2/2019
-26,Alolan Raichu,El,3,Reverse,,57/236,,Kouki Saitou,,,10/12/2019
+26,Raichu,El,3,Reverse,Alolan,57/236,,Kouki Saitou,,,10/12/2019
 81,Magnemite,El,1,,,58/236,,sowsow,,,8/2/2019
 82,Magneton,El,2,,,59/236,,Yumi,,,8/2/2019
 595,Joltik,El,1,,,61/236,,Midori Harada,,,8/2/2019
@@ -56,7 +56,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 785,Tapu Koko,El,3,Art,,69/236,,Shin Nagasawa,,,10/14/2019
 796,Xurkitree,El,3,,,70/236,,Satoshi Shirai,,,12/20/2019
 102,Exeggcute,P,1,,,73/236,,otumami,,,10/14/2019
-105,Alolan Maroak,P,3,,,75/236,,Masakazu Fukuda,,,8/2/2019
+105,Maroak,P,3,,Alolan,75/236,,Masakazu Fukuda,,,8/2/2019
 124,Jynx,P,2,Reverse,,76/236,,sowsow,,,10/14/2019
 360,Wynaut,P,2,,,77/236,,Kagemaru Himeno,,,8/2/2019
 425,Drifloon,P,1,Reverse,,80/236,,ryoma uratsuka,,,8/2/2019
@@ -94,11 +94,11 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 566,Archen,Fg,2,,,120/236,,0313,,,8/2/2019
 567,Archeops,Fg,3,Reverse,,121/236,,Hasuno,,,8/25/2019
 648,Meloetta,Fg,3,,,123/236,,Kouki Saitou,,,8/2/2019
-88,Alolan Grimer,D,1,Reverse,,127/236,,kawayoo,,,10/14/2019
+88,Grimer,D,1,Reverse,Alolan,127/236,,kawayoo,,,10/14/2019
 198,Murkrow,D,1,Reverse,,128/236,,nagimiso,,,8/2/2019
 198,Murkrow,D,1,Reverse,,129/236,,tetsuya koizumi,,,12/20/2019
 215,Sneasel,D,1,Reverse,,131/236,,sui,,,12/20/2019
-461,Weavile GX,D,5,,,132/236,,aky CG Works,,,8/25/2019
+461,Weavile GX,D,5,Full,,132/236,,aky CG Works,,,8/25/2019
 302,Sableye,D,2,,,133/236,,Suwama Chiaki,,,8/10/2019
 509,Purrloin,D,1,,,135/236,,Sumiyoshi Kizuki,,,8/2/2019
 559,Scraggy,D,1,,,137/236,,Yumi,,,8/25/2019

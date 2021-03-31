@@ -26,7 +26,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 637,Volcarona GX,F,5,Full,Full Art,35/236,,Hiroyuki Yamamoto,,,10/26/2019
 667,Litleo,F,1,,,36/236,,HYOGONOSUKE,,,10/26/2019
 668,Pyroar,F,2,,,37/236,,KEIICHIRO ITO,,,10/26/2019
-37,Alolan Vulpix,W,1,,,39/236,,nagisimo,,,10/26/2019
+37,Vulpix,W,1,,Alolan,39/236,,nagisimo,,,10/26/2019
 54,Psyduck,W,1,,,40/236,,sui,,,11/2/2019
 55,Golduck,W,2,,,41/236,,Shignero Negishi,,,10/14/2020
 134,Vaporeon,W,2,,,42/236,,sui,,,11/2/2019
@@ -81,12 +81,12 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 739,Crabrawler,Fg,1,,,121/236,,Miki Tanaka,,,10/26/2019
 744,Rockruff,Fg,1,,,123/236,,Saya Tsuruta,,,10/26/2019
 766,Passimian,Fg,1,Reverse,,125/236,,Masakazu Fukuda,,,10/26/2019
-88,Alolan Grimer,D,1,,,130/236,,Sekio,,,10/26/2019
+88,Grimer,D,1,,Alolan,130/236,,Sekio,,,10/26/2019
 318,Carvanha,D,1,,,132/236,,Hasuno,,,10/26/2019
-624,Bisharp,D,1,,,134/236,,Ken Sugimori,,,11/2/2019
+624,Pawniard,D,1,,,134/236,,Ken Sugimori,,,11/2/2019
 625,Bisharp,D,2,,,135/236,,SATOSHI NAKAI,,,10/26/2019
-27,Alolan Sandshrew,Sl,1,,,137/236,,ryoma uratsuka,,,11/2/2019
-28,Alolan Sandslash,Sl,3,,,138/236,,Hasuno,,,10/26/2019
+27,Sandshrew,Sl,1,,Alolan,137/236,,ryoma uratsuka,,,11/2/2019
+28,Sandslash,Sl,3,,Alolan,138/236,,Hasuno,,,10/26/2019
 303,Mawile,Sl,2,,,140/236,,kodama,,,12/20/2019
 476,Probopass,Sl,2,,,141/236,,Masakazu Fukuda,,,11/2/2019
 791,Solgaleo,Sl,3,Reverse / Art,,142/236,,Misa Tsutsui,,,11/2/2019

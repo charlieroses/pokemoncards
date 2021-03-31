@@ -3,10 +3,10 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 420,Cherubi,G,1,,,10/156,,Asako Ito,,,6/15/2019
 126,Magmar,F,1,,,18/156,,Yumi,,,
 757,Salandit,F,1,,,25/156,,Misa Tsutsui,,,5/11/2019
-27,Alolan Sandshrew,W,1,,,28/156,,Shin Nagasawa,,,8/6/2019
+27,Sandshrew,W,1,,Alolan,28/156,,Shin Nagasawa,,,8/6/2019
 393,Piplup,W,1,,,31/156,,Ken Sugimori,,,8/6/2019
 394,Prinplup,W,2,,,33/156,,Mizue,,,8/6/2019
-395,Empoleon,W,3,Reverse,,34/156,,nagimiso,,,8/6/2019
+395,Empoleon,W,3,Art,,34/156,,nagimiso,,,8/6/2019
 418,Buizel,W,1,,,35/156,,so-taro,,,8/6/2019
 419,Floatzel,W,2,,,36/156,,Naoyo Kimura,,,8/6/2019
 459,Snover,W,1,,,37/156,,match,,,8/6/2019
@@ -23,17 +23,17 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 447,Riolu,Fg,1,,,66/156,,Kyoko Umemoto,,,5/11/2019
 449,Hippopotas,Fg,1,,,68/156,,Yumi,,,6/15/2019
 766,Passimian,Fg,1,,,70/156,,kawayoo,,,6/15/2019
-198,Murkrow,D,1,Full,,71/156,,match,,,5/11/2019
+198,Murkrow,D,1,Reverse,,71/156,,match,,,5/11/2019
 434,Stunky,D,1,,,75/156,,Naoyo Kimura,,,7/20/2019
 81,Magnemite,Sl,1,,,80/156,,MAHOU,,,6/15/2019
 410,Shieldon,Sl,2,,,84/156,,so-taro,,,6/15/2019
-485,Heatran,Sl,3,Art,,88/156,,tetsuya koizumi,,,
+485,Heatran,Sl,3,Art,Stamped,88/156,,tetsuya koizumi,,,
 755,Morelull,Fa,1,,,92/156,,Midori Harada,,,7/20/2019
 108,Lickitung,N,1,,,102/156,,Mizue,,,
 133,Eevee,N,1,,,104/156,,Atsuko Nishida,,,7/20/2019
 133,Eevee,N,1,,,105/156,,Hideki Ishikawa,,,5/11/2019
 427,Buneary,N,1,,,106/156,,Kagemaru Himeno,,,6/15/2019
-479,Fan Rotom,N,3,Full,,110/156,,Masakazu Fukuda,,,6/15/2019
+479,Fan Rotom,N,3,Reverse,,110/156,,Masakazu Fukuda,,,6/15/2019
 765,Oranguru,N,2,,,114/156,,Kouki Saitoi,,,5/11/2019
 772,Type: Null,N,3,,,115/156,,match,,,5/11/2019
 T,Cynthia,Su,2,,,119/156,,Ken Sugimori,,,10/26/2019
