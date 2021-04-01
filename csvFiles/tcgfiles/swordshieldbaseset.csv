@@ -37,7 +37,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 596,Galvantula,El,2,,,71/202,,otumami,,,2/2/2020
 835,Yamper,El,1,,,74/202,,Saya Tsuruta,,,1/25/2020
 871,Pincurchin,El,1,,,77/202,,Akira Komayama,,,2/2/2020
-77,Galarian Ponyta,P,1,,,81/202,,Saya Tsuruta,,,1/25/2020
+77,Ponyta,P,1,,Galarian,81/202,,Saya Tsuruta,,,1/25/2020
 92,Gastly,P,1,,,83/202,,Taira Akitsu,,,1/25/2020
 93,Haunter,P,2,Reverse,,84/202,,HYOGONOSUKE,,,10/14/2020
 518,Musharna,P,3,,,88/202,,MAHOU,,,10/14/2020
@@ -55,16 +55,16 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 843,Silicobra,Fg,1,,,108/202,,Hitoshi Ariga,,,10/14/2020
 852,Clobbopus,Fg,1,,,111/202,,Mina Nakai,,,1/25/2020
 852,Clobbopus,Fg,1,,,112/202,,Akira Komayama,,,2/2/2020
-263,Galarian Zizagoon,D,1,,,117/202,,kirisAki,,,1/25/2020
-264,Galarian Linoone,D,2,,,118/202,,nagimiso,,,2/2/2020
-862,Galarian Obstagoon,D,3,,,119/202,,Kouki Saitou,,,2/2/2020
+263,Zizagoon,D,1,,Galarian,117/202,,kirisAki,,,1/25/2020
+264,Linoone,D,2,,Galarian,118/202,,nagimiso,,,2/2/2020
+862,Obstagoon,D,3,,Galarian,119/202,,Kouki Saitou,,,2/2/2020
 451,Skorupi,D,1,,,121/202,,sowsow,,,1/25/2020
 453,Croagunk,D,1,Reverse,,123/202,,otumami,,,1/25/2020
 827,Nickit,D,1,,,125/202,,kirisAki,,,10/14/2020
-52,Galarian Meowth,Sl,1,,,127/202,,kirisAki,,,1/25/2020
+52,Meowth,Sl,1,,Galarian,127/202,,kirisAki,,,1/25/2020
 303,Mawile,Sl,1,,,129/202,,AKIRA EGAWA,,,1/25/2020
 598,Ferrothorn,Sl,2,,,131/202,,Midori Harada,,,1/25/2020
-618,Galarian Stunfisk,Sl,2,,,132/202,,Kouki Saitou,,,1/25/2020
+618,Stunfisk,Sl,2,,Galarian,132/202,,Kouki Saitou,,,1/25/2020
 624,Pawniard,Sl,1,,,133/202,,Motofumi Fujiwara,,,1/25/2020
 625,Bisharp,Sl,2,,,134/202,,kawayoo,,,1/25/2020
 878,Cufant,Sl,1,,,136/202,,kirisAki,,,1/25/2020

@@ -19,9 +19,9 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 745,Lycanroc,Fg,3,Art,,030/073,,Ryota Fuse,,,9/24/2020
 837,Rolycoly,Fg,1,,,031/073,,Masokazu Fukuda,,,9/24/2020
 24,Arbok,D,2,,,034/073,,nagimiso,,,9/24/2020
-263,Galarian Zigzagoon,D,1,,,035/073,,Kouki Saitou,,,9/24/2020
-264,Galarian Linoone,D,1,,,036/073,,Akira Komayama,,,9/24/2020
-862,Galarian Zigzagoon,D,3,Art,,037/073,,Shin Nagasawa,,,9/24/2020
+263,Zigzagoon,D,1,,Galarian,035/073,,Kouki Saitou,,,9/24/2020
+264,Linoone,D,1,,Galarian,036/073,,Akira Komayama,,,9/24/2020
+862,Zigzagoon,D,3,Art,Galarian,037/073,,Shin Nagasawa,,,9/24/2020
 359,Absol,D,2,,,038/073,,kodama,,,9/24/2020
 510,Liepard,D,2,,,040/073,,Hasuno,,,9/24/2020
 559,Scraggy,D,1,,,041/073,,miki kudo,,,9/24/2020

@@ -20,14 +20,14 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 607,Litwick,F,1,,,31/192,,Sekio,,,5/16/2020
 608,Lampent,F,2,,,32/192,,Kyoko Umemoto,,,5/16/2020
 631,Heatmor,F,2,Reverse,,34/192,,Satoshi Shirai,,,4/25/2020
-122,Galarian Mr. Mime,W,1,,,37/192,,kirisAki,,,4/25/2020
+122,Mr. Mime,W,1,,Galarian,37/192,,kirisAki,,,4/25/2020
 129,Magikarp,W,1,,,39/192,,kanahei,,,4/25/2020
 278,Wingull,W,1,,,41/192,,0313,,,4/25/2020
 279,Pelipper,W,2,,,42/192,,Eri Yamaki,,,5/16/2020
 535,Tympole,W,1,,,44/192,,Aya Kusube,,,4/25/2020
 536,Palpitoad,W,2,,,45/192,,MAHOU,,,4/25/2020
 537,Seismitoad,W,3,Reverse,,46/192,,SATOSHI NAKAI,,,4/25/2020
-554,Galarian Darumaka,W,1,,,47/192,,Akira Komayama,,,4/25/2020
+554,Darumaka,W,1,,Galarian,47/192,,Akira Komayama,,,4/25/2020
 818,Inteleon VMax,W,5,Full,Full Art / Textured,50/192,,5ban Graphics,,,4/25/2020
 845,Cramorant,W,3,,,51/192,,Mitsuhiro Arita,,,4/25/2020
 875,Eiscue V,W,5,,,55/192,,PLANETA Tsuji,,,4/25/2020
@@ -43,7 +43,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 877,Morpeko,El,2,,,73/192,,Kouki Saitou,,,4/25/2020
 35,Clefairy,P,1,,,74/192,,sowsow,,,4/25/2020
 177,Natu,P,1,,,76/192,,Naoyo Kimura,,,4/25/2020
-222,Galarian Corsola,P,1,,,78/192,,Mitsuhiro Arita,,,4/25/2020
+222,Corsola,P,1,,Galarian,78/192,,Mitsuhiro Arita,,,4/25/2020
 561,Sigilyph,P,3,,,80/192,,Naoyo Kimura,,,5/16/2020
 769,Sandygast,P,1,,,81/192,,Yuka Morii,,,4/25/2020
 770,Palossand,P,2,,,82/192,,Hasuno,,,4/25/2020
@@ -55,14 +55,14 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 876,Indeedee,P,2,,,88/192,,Mizue,,,4/25/2020
 885,Dreepy,P,1,,,89/192,,Akira Komayama,,,4/25/2020
 887,Dragapult,P,3,Art,,91/192,,Shin Nagasawa,,,4/25/2020
-83,Galarian Farfetch'd,Fg,1,Reverse,,94/192,,Akira Komayama,,,4/25/2020
-865,Galarian Sirfetch'd,Fg,3,Reverse,,95/192,,You Iribi,,,5/16/2020
+83,Farfetch'd,Fg,1,Reverse,Galarian,94/192,,Akira Komayama,,,4/25/2020
+865,Sirfetch'd,Fg,3,Reverse,Galarian,95/192,,You Iribi,,,5/16/2020
 299,Nosepass,Fg,1,,,96/192,,Miki Tanaka,,,5/16/2020
 307,Meditite,Fg,1,,,97/192,,Yukiko Baba,,,4/25/2020
 308,Medicham,Fg,2,,,98/192,,Suwama Chiaki,,,5/16/2020
 339,Barboach,Fg,1,Reverse,,99/192,,Atsuko Nishida,,,5/16/2020
 340,Whiscash,Fg,3,,,100/192,,kawayoo,,,4/25/2020
-867,Galarian Runerigus,Fg,3,,,102/192,,TOKIYA,,,5/16/2020
+867,Runerigus,Fg,3,,Galarian,102/192,,TOKIYA,,,5/16/2020
 837,Rolycoly,Fg,1,,,105/192,,Misa Tsutsui,,,4/25/2020
 838,Carkoal,Fg,2,,,106/191,,Mitsuhiro Arita,,,4/25/2020
 839,Coalossal,Fg,3,Art,,107/192,,Shin Nagasawa,,,5/16/2020
@@ -78,7 +78,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 859,Impidimp,D,1,,,123/192,,Kouki Saitoi,,,4/25/2020
 860,Morgrem,D,2,,,124/192,,Hitosihi Ariga,,,4/25/2020
 861,Grimmsnarl,D,3,Art,,125/192,,nagimiso,,,4/25/2020
-863,Galarian Perrserker,Sl,3,Reverse,,127/192,,Naoki Saito,,,5/16/2020
+863,Perrserker,Sl,3,Reverse,Galarian,127/192,,Naoki Saito,,,5/16/2020
 436,Bronzor,Sl,1,,,129/192,,Midori Harada,,,4/25/2020
 632,Durant,Sl,2,Reverse,,132/192,,Hideki Ishikawa,,,5/16/2020
 679,Honedge,Sl,1,,,133/192,,Sekio,,,4/25/2020

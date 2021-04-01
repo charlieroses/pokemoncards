@@ -32,7 +32,7 @@ Pokedex,Pokemon,Type,HoloFoil,Promo Event,Other,Set No.,Set,Artist,Damaged,Price
 250,Ho-Oh BREAK,F,Full,BREAK Evolution Box: Ho-Oh and Lugia,Full Art / Horizontal,XY154,XY,5ban Graphics,,,
 323,M Camerupt EX,F,Full,Premium Trainers Collection,Full Art,XY198,XY,5ban Graphics,,,7/14/2019
 778,Mimikyu,P,Art,Mimikyu Pin Collection,,SM29,SM,Mitsuhiro Arita,,,
-52,Alolan Meowth,D,Art,Burning Shadows Three Pack Blisters,,SM43,SM,Megumi Mizutani,,,
+52,Meowth,D,Art,Burning Shadows Three Pack Blisters,Alolan,SM43,SM,Megumi Mizutani,,,
 786,Tapu Lele,P,Art,Celestial Storm Three Pack Blisters,,SM45,SM,You Iribi,,,
 785,Shiny Tapu Koko GX,El,Full,Shiny Tapu Koko GX Box,Full Art,SM50,SM,5ban Graphics,,,4/12/2019
 785,Shiny Tapu Koko GX,El,Full,Shiny Tapu Koko GX Box,Full Art / Mega Card,SM50,SM,5ban Graphics,,,4/12/2019
@@ -45,8 +45,8 @@ Pokedex,Pokemon,Type,HoloFoil,Promo Event,Other,Set No.,Set,Artist,Damaged,Price
 646,White Kyurem GX,Dr,Full,White Kyurem GX Box,Full Art / Textured / Mega Card,SM141,SM,5ban Graphics,,,1/5/2020
 646,Kyurem,Dr,Art,White Kyurem GX Box,,SM142,SM,5ban Graphics,,,1/5/2020
 25,Pikachu,El,Reverse,,,SM183,SM,Aya Kusube,,,8/6/2019
-105,Alolan Marowak GX,F,Full,Alolan Marowak GX Box,Full Art,SM187,SM,5ban Graphics,,,12/20/2019
-105,Alolan Marowak GX,F,Full,Alolan Marowak GX Box,Full Art / Mega Card,SM187,SM,5ban Graphics,,,
+105,Marowak GX,F,Full,Alolan Marowak GX Box,Full Art / Alolan,SM187,SM,5ban Graphics,,,12/20/2019
+105,Marowak GX,F,Full,Alolan Marowak GX Box,Full Art / Alolan / Mega Card,SM187,SM,5ban Graphics,,,
 25,Detective Pikachu,El,Reverse,Detective Pikachu Movie Theatre Release,,SM190,SM,Framestore,,,5/9/2019
 25,Detective Pikachu,El,Reverse,Detective Pikachu Special Case File,,SM194,SM,MPC Film,,,4/12/2019
 6,Charizard GX,F,Full,Detective Pikachu: Charizard GX Special Case File,Full Art,SM195,SM,Framestore,,,
@@ -74,7 +74,7 @@ Pokedex,Pokemon,Type,HoloFoil,Promo Event,Other,Set No.,Set,Artist,Damaged,Price
 6 & 654,Charizard & Braixen GX,F,Full,Tag Team Generations Premium Collection,Full Art / Textured,SM230,SM,Kagemaru Himeno,,,12/20/2019
 6 & 654,Charizard & Braixen GX,F,Full,Tag Team Generations Premium Collection,Full Art / Textured / Mega Card,SM230,SM,Kagemaru Himeno,,,12/20/2019
 873,Frosmoth,W,Art,Sword and Shield Base Set Pre-Release,,SWSH007,SWSH,kirisAki,,,1/25/2020
-863,Galarian Perrserker,Sl,Art,Sword and Shield Base Set Pre-Release,,SWSH008,SWSH,Akira Komayama,,,2/2/2020
+863,Perrserker,Sl,Art,Sword and Shield Base Set Pre-Release,Galarian,SWSH008,SWSH,Akira Komayama,,,2/2/2020
 815,Cinderace,F,Full,Cinderace Tin,,SWSH015,SWSH,5ban Graphics,,,10/18/2020
 405,Luxray,El,Art,Rebel Clash Pre-Release,,SWSH023,SWSH,Megumi Higuchi,,,4/25/2020
 839,Coalossal,Fg,Art,Rebel Clash Pre-Release,,SWSH024,SWSH,Kouki Saitou,,,4/25/2020
