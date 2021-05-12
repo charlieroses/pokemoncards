@@ -17,10 +17,11 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 38,Ninetales,F,3,,,25/192,,AKIRA EGAWA,,,5/16/2020
 58,Growlithe,F,1,,,27/192,,Ryota Murayama,,,4/25/2020
 126,Magmar,F,1,Reverse,,29/192,,Shigenori Negishi,,,4/25/2020
-607,Litwick,F,1,,,31/192,,Sekio,,,5/16/2020
+607,Litwick,F,1,Reverse,,31/192,,Sekio,,,5/11/2021
 608,Lampent,F,2,,,32/192,,Kyoko Umemoto,,,5/16/2020
 631,Heatmor,F,2,Reverse,,34/192,,Satoshi Shirai,,,4/25/2020
 122,Mr. Mime,W,1,,Galarian,37/192,,kirisAki,,,4/25/2020
+866,Mr. Rime,W,3,,Galarian,38/192,,Mitsuhiro Arita,,,5/11/2021
 129,Magikarp,W,1,,,39/192,,kanahei,,,4/25/2020
 278,Wingull,W,1,,,41/192,,0313,,,4/25/2020
 279,Pelipper,W,2,,,42/192,,Eri Yamaki,,,5/16/2020
@@ -30,6 +31,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 554,Darumaka,W,1,,Galarian,47/192,,Akira Komayama,,,4/25/2020
 818,Inteleon VMax,W,5,Full,Full Art / Textured,50/192,,5ban Graphics,,,4/25/2020
 845,Cramorant,W,3,,,51/192,,Mitsuhiro Arita,,,4/25/2020
+846,Arrokuda,W,1,,,52/192,,Mina Nakai,,,5/11/2021
 875,Eiscue V,W,5,,,55/192,,PLANETA Tsuji,,,4/25/2020
 100,Voltorb,El,1,,,56/192,,Hasegawa Saki,,,4/25/2020
 125,Electabuzz,El,1,,,58/192,,Midori Harada,,,4/25/2020
@@ -62,7 +64,9 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 308,Medicham,Fg,2,,,98/192,,Suwama Chiaki,,,5/16/2020
 339,Barboach,Fg,1,Reverse,,99/192,,Atsuko Nishida,,,5/16/2020
 340,Whiscash,Fg,3,,,100/192,,kawayoo,,,4/25/2020
+562,Yamask,Fg,1,,Galarian,101/192,,Akira Komayama,,,5/11/2021
 867,Runerigus,Fg,3,,Galarian,102/192,,TOKIYA,,,5/16/2020
+689,Barbaracle,Fg,3,Reverse,,104/192,,Anesaki Dynamic,,,5/11/2021
 837,Rolycoly,Fg,1,,,105/192,,Misa Tsutsui,,,4/25/2020
 838,Carkoal,Fg,2,,,106/191,,Mitsuhiro Arita,,,4/25/2020
 839,Coalossal,Fg,3,Art,,107/192,,Shin Nagasawa,,,5/16/2020
@@ -78,6 +82,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 859,Impidimp,D,1,,,123/192,,Kouki Saitoi,,,4/25/2020
 860,Morgrem,D,2,,,124/192,,Hitosihi Ariga,,,4/25/2020
 861,Grimmsnarl,D,3,Art,,125/192,,nagimiso,,,4/25/2020
+52,Meowth,Sl,1,,Galarian,126/192,,Misa Tsutsui,,,5/11/2021
 863,Perrserker,Sl,3,Reverse,Galarian,127/192,,Naoki Saito,,,5/16/2020
 436,Bronzor,Sl,1,,,129/192,,Midori Harada,,,4/25/2020
 632,Durant,Sl,2,Reverse,,132/192,,Hideki Ishikawa,,,5/16/2020
@@ -101,6 +106,7 @@ T,Full Heal,I,2,,,159/192,,Yoshinobu Saito,,,4/25/2020
 T,Milo,Su,2,,,161/192,,take,,,4/25/2020
 T,Nugget,I,2,,,162/192,,sadaji,,,5/16/2020
 T,Oleana,Su,2,,,163/192,,Yusuke Ohmura,,,4/25/2020
+T,Poke Ball,I,2,,,164/192,,Studio Bora Inc.,,,5/11/2021
 T,Sonia,Su,2,,,167/192,,Yusuke Ohmura,,,4/25/2020
 T,Tool Scrapper,I,2,,,168/192,,Studio Bora Inc.,,,4/25/2020
 T,Training Court,I,2,,,169/192,,5ban Graphics,,,5/16/2020
