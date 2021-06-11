@@ -6,7 +6,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 332,Cacturne,G,2,Reverse,,005/163,,Tomokazu Komiya,,,3/22/2021
 420,Cherubi,G,1,,,007/163,,Akira Komayama,,,3/22/2021
 455,Carnivine,G,2,,,009/163,,AKIRA EGAWA,,,3/22/2021
-632,Durant,G,2,,,010/163,,kodama,,,3/22/2021
+632,Durant,G,2,Reverse,,010/163,,kodama,,,6/10/2021
 664,Scatterbug,G,1,,,011/163,,Midori Harada,,,3/19/2021
 665,Spewpa,G,2,,,012/163,,Sumiyoshi Kizuki,,,3/19/2021
 666,Vivillon,G,3,,,013/163,,miki kudo,,,3/19/2021
@@ -66,8 +66,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 874,Stonjourner,Fg,3,,,084/163,,Masakazu Fukuda,,,3/22/2021
 41,Zubat,D,1,,,089/163,,Asako Ito,,,3/22/2021
 42,Golbat,D,2,Reverse,,090/163,,sui,,,3/22/2021
-80,Slowbro,D,3,Reverse,Galarian,092/163,,,5/11/2021
 169,Crobat,D,3,,,091/163,,SATOSHI NAKAI,,,3/22/2021
+80,Slowbro,D,3,Reverse,Galarian,092/163,,,5/11/2021
 198,Murkrow,D,1,Reverse,,093/163,,Aya Kusube,,,3/22/2021
 228,Houndour,D,1,,,095/163,,Sanosuke Sakuma,,,3/22/2021
 229,Houndoom,D,3,,,096/163,,Ryota Murayama,,,3/22/2021
@@ -97,6 +97,7 @@ T,Exp. Share,I,2,,,126/163,,Toyste Beach,,,3/19/2021
 T,Level Ball,I,2,,,129/163,,Ryo Ueda,,,3/19/2021
 T,Phoebe,Su,2,,,130/163,,GAME FREAK inc.,,,3/22/2021
 T,Mustard,Su,2,,Rapid Strike Style,132/163,,Naoki Saito,,,3/22/2021
+T,Mustard,Su,2,,Single Strike Style,134/163,,Mitsuhiro Arita,,,6/10/2021
 T,Scroll of Scorn,I,2,Reverse,Single Strike,133/163,,5ban Graphics,,,3/22/2021
 T,Sordward & Shielbart,Su,2,Reverse,,135/163,,Hideki Ishikawa,,,3/22/2021
 T,Tool Jammer,I,2,,,136/163,,inose yukie,,,3/19/2021
