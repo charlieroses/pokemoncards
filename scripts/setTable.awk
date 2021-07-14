@@ -25,6 +25,7 @@ BEGIN {
 	types["T"]  = "Trainer"
 	types["W"]  = "Water"
 
+	rarity[0] = "norarity.png"
 	rarity[1] = "common.png"
 	rarity[2] = "uncommon.png"
 	rarity[3] = "rare.png"
