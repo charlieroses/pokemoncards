@@ -71,9 +71,13 @@ do
 	echo "  Added to landing menu"
 
 	SET_TABLE=`awk -f scripts/setTable.awk ${TCG_SRC}/${SET_CSV}`
-	
-	HTML_CONTENT="<h2>${SET_NAME}</h2>"
-	HTML_CONTENT="${HTML_CONTENT}<img src=\"${SET_TITLEIMG}\"><br><hr>"
+
+	if [ -f "docs/${SET_TITLEIMG}" ]
+	then
+		HTML_CONTENT="<img src=\"${SET_TITLEIMG}\" id=\"set_title_img\"><br><hr>"
+	else
+		HTML_CONTENT="<h2 id=\"set_name\">${SET_NAME}</h2><hr>"
+	fi
 	HTML_CONTENT="${HTML_CONTENT}${SET_TABLE}"
 	
 
