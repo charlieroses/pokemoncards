@@ -1,11 +1,15 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
+13,Weedle,G,1,,,001/198,,Sanosuke Sakuma,,,7/15/2021
 14,Kakuna,G,2,,,002/198,,nogimiso,,,6/13/2021
+15,Beedrill,G,3,Reverse,,003/198,,Misa Tsutsui,,,7/15/2021
 165,Ledyba,G,1,,,004/198,,Naoyo Kimura,,,6/13/2021
 166,Ledian,G,2,,,005/198,,Sekio,,,6/13/2021
 214,Heracross,G,1,,,006/198,,Hasuno,,,6/13/2021
 459,Snover,G,1,Reverse,,009/198,,Naoki Saito,,,6/13/2021
 585,Deerling,G,1,Reverse,,011/198,,Lee HyunJung,,,6/13/2021
 761,Bounsweet,G,1,,,013/198,,MAHOU,,,6/13/2021
+762,Steenee,G,2,,,014/198,,Tomokazu Komiya,,,7/15/2021
+810,Grookey,G,1,,,016/198,,kodama,,,7/15/2021
 811,Thwackey,G,2,,,017/198,,Kouki Saitou,,,6/13/2021
 812,Rillaboom,G,3,Reverse,,018/198,,Hitoshi Ariga,,,6/13/2021
 351,Castform,F,1,,Sunny Form,022/198,,Yuka Morii,,,6/13/2021
@@ -15,45 +19,76 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 131,Lapras,W,1,,,029/198,,Atsushi Furusawa,,,6/13/2021
 215,Sneasel,W,1,,,030/198,,NC Empire,,,6/13/2021
 351,Castform,W,1,Reverse,Snowy Form,034/198,,miki kudo,,,6/13/2021
-478,Froslass,W,3,Art,,036/198,,Souichirou Gunjima,,,6/13/2021
+361,Snorunt,W,1,,,035/198,,Kouki Saitou,,,7/15/2021
+478,Froslass,W,3,Holo,,036/198,,Souichirou Gunjima,,,6/13/2021
 363,Spheal,W,1,,,037/198,,kirisAki,,,6/13/2021
 816,Sobble,W,1,,,041/198,,Yuu Nishida,,,6/13/2021
 817,Drizzile,W,2,,,042/198,,Mitsuhiro Arita,,,6/13/2021
 818,Inteleon,W,3,,,043/198,,NC Empire,,,6/13/2021
+179,Mareep,El,1,,,047/198,,Miki Tanaka,,,7/15/2021
 180,Flaaffy,El,2,,,048/198,,sui,,,6/13/2021
 522,Blitzle,El,1,,,050/198,,HYOGONOSUKE,,,6/13/2021
+79,Slowpoke,P,1,,Galarian,054/198,,Naoyo Kimura,,,7/15/2021
 92,Gastly,P,1,,,055/198,,Motofumi Fujiwara,,,6/13/2021
+94,Gengar,P,3,Reverse,,057/1988,,Aya Kusube,,,7/15/2021
 280,Ralts,P,1,,,059/198,,Narumi Sato,,,6/13/2021
 353,Shuppet,P,1,,,062/198,,OKACHEKE,,,6/13/2021
 354,Banette,P,3,,,063/198,,Megumi Higuchi,,,6/13/2021
+488,Cresselia,P,3,Reverse,,064/198,,Tika Matsumo,,,7/15/2021
 622,Golett,P,1,,,065/198,,0313,,,6/13/2021
+684,Swirlix,P,1,,,067/198,,Shibuzoh.,,,7/15/2021
 685,Slurpuff,P,3,,,068/198,,Saya Tsuruta,,,6/13/2021
-686,Inkay,P,1,,,069/198,,Sanosuka Sakuma,,,6/13/2021
+686,Inkay,P,1,Reverse,,069/198,,Sanosuka Sakuma,,,7/15/2021
 856,Hatenna,P,1,,,071/198,,Sekio,,,6/13/2021
 857,Hattrem,P,2,,,072/198,,miki kudo,,,6/13/2021
 50,Diglett,Fg,1,,,076/198,,Sanichirou Gunjima,,,6/13/2021
 51,Dugtrio,Fg,3,,,077/198,,Hitoshi Ariga,,,6/13/2021
 83,Farfetch'd,Fg,1,,Galarian,078/198,,HYOGONOSUKE,,,6/13/2021
+865,Sirfetch'd,Fg,3,Reverse,Galarian,079/198,,Uta,,,7/15/2021
+145,Zapdos,Fg,5,Full,Full Art / Galarian,080/198,,5ban Graphic,,,7/15/2021
+562,Yamask,Fg,1,,Galarian,082/198,,SATOSHI NAKAI,,,7/15/2021
 867,Runerigus,Fg,3,Reverse,Galarian,083/198,,KEICHIRO ITO,,,6/13/2021
 740,Crabominable,Fg,2,,,085/198,,Shigenori Negishi,,,6/13/2021
 744,Rockruff,Fg,1,,,086/198,,Yuu Nishida,,,6/13/2021
+745,Lycanroc,Fg,3,Holo,,087/198,,Teeziro,,,7/15/2021
 766,Passimian,Fg,3,Reverse,,088/198,,Akira Komayama,,,6/13/2021
-891,Kubfu,Fg,1,,,093/198,,Kouki Saitou,,,6/13/2021
+852,Clobbopus,Fg,1,Reverse,,091/198,,Yuka Morii,,,7/15/2021
+891,Kubfu,Fg,1,,,093/198,,Kouki Saitou,,,6/13/20211
+109,Koffing,D,1,,,094/198,,Aya Kusube,,,7/15/2021
 110,Weezing,D,3,,,095/198,,Ryuta Fusa,,,6/13/2021
+110,Weezing,D,3,,Galarian,096/198,,Miki Tanaka,,,7/15/2021
 211,Qwilfish,D,1,,,101/198,,Anesaki Dynamic,,,6/13/2021
 543,Venipede,D,1,,,105/198,,Oswaldo KATO,,,6/13/2021
+544,Whirlipede,D,2,,,106/198,,hatachu,,,7/15/2021
 304,Aron,Sl,1,,,109/198,,Kyoko Umemoto,,,6/13/2021
+305,Lairon,Sl,2,,,110/198,,HYOGONOSUKE,,,7/15/2021
+137,Porygon,N,1,,,116/198,,ryoma uratsuka,,,7/15/2021
 233,Porygon2,N,2,Reverse,,117/198,,Nagomi Nijo,,,6/13/2021
 335,Zangoose,N,3,,,120/198,,Anesaki Dynamic,,,6/13/2021
+351,Castform,N,1,,,121/198,,Asuko ito,,,7/25/2021
 819,Skwovet,N,1,,,127/198,,OKACHEKE,,,6/13/2021
+T,Agatha,Su,2,Reverse,,129/198,,Ken Sugimori,,,7/15/2021
 T,Avery,Su,2,,,130/198,,Ken Sugimori,,,6/13/2021
+T,Caitlin,Su,2,,,132/198,,Sanosuke Sakuma,,,7/15/2021
+T,Crushing Gloves,I,2,,,133/198,,Toyste Beach,,,7/15/2021
+T,Dyna Tree Hill,S,2,,,135/198,,Oswaldo KATO,,,7/15/2021
 T,Echoing Horn,I,2,,,136/198,,Studio Bora Inc.,,,6/13/2021
+T,Expedition Uniform,I,2,,,137/198,,AYUMI ODASHIMA,,,7/15/2021
 T,Fire-Resistant Gloves,I,2,,,138/198,,Toyste Beach,,,6/13/2021
 T,Flannery,Su,2,,,139/198,,Megumi Mizutani,,,6/13/2021
+T,Fog Crystal,I,2,Reverse,,140/198,,sodaji,,,7/15/2021
+T,Chestplate,I,2,,Galarian,141/198,,inose yukie,,,7/15/2021
 T,Honey,Su,2,,,142/198,,Ryuta Fuse,,,6/13/2021
 T,Karen's Conviction,Su,2,,,144/198,,Ken Sugimori,,,6/13/2021
+T,Melony,Su,2,,,146/198,,take,,,7/15/2021
 T,Old Cemetery,S,2,,,147/198,,Oswaldo KATO,,,6/13/2021
+T,Path to the Peak,S,2,,,148/198,,Oswaldo KATO,,,7/15/2021
+T,Peonia,Su,2,,,149/198,,kirisAki,,,7/15/2021
+T,Peony,Su,2,,,150/198,,Ken Sugimori,,,7/15/2021
+T,Siebold,Su,2,,,153/198,,Ken Sugimori,,,7/15/2021
 T,Scroll of Piercing,I,2,,Single Strike,154/198,,5ban Graphics,,,6/13/2021
 T,Impact Energy,N,2,,,157/198,,,,,6/13/2021
+T,Lucky Energy,N,2,,,158/198,,,,,7/15/2021
 T,Spiral Energy,N,2,,,159/198,,,,,6/13/2021
+T,Fan of Waves,I,5,Full,Full Art / Textured / Golden,226/198,,sadahi,,,7/15/2021
 T,Fog Crystal,I,5,Full,Full Art / Textured / Golden,227/198,,sadaji,,,6/13/2021
