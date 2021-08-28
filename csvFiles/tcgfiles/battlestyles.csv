@@ -1,7 +1,7 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
 69,Bellsprout,G,1,,,001/163,,Sekio,,,3/19/2021
 70,Weepinbell,G,2,,,002/163,,Shibuzoh.,,,3/22/2021
-71,Victreebell,G,3,,,003/163,,Tika Matsuno,,,3/19/2021
+71,Victreebell,G,3,Reverse,,003/163,,Tika Matsuno,,,8/7/2021
 331,Cacnea,G,1,Reverse,,004/163,,Kazuma Koda,,,3/19/2021
 332,Cacturne,G,2,Reverse,,005/163,,Tomokazu Komiya,,,3/22/2021
 420,Cherubi,G,1,,,007/163,,Akira Komayama,,,3/22/2021
@@ -72,8 +72,10 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 228,Houndour,D,1,,,095/163,,Sanosuke Sakuma,,,3/22/2021
 229,Houndoom,D,3,,,096/163,,Ryota Murayama,,,3/22/2021
 877,Morpeko,D,2,,,098/163,,NC Empire,,,3/19/2021
+208,Steelix,Sl,3,Holo,,099/163,,NC Empire,,,8/7/2021
 303,Mawile,Sl,1,Reverse,,100/163,,kawayoo,,,3/19/2021
 436,Bronzor,Sl,1,,,101/163,,Mizue,,,3/19/2021
+437,Bronzong,Sl,3,Reverse,,102/163,,Hasuno,,,8/7/2021
 624,Pawniard,Sl,1,Reverse,,103/163,,otumami,,,3/22/2021
 625,Bisharp,Sl,2,Reverse,,104/163,,tetsuya koizumi,,,3/22/2021
 679,Honedge,Sl,1,,,105/163,,sowsow,,,3/19/2021

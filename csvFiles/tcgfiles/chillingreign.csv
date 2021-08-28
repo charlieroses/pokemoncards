@@ -16,6 +16,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 636,Larvesta,F,1,,,023/198,,Misa Tsutsui,,,6/13/2021
 637,Volcarona,F,3,,,024/198,,Mika Pikazo,,,6/13/2021
 813,Scorbunny,F,1,,,026/198,,tetsuya koizumi,,,6/13/2021
+815,Cinderace,F,3,Holo,,028/198,,Ryuta Fuse,,,8/7/2021
 131,Lapras,W,1,,,029/198,,Atsushi Furusawa,,,6/13/2021
 215,Sneasel,W,1,,,030/198,,NC Empire,,,6/13/2021
 351,Castform,W,1,Reverse,Snowy Form,034/198,,miki kudo,,,6/13/2021
@@ -25,13 +26,15 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 816,Sobble,W,1,,,041/198,,Yuu Nishida,,,6/13/2021
 817,Drizzile,W,2,,,042/198,,Mitsuhiro Arita,,,6/13/2021
 818,Inteleon,W,3,,,043/198,,NC Empire,,,6/13/2021
-179,Mareep,El,1,,,047/198,,Miki Tanaka,,,7/15/2021
+179,Mareep,El,1,Reverse,,047/198,,Miki Tanaka,,,8/7/2021
 180,Flaaffy,El,2,,,048/198,,sui,,,6/13/2021
 522,Blitzle,El,1,,,050/198,,HYOGONOSUKE,,,6/13/2021
+807,Zeraora V,El,5,Full,Full Art,053/198,,chibi,,,8/7/2021
 79,Slowpoke,P,1,,Galarian,054/198,,Naoyo Kimura,,,7/15/2021
 92,Gastly,P,1,,,055/198,,Motofumi Fujiwara,,,6/13/2021
 94,Gengar,P,3,Reverse,,057/1988,,Aya Kusube,,,7/15/2021
 280,Ralts,P,1,,,059/198,,Narumi Sato,,,6/13/2021
+281,Kirlia,P,2,,,060/198,,0313,,,8/7/2021
 353,Shuppet,P,1,,,062/198,,OKACHEKE,,,6/13/2021
 354,Banette,P,3,,,063/198,,Megumi Higuchi,,,6/13/2021
 488,Cresselia,P,3,Reverse,,064/198,,Tika Matsumo,,,7/15/2021
@@ -46,6 +49,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 83,Farfetch'd,Fg,1,,Galarian,078/198,,HYOGONOSUKE,,,6/13/2021
 865,Sirfetch'd,Fg,3,Reverse,Galarian,079/198,,Uta,,,7/15/2021
 145,Zapdos,Fg,5,Full,Full Art / Galarian,080/198,,5ban Graphic,,,7/15/2021
+475,Gallade,Fg,3,,,081/198,,NC Empire,,,8/7/2021
 562,Yamask,Fg,1,,Galarian,082/198,,SATOSHI NAKAI,,,7/15/2021
 867,Runerigus,Fg,3,Reverse,Galarian,083/198,,KEICHIRO ITO,,,6/13/2021
 740,Crabominable,Fg,2,,,085/198,,Shigenori Negishi,,,6/13/2021
@@ -62,6 +66,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 544,Whirlipede,D,2,,,106/198,,hatachu,,,7/15/2021
 304,Aron,Sl,1,,,109/198,,Kyoko Umemoto,,,6/13/2021
 305,Lairon,Sl,2,,,110/198,,HYOGONOSUKE,,,7/15/2021
+306,Aggron,Sl,3,Reverse,,111/198,,Teeziro,,,8/7/2021
 137,Porygon,N,1,,,116/198,,ryoma uratsuka,,,7/15/2021
 233,Porygon2,N,2,Reverse,,117/198,,Nagomi Nijo,,,6/13/2021
 335,Zangoose,N,3,,,120/198,,Anesaki Dynamic,,,6/13/2021
@@ -85,6 +90,7 @@ T,Old Cemetery,S,2,,,147/198,,Oswaldo KATO,,,6/13/2021
 T,Path to the Peak,S,2,,,148/198,,Oswaldo KATO,,,7/15/2021
 T,Peonia,Su,2,,,149/198,,kirisAki,,,7/15/2021
 T,Peony,Su,2,,,150/198,,Ken Sugimori,,,7/15/2021
+T,Scroll of the Skies,I,2,,Rapid Strike,5ban Graphics,,,8/7/2021
 T,Siebold,Su,2,,,153/198,,Ken Sugimori,,,7/15/2021
 T,Scroll of Piercing,I,2,,Single Strike,154/198,,5ban Graphics,,,6/13/2021
 T,Impact Energy,N,2,,,157/198,,,,,6/13/2021

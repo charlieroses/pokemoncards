@@ -23,7 +23,7 @@ BEGIN {
 }
 
 NR > 1{
-	num_td  = "<td class=\"setnum\">" $7 "</td>"
+	num_td  = "<td class=\"setnum\">" $8 $7 "</td>"
 	pkmn_td = "<td class=\"name\">" $2 "</td>"
 	holo_td = "<td class=\"holofoil\">" $4 "</td>"
 	src_td  = "<td class=\"source\">" $5 "</td>"
