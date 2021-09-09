@@ -24,5 +24,5 @@ This is a reminder for me because I will forget what I need to do in the future.
 Most, if not all images were gotten from 
 [Bulbapedia, the community-driven Pokémon encyclopedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page "Bulbapedia Homepage").
 Any images recieved from other locations or created by me have been marked.
-I am not affiliated with the Pokemon Company in any way. The own the rights to all
+I am not affiliated with the Pokemon Company in any way. They own the rights to all
 of the characters and images used.
