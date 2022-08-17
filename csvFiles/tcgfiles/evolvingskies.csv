@@ -51,8 +51,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 670,Floette,P,2,,,072/203,,chibi,,,8/25/2021
 671,Florges,P,3,Holo,,073/203,,Kagemaru Himeno,,,8/25/2021
 710,Pumpkaboo,P,1,,,076/203,,Yuka Morii,,,8/25/2021
-711,Gourgeist,P,3,,,077/203,,Megumi Higuchi,,,8/31/2021
-742,Cutiefly,P,1,,,078/203,,Yukiko Baba,,,8/25/2021
+711,Gourgeist,P,3,Reverse Holo,,077/203,,Megumi Higuchi,,,8/4/2022
+742,Cutiefly,P,1,Reverse,,078/203,,Yukiko Baba,,,8/14/2022
 107,Hitmonchan,Fg,1,,,081/203,,Uta,,,8/25/2021
 449,Hippopotas,Fg,1,Reverse,,084/203,,Yuya Oka,,,8/25/2021
 450,Hippowdon,Fg,2,Reverse,,085/203,,Eri Yamaki,,,8/25/2021
@@ -81,6 +81,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 780,Drampa,Dr,3,,,119/203,,Tomokazu Komiya,,,8/25/2021
 841,Flapple,Dr,3,Reverse,,120/203,,Anesaki Dynamic,,,8/25/2021
 842,Appletun,Dr,3,Reverse,,121/203,,Yuya Oka,,,8/25/2021
+895,Regidrago,Dr,3,Holo,,124/203,,Kouki Saitou,,,8/14/2022
 133,Eevee,N,1,,,125/203,,Atushi Furusawa,,,8/25/2021
 216,Teddiursa,N,1,,,126/203,,Mizue,,,8/25/2021
 217,Ursaring,N,2,,,127/203,,Hasegawa Saki,,,8/25/2021
@@ -101,6 +102,7 @@ T,Aroma Lady,Su,2,,,141/203,,Megumi Mizutani,,,8/31/2021
 T,Boost Shake,I,2,,,142/203,,sodaji,,,8/25/2021
 T,Copycat,Su,2,Reverse,,143/203,,Sanosuke Sakuma,,,8/25/2021
 T,Crystal Cave,S,2,,,144/203,,Toyste Beach,,,8/25/2021
+T,Digging Gloves,I,2,,,145/203,,Toyste Beach,,,8/4/2021
 T,Dream Ball,I,2,,,146/203,,Ryo Ueda,,,8/31/2021
 T,Elemental Badge,I,2,,,147/203,,Studio Bora Inc.,,,8/25/2021
 T,Full Face Guard,I,2,,,148/203,,AYUMI ODASHIMA,,,8/25/2021
@@ -112,7 +114,7 @@ T,Scroll of the Flying Dragon,I,2,Reverse,Rapid Strike,153/203,,5ban Graphics,,,
 T,Rescue Carrier,I,2,,,154/203,,Ryo Ueda,,,8/25/2021
 T,Ribbon Badge,I,2,,,155/203,,Studio Bora Inc.,,,8/25/2021
 T,Rubber Gloves,I,2,,,156/203,,Toyste Beach,,,8/25/2021
-T,Shopping Center,S,2,,,157/203,,Oswaldo KATO,,,8/25/2021
+T,Shopping Center,S,2,Reverse,,157/203,,Oswaldo KATO,,,8/14/2022
 T,Scroll of the Fanged Dragon,I,2,,Single Strike,158/203,,5ban Graphics,,,8/25/2021
 T,Snow Leaf Badge,I,2,,,159/203,,Studio Bora Inc.,,,8/25/2021
 T,Spirit Mask,I,2,,,160/203,,AYUMI ODASHIMA,,,8/25/2021

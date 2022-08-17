@@ -14,7 +14,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 824,Blipbug,G,1,,,017/163,,Masokazu Fukuda,,,3/19/2021
 498,Tepig,F,1,,,023/163,,You Iribi,,,3/19/2021
 499,Pignite,F,2,,,024/163,,tetsuya koizumi,,,3/19/2021
-500,Emboar,F,3,Art,,025/163,,Anesaki Dynamic,,,3/19/2021
+500,Emboar,F,3,Holo,,025/163,,Anesaki Dynamic,,,3/19/2021
+500,Emboar,F,3,Reverse,,025/163,,Anesaki Dynamic,,,8/14/2022
 631,Heatmor,F,2,,,026/163,,Miki Tanaka,,,3/22/2021
 757,Salandit,F,1,,,027/163,,Yuka Morii,,,3/19/2021
 758,Salazzle,F,3,Reverse,,028/163,,Shibuzoh.,,,3/19/2021
@@ -35,7 +36,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 403,Shinx,El,1,Reverse,,046/163,,sowsow,,,4/4/2021
 404,Luxio,El,2,Reverse,,047/163,,Megumi Higuchi,,,4/4/2021
 405,Luxray,El,3,Reverse,,048/163,,Kazuma Koda,,,4/4/2021
-405,Luxray,El,3,Art,,048/163,,Kazuma Koda,,,4/4/2021
+405,Luxray,El,3,Holo,,048/163,,Kazuma Koda,,,4/4/2021
 417,Pachirisu,El,1,,,049/163,,Naoyo Kimura,,,3/22/2021
 785,Tapu Koko VMax,El,5,Full,Full Art / Textured,051/163,,PLANETA Tsuji,,,3/19/2021
 835,Yamper,El,1,Reverse,,052/163,,sui,,,3/19/2021
@@ -46,7 +47,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 344,Claydol,P,3,,,058/163,,Shibuzoh.,,,3/22/2021
 358,Chimecho,P,1,,,059/163,,Shibuzoh.,,,3/22/2021
 677,Espurr,P,1,,,060/163,,Saya Tsuruta,,,3/19/2021
-678,Meowstic,P,3,Art,,061/163,,Yuu Nishida,,,3/22/2021
+678,Meowstic,P,3,Holo,,061/163,,Yuu Nishida,,,3/22/2021
+778,Mimikyu V,P,3,Full,Full Art,062/163,,Eske Yoshinob,,,8/14/2022
 825,Dottler,P,2,Reverse,,064/163,,Midori Harada,,,3/19/2021
 56,Mankey,Fg,1,,,066/163,,Ryuta Fuse,,,3/19/2021
 57,Primeape,Fg,3,Reverse,,067/163,,Kouki Saitou,,,3/22/2021
@@ -59,7 +61,8 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 619,Mienfoo,Fg,1,,,076/163,,NC Empire,,,3/19/2021
 837,Rolycoly,Fg,1,,,078/163,,SATOSHI NAKAI,,,3/19/2021
 838,Carkoal,Fg,2,,,079/163,,Uta,,,3/19/2021
-839,Coalossal,Fg,3,Art,,080/163,,AKIRA EGAWA,,,3/22/2021
+839,Coalossal,Fg,3,Holo,,080/163,,AKIRA EGAWA,,,3/22/2021
+839,Coalossal,Fg,3,Reverse,,080/163,,AKIRA EGAWA,,,8/14/2022
 843,Silicobra,Fg,1,,,081/163,,Atsuko Nishida,,,3/22/2021
 844,Sandaconda,Fg,3,Reverse,,082/163,,hatachu,,,3/22/2021
 870,Falinks,Fg,3,,,083/163,,Hasuno,,,3/19/2021
@@ -69,12 +72,14 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 169,Crobat,D,3,,,091/163,,SATOSHI NAKAI,,,3/22/2021
 80,Slowbro,D,3,Reverse,Galarian,092/163,,,5/11/2021
 198,Murkrow,D,1,Reverse,,093/163,,Aya Kusube,,,3/22/2021
+430,Honchkrow,D,2,,,094/163,,Miki Tanaka,,,8/14/2022
 228,Houndour,D,1,,,095/163,,Sanosuke Sakuma,,,3/22/2021
 229,Houndoom,D,3,,,096/163,,Ryota Murayama,,,3/22/2021
 877,Morpeko,D,2,,,098/163,,NC Empire,,,3/19/2021
 208,Steelix,Sl,3,Holo,,099/163,,NC Empire,,,8/7/2021
 303,Mawile,Sl,1,Reverse,,100/163,,kawayoo,,,3/19/2021
 436,Bronzor,Sl,1,,,101/163,,Mizue,,,3/19/2021
+437,Bronzong,Sl,3,Holo,,102/163,,Hasuno,,,8/14/2022
 437,Bronzong,Sl,3,Reverse,,102/163,,Hasuno,,,8/7/2021
 624,Pawniard,Sl,1,Reverse,,103/163,,otumami,,,3/22/2021
 625,Bisharp,Sl,2,Reverse,,104/163,,tetsuya koizumi,,,3/22/2021
@@ -96,6 +101,7 @@ T,Cheryl,Su,2,,,123/163,,Ken Sugimori,,,3/22/2021
 T,Energy Recycler,I,2,,,124/163,,Toyste Beach,,,3/22/2021
 T,Escape Rope,I,2,,,125/163,,sadaji,,,3/22/2021
 T,Exp. Share,I,2,,,126/163,,Toyste Beach,,,3/19/2021
+T,Fan of Waves,I,2,,,127/163,,sodaji,,,8/14/2022
 T,Korrina's Focus,Su,2,,,128/198,,kirisAki,,,6/13/2021
 T,Level Ball,I,2,,,129/163,,Ryo Ueda,,,3/19/2021
 T,Phoebe,Su,2,,,130/163,,GAME FREAK inc.,,,3/22/2021
@@ -105,7 +111,7 @@ T,Mustard,Su,2,,Single Strike Style,134/163,,Mitsuhiro Arita,,,6/10/2021
 T,Sordward & Shielbart,Su,2,Reverse,,135/163,,Hideki Ishikawa,,,3/22/2021
 T,Tool Jammer,I,2,,,136/163,,inose yukie,,,3/19/2021
 T,Tower of Darkness,S,2,,,137/163,,5ban Graphics,,,3/22/2021
-T,Tower of Water,S,2,,,138/163,,5ban Graphics,,,3/22/2021
+T,Tower of Waters,S,2,,,138/163,,5ban Graphics,,,3/22/2021
 T,Urn of Vitality,I,2,,,139/163,,Toyste Beach,,,3/22/2021
 T,Rapid Strike Energy,Fg,2,,,140/163,,,,,3/19/2021
 T,Single Strike Energy,Fg,2,,,141/163,,,,,3/19/2021

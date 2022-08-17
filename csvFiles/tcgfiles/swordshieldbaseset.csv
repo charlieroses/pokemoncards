@@ -19,11 +19,13 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 814,Raboot,F,2,,,32/202,,Mizue,,,2/2/2020
 814,Raboot,F,2,,,33/202,,kirisAki,,,1/25/2020
 850,Sizzlipede,F,1,,,37/202,,Akira Komayama,,,1/25/2020
+851,Centiskorch,F,3,,,39/202,,Anesaki Dynamic,,,8/14/2022
 91,Cloyster,W,3,Reverse,,41/202,,MAHOU,,,2/2/2020
-98,Krabby,W,1,,,42/202,,ryoma uratsuka,,,1/25/2020
+98,Krabby,W,1,Reverse,,42/202,,ryoma uratsuka,,,8/14/2022
 98,Krabby,W,1,,,43/202,,miki kudo,,,1/25/2020
 99,Kingler,W,2,,,44/202,,tetsuya koizumi,,,5/11/2021
 118,Goldeen,W,1,,,45/202,,Suwama Chiaki,,,1/25/2020
+119,Seaking,W,2,,,47/202,,Shibuzoh.,,,8/14/2022
 226,Mantine,W,2,,,52/202,,Jumpei Akasaka,,,2/2/2020
 816,Sobble,W,1,,,54/202,,Megumi Mizutani,,,2/2/2020
 816,Sobble,W,1,,,55/202,,Hitoshi Ariga,,,1/25/2020
@@ -50,6 +52,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 855,Polteageist,P,2,Reverse,,90/202,,Shin Nagasawa,,,1/25/2020
 50,Diglett,Fg,1,Reverse,,92/202,,Hasegawa Saki,,,2/2/2020
 106,Hitmonlee,Fg,2,,,94/202,,Shigenori Negishi,,,1/25/2020
+107,Hitmonchan,Fg,2,,,95/202,,Shigenori Negishi,,,8/14/2022
 111,Rhyhorn,Fg,1,,,97/202,,sui,,,1/25/2020
 343,Baltoy,Fg,1,Reverse,,101/202,,Uta,,,1/25/2020
 343,Baltoy,Fg,1,,,102/202,,Miki Tanaka,,,2/2/2020
@@ -60,7 +63,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 843,Silicobra,Fg,1,,,108/202,,Hitoshi Ariga,,,10/14/2020
 852,Clobbopus,Fg,1,,,111/202,,Mina Nakai,,,1/25/2020
 852,Clobbopus,Fg,1,,,112/202,,Akira Komayama,,,2/2/2020
-874,Stonjourner,FG,3,,,114/202,,Shin Nagasawa,,,5/11/2021
+874,Stonjourner,Fg,3,,,114/202,,Shin Nagasawa,,,5/11/2021
 263,Zizagoon,D,1,,Galarian,117/202,,kirisAki,,,1/25/2020
 264,Linoone,D,2,,Galarian,118/202,,nagimiso,,,2/2/2020
 862,Obstagoon,D,3,,Galarian,119/202,,Kouki Saitou,,,2/2/2020
@@ -77,6 +80,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 879,Copperajah,Sl,3,Art,,137/202,,Hitoshi Ariga,,,1/25/2020
 143,Snorlax,N,3,,,140/202,,chibi,,,1/25/2020
 143,Snorlax V,N,5,Full,Full Art,141/202,,Masakazu Fukuda,,,1/25/2020
+143,Snorlax VMax,N,5,Full,Full Art / Jumbo, 142/202,,aky CG Works,,,8/22/2022
 163,Hoothoot,N,1,,,143/202,,Yumi,,,1/25/2020
 164,Noctowl,N,3,,,144/202,,kawayoo,,,1/25/2020
 572,Minccino,N,1,,,145/202,,Sekio,,,2/2/2020
@@ -85,6 +89,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 780,Drampa,N,3,,,149/202,,tetsuya koizumi,,,2/2/2020
 821,Rookidee,N,1,,,150/202,,Akira Komayama,,,1/25/2020
 822,Corvisquire,N,2,,,151/202,,Anesaki Dynamic,,,1/25/2020
+831,Wooloo,N,1,,,152/202,,Mitsuhiro Arita,,,8/14/2022
 831,Wooloo,N,1,,,153/202,,Mizue,,,2/2/2020
 T,Crushing Hammer,I,2,,,159/202,,sodaji,,,1/25/2020
 T,Energy Switch,I,2,,,162/202,,Toyste Beach,,,2/2/2020
@@ -98,6 +103,7 @@ T,Metal Saucer,I,2,,,170/202,,Toyste Beach,,,1/25/2020
 T,Poke Kid,Su,2,Reverse,,173/202,,Hitoshi Ariga,,,2/2/2020
 T,Pokegear 3.0,I,2,,,174/202,,Ryo Ueda,,,2/2/2020
 T,Pokemon Catcher,I,2,,,175/202,,Ryo Ueda,,,2/2/2020
+T,Pokemon Center Lady,Su,2,,,176/202,,kirisAki,,,8/14/2022
 T,Professor's Research,Su,2,,Professor Magnolia,178/202,,Yusuke Ohmura,,,1/25/2020
 T,Quick Ball,I,2,Reverse,,179/202,,sodaji,,,1/25/2020
 T,Rare Candy,I,2,,,180/202,,Yoshinobu Saito,,,10/14/2020

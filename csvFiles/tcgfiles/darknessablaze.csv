@@ -9,43 +9,57 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 617,Accelgor,G,3,,,010/189,,Shigenori Negishi,,,8/20/2020
 722,Rowlet,G,1,,,011/189,,HYOGONOSUKE,,,7/22/2020
 723,Dartrix,G,2,,,012/189,,Mitsuhiro Arita,,,7/22/2020
+724,Decidueye,G,3,Holo,,013/189,,Ryota Murayama,,,8/14/2022
 761,Bounsweet,G,1,,,014/189,,Yuka Morii,,,7/22/2020
 762,Steenee,G,2,,,015/189,,sui,,,7/22/2020
 763,Tsareena,G,3,,,016/189,,so-taro,,,7/22/2020
+767,Wimpod,G,1,Reverse,,017/189,,MAHOU,,,8/14/2022
 6,Charizard V,F,5,Full,Full Art,019/189,,oky CG Works,,,5/11/2021
 6,Charizard VMax,F,5,Full,Full Art / Textured,020/189,,oky CG Works,,,7/22/2020
 229,Houndoom V,F,5,Full,Full Art,021/189,,Ayaka Yoshida,,,7/22/2020
 255,Torchic,F,1,,,022/189,,Yuka Morii,,,7/22/2020
-256,Combusken,F,2,,,023/189,,kodama,,,7/22/2020
+256,Combusken,F,2,Reverse,,023/189,,kodama,,,7/22/2022
 513,Pansear,F,1,,,026/189,,Megumi Mizutani,,,8/20/2020
 514,Simisear,F,2,,,027/189,,0313,,,7/22/2020
+555,Darmanitan,F,3,,,028/189,,Misa Tsutsui,,,8/14/2022
 636,Larvesta,F,1,,,029/189,,Uta,,,7/22/2020
+637,Volcarona,F,3,,,030/189,,NC Empire,,,8/14/2022
 662,Fletchinder,F,2,,,031/189,,Mitsuhiro Arita,,,7/22/2020
 663,Talonflame,F,3,Reverse,,032/189,,kawayoo,,,7/22/2020
 851,Centiskorch V,F,5,Full,Full Art,033/189,,5ban Graphics,,,7/22/2020
 122,Mr. Mime,W,1,Reverse,Galarian,035/189,,Misa Tsutsui,,,8/20/2020
 349,Feebas,W,1,,,038/189,,HYOGONOSUKE,,,8/20/2020
+369,Relicanth,W,2,,,040/189,,MAHOU,,,8/14/2022
 515,Panpour,W,1,,,041/189,,ryoma uratsuka,,,7/22/2020
-516,Simisage,W,2,,,042/189,,Shigenori Negishi,,,5/11/2021
+516,Simipour,W,2,Reverse,,042/189,,Shigenori Negishi,,,8/14/2022
 554,Darumaka,W,1,,Galarian,043/189,,Shin Nagasawa,,,7/22/2020
 555,Darmanitan,W,3,Reverse,Galarian,044/189,,Masakazu Fukuda,,,7/22/2020
 582,Vanillite,W,1,,,045/189,,Sanosuke Sakuma,,,7/22/2020
 583,Vanillish,W,2,,,046/189,,Shibuzoh.,,,7/22/2020
 584,Vanilluxe,W,3,,,047/189,,kodama,,,7/22/2020
+613,Cubchoo,W,1,,,048/189,,Saya Tsuruta,,,8/14/2022
 614,Beartic,W,3,,,049/189,,Masakazu Fukuda,,,8/20/2020
 746,Wishiwashi,W,1,Reverse,,050/189,,sui,,,5/11/2021
 747,Mareanie,W,1,,,051/189,,Tomokazu Komiya,,,8/20/2020
+748,Toxapex,W,2,,,052/189,,Masakazu Fukuda,,,8/14/2022
+179,Mareep,El,1,,,055/189,,sowsow,,,8/14/2022
 180,Flaaffy,El,2,,,056/189,,Tomokazu Komiya,,,7/22/2020
+181,Ampharos,El,3,,,057/189,,kodama,,,8/14/2022
 309,Electrike,El,1,,,058/189,,Yumi,,,7/22/2020
 310,Manectric,El,3,Reverse,,059/189,,nogimiso,,,8/20/2020
+738,Vikavolt V,El,5,Full,Full Art,060/189,,Ayaka Yoshida,,,8/14/2022
 484,Toxel,El,1,,,062/189,,Akira Komayama,,,5/11/2021
 849,Toxtricity,El,3,Art,,063/189,,Shin Nagasawa,,,7/22/2020
 880,Dracozolt,El,3,,,065/189,,Misa Tsutsui,,,8/20/2020
 881,Arctozolt,El,3,Reverse,,066/189,,Hitoshi Ariga,,,5/11/2021
 39,Jigglypuff,P,1,,,067/189,,Motofumi Fujiwara,,,7/22/2020
+40,Wigglytuff,P,3,,,068/189,,Lee HyunJung,,,8/14/2022
+209,Snubbull,P,1,,,070/189,,otumami,,,8/14/2022
 337,Lunatone,P,2,Reverse,,072/189,,Miki Tanaka,,,5/11/2021
-574,Gothita,P,1,,,073/189,,Mizue,,,8/7/2021
+574,Gothita,P,1,Reverse,,073/189,,Mizue,,,8/14/2021
+576,Gothitelle,P,3,Reverse,,075/189,,Eri Yamaki,,,8/14/2022
 622,Golett,P,1,Reverse,,076/189,,Ryuta Fuse,,,8/20/2020
+702,Dedenne,P,2,,,078/189,,Shibuzoh.,,,8/14/2022
 755,Morelull,P,1,,,079/189,,Suwama Chiaki,,,8/20/2020
 756,Shiinotic,P,2,Reverse,,080/189,,Misa Tsutsui,,,7/22/2020
 778,Mimikyu,P,3,,,081/189,,Ryota Murayama,,,7/22/2020
@@ -55,6 +69,7 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 246,Larvitar,Fg,1,,,086/189,,Sanosuke Sakuma,,,8/20/2020
 247,Pupitar,Fg,2,Reverse,,087/189,,Sekio,,,8/20/2020
 328,Trapinch,Fg,1,,,089/189,,Asako Ito,,,7/22/2020
+329,Vibrava,Fg,2,Reverse,,090/189,,Sumiyoshi Kizuki,,,8/14/2022
 338,Solrock,Fg,2,,,092/189,,Miki Tanaka,,,8/20/2020
 449,Hippopotas,Fg,1,,,093/189,,Shin Nagasawa,,,7/22/2020
 766,Passimian,Fg,1,,,097/189,,SATOSHI NAKAI,,,8/7/2021
@@ -68,18 +83,21 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 827,Nickit,D,1,,,112/189,,Misa Tsutsui,,,8/7/2021
 828,Thievul,D,3,Reverse,,113/189,,Akira Komayama,,,7/22/2020
 829,Grimmsnarl V,D,5,Full,Full Art,114/189,,5ban Graphics,,,8/20/2020
-227,Skarmory,Sl,1,,,120/189,,NC Empire,,,8/20/2020
+227,Skarmory,Sl,1,Reverse,,120/189,,NC Empire,,,8/14/2022
+304,Aron,Sl,1,,,121/189,,Naoyo Kimura,,,8/14/2022
 305,Lairon,Sl,2,,,122/189,,Mizue,,,7/22/2020
+306,Aggron,Sl,3,Holo,,123/189,,Hasuno,,,8/14/2022
 599,Klink,Sl,1,,,125/189,,Kouki Saitou,,,8/20/2020
 600,Klang,Sl,2,,,126/189,,MC Empire,,,8/7/2021
 601,Klinklang,Sl,3,Reverse,,127/189,,Naoki Saito,,,8/20/2020
 808,Meltan,Sl,1,,,129/189,,HYOGONOSUKE,,,8/20/2020
 115,Kangaskhan,N,3,,,133/189,,kawayoo,,,7/22/2020
+128,Tauros,N,1,,,134/189,,Anesaki Dynamic,,,8/14/2022
 161,Sentret,N,1,,,135/189,,Mina Nakai,,,7/22/2020
 162,Furret,N,2,,,136/189,,tetsuya koizumi,,,7/22/2020
 206,Dunsparce,N,1,Reverse,,137/189,,Kazuma Koda,,,8/20/2020
 216,Teddiursa,N,1,Reverse,,138/189,,Yukiko Baba,,,8/20/2020
-217,Ursaring,N,2,,,139/189,,Uta,,,7/22/2020
+217,Ursaring,N,2,Reverse,,139/189,,Uta,,,8/14/2022
 249,Lugia,N,3,,,140/189,,Hasuno,,,8/20/2020
 300,Skitty,N,1,,,141/189,,Saya Tsuruta,,,7/22/2020
 373,Salamence V,N,5,Full,Full Art,143/189,,Saki Hayashiro,,,8/7/2021
@@ -93,14 +111,19 @@ Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Pri
 819,Skwovet,N,1,,,152/189,,Akira Komayama,,,7/22/2020
 820,Greedent,N,3,,,153/189,,Kouki Saitou,,,8/20/2020
 821,Rookidee,N,1,,,154/189,,Hitoshi Ariga,,,7/22/2020
+822,Corvisquire,N,2,,,155/189,,kirisAki,,,8/14/2022
+823,Corviknight,N,3,Holo,,156/189,,Kouki Saitoi,,,8/14/2022
+T,Big Parasol,I,2,Reverse,,157/189,,Toyste Beach,,,8/14/2022
 T,Billowing Smoke,I,2,,,158/189,,5ban Graphics,,,5/11/2021
 T,Bird Keeper,Su,2,,,159/189,,Hideki Ishikawa,,,7/22/2020
 T,Cape of Toughness,I,2,,,160/189,,inose yukie,,,8/20/2020
 T,Glimwood Tangle,S,2,,,162/189,,oky CG Works,,,7/22/2020
 T,Old PC,I,2,,,164/189,,Studio Bora Inc.,,,7/22/2020
+T,Piers,Su,2,,,165/189,,take,,,8/14/2022
 T,Pokemon Breeder's Nuturing,Su,2,,,166/189,,kirisAki,,,7/22/2020
 T,Rare Fossil,I,2,,,167/189,,5ban Graphics,,,7/22/2020
 T,Rose,Su,2,,,168/189,,Yusuke Ohmura,,,5/11/2021
+T,Rose Tower,S,2,Reverse,,169/189,,5ban Graphics,,,8/14/2022
 T,Turbo Patch,I,2,,,172/189,,Toyste Beach,,,8/20/2020
 T,Yell Horn,I,2,Reverse,,173/189,,5ban Graphics,,,7/22/2020
 T,Heat Energy,F,2,,,174/189,,,,,7/22/2020
