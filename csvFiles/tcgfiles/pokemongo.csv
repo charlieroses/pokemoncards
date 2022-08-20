@@ -1,29 +1,58 @@
 Pokedex,Pokemon,Type,Rarity,HoloFoil,Rarity Extra,Set No.,Set,Artist,Damaged,Price,Date
 1,Bulbasaur,G,1,,,001/078,,sowsow,,,7/28/2022
+2,Ivysaur,G,2,,,002/078,,zig,,,8/19/2022
+3,Venusaur,G,3,Holo,,003/078,,KEIICHIRO ITO,,,8/19/2022
 3,Radiant Venusaur,G,5,Reverse,,004/078,,Misa Tsutsui,,,7/28/2022
+167,Spinarak,G,1,,,006/078,,Yuka Morii,,,8/19/2022
 168,Ariados,G,2,,,007/078,,Misa Tsutsui,,,7/28/2022
 4,Charmander,F,1,,,008/078,,saino misaki,,,7/28/2022
 5,Charmeleon,F,2,,,009/078,,Shiburingaru,,,7/28/2022
+146,Moltres,F,3,Holo,,012/078,,Pani Kobayashi,,,8/19/2022
+146,Moltres,F,3,Reverse,,012/078,,Pani Kobayashi,,,8/19/2022
 322,Numel,F,1,,,013/078,,Shibuzoh.,,,7/28/2022
+322,Numel,F,1,Reverse,Secret Ditto,013/078,,Shibuzoh.,,,8/19/2022
 323,Camerupt,F,2,,,014/078,,yuu,,,7/28/2022
 7,Squirtle,W,1,,,015/078,,sowsow,,,7/28/2022
+8,Wartortle,W,2,,,016/078,,kurumitsu,,,8/19/2022
+9,Blastoise,W,3,Holo,,017/078,,NC Empire,,,8/19/2022
+79,Slowpoke,W,1,,,018/078,,N-DESIGN Inc.,,,8/19/2022
 80,Slowbro,W,2,,,020/078,,Misa Nakai,,,7/28/2022
 129,Magikarp,W,1,,,021/078,,N-DESIGN Inc.,,,7/28/2022
 144,Articuno,W,3,Holo,,024/078,,Jira Sasumo,,,7/28/2022
+767,Wimpod,W,1,,,025/078,,Miki Tanaka,,,8/19/2022
 25,Pikachu,El,1,,,027/078,,N-DESIGN Inc.,,,7/28/2022
+25,Pikachu,El,3,Holo,,028/078,,Narumi Sato,,,8/19/2022
+178,Xatu,P,2,Reverse,,033/078,,Hataya,,,8/19/2022
 337,Lunatone,P,2,,,034/078,,miki kudo,,,7/28/2022
+95,Onix,Fg,1,,,036/078,,Mitsuhiro Arita,,,8/19/2022
+246,Larvitar,Fg,1,,,037/078,,sui,,,8/19/2022
 247,Pupitar,Fg,2,,,038/078,,Sumiyoshi Kizuki,,,7/28/2022
+338,Solrock,Fg,2,,,039/078,,Sekio,,,8/19/2022
 534,Conkeldurr V,Fg,5,Full,Full Art,040/078,,Ayaka Yoshida,,,7/28/2022
-19,Alolan Rattata,D,1,,,041/078,,KIYOTAKA OSHIYAMA,,,7/28/2022
+19,Alolan Rattata,D,1,Reverse,,041/078,,KIYOTAKA OSHIYAMA,,,8/19/2022
 20,Alolan Raticate,D,1,,,042/078,,Atsuko Nishida,,,7/28/2022
+248,Tyranitar,D,3,Reverse,,043/078,,Nisota Niso,,,8/19/2022
 208,Steelix,Sl,2,Reverse,,044/078,,GOSSAN,,,7/28/2022
 808,Meltan,Sl,1,,,045/078,,Sumiyoshi Kizuki,,,7/28/2022
 809,Melmetal,Sl,3,Reverse,,046/078,,Shigenori Negishi,,,7/28/2022
+809,Melmetal,Sl,3,Holo,,046/078,,Shigenori Negishi,,,8/19/2022
+809,Melmetal V,Sl,5,Full,Full Art,047/078,,sodaji,,,8/19/2022
+149,Dragonite V,Dr,5,Full,Full Art,049/078,,kawayoo,,,8/19/2022
 149,Dragonite VStar,Dr,5,Full,Full Art,050/078,,PLANETA Tsuji,,,7/28/2022
 112,Chansey,N,2,,,051/078,,ryoma uratska,,,7/28/2022
+132,Ditto,N,3,Art,,053/078,,Misa Tsutsui,,,8/19/2022
 133,Eevee,N,1,,,054/078,,N-DESIGN Inc.,,,7/28/2022
+143,Snorlax,N,3,Reverse,,055/078,,N-DESIGN Inc.,,,8/19/2022
 190,Aipom,N,1,Reverse,,056/078,,Sanosuka Sakuma,,,7/28/2022
+399,Bidoof,N,1,,,059/078,,Tomokazu Komiya,,,8/19/2022
+399,Bidoof,N,1,Reverse,Secret Ditto,059/078,,Tomokazu Komiya,,,8/19/2022
 400,Bibarel,N,1,,,060/078,,KIYOTAKA OSHIYAMA,,,7/28/2022
+519,Pidove,N,1,,,061/078,,N-DESIGN Inc.,,,8/19/2022
 520,Tranquill,N,1,,,062/078,,0313,,,7/28/2022
-T,Blanche,Su,2,,,064/078,,Anesaki Dynamic,,,7/28/2022
+521,Unfezant,N,2,,,063/078,,GIDORA,,,8/19/2022
+T,Blanche,Su,2,Reverse,,064/078,,Anesaki Dynamic,,,8/19/2022
 T,Candela,Su,2,,,065/078,,Ryuts Fuse,,,7/28/2022
+T,Egg Incubator,I,2,Reverse,,066/078,,sodaji,,,8/19/2022
+T,Lure Module,I,2,,,067/078,,ORBITALLINK Inc.,,,8/19/2022
+T,Rare Candy,I,2,,,069/078,,Ayaka Yoshida,,,8/19/2022
+T,Spark,Su,2,,,070/078,,Naoki Saitou,,,8/19/2022
