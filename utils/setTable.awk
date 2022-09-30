@@ -1,5 +1,7 @@
 BEGIN {
-	FS=","
+	FS="\t"
+	SETSIZE=ARGV[2]
+	ARGC=2
 	
 	types["D"]  = "Dark"
 	types["Dr"] = "Dragon" 
@@ -38,11 +40,11 @@ BEGIN {
 }
 
 NR > 1{
-	num_td  = "<td class=\"setnum\">" $7 "</td>"
+	num_td  = "<td class=\"setnum\">" $7 "/" SETSIZE "</td>"
 	pkmn_td = "<td class=\"name\">" $2 "</td>"
 	holo_td = "<td class=\"holofoil\">" $5 "</td>"
 	info_td = "<td class=\"extrainfo\">" gensub("/", "<br>", "g", $6) "</td>"
-	art_td  = "<td class=\"artist\">" $9 "</td>"
+	art_td  = "<td class=\"artist\">" $8 "</td>"
 
 	# Do the rarity
 	if( $4 < 7 ) {
